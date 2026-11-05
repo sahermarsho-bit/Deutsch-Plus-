@@ -1,0 +1,6002 @@
+[
+  {
+    "de": "der Vermieter",
+    "ar": "مؤجّر",
+    "en": "landlord",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Vermieterin",
+    "ar": "مؤجّرة",
+    "en": "landlady",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Mieter",
+    "ar": "مستأجر",
+    "en": "tenant",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Mieterin",
+    "ar": "مستأجرة",
+    "en": "female tenant",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Wohngemeinschaft",
+    "ar": "سكن مشترك",
+    "en": "shared flat",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Wohnheim",
+    "ar": "سكن جماعي للطلاب أو العاملين",
+    "en": "residence hall",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Studentenwohnheim",
+    "ar": "سكن طلابي",
+    "en": "student residence",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Einfamilienhaus",
+    "ar": "منزل لعائلة واحدة",
+    "en": "detached family house",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Mehrfamilienhaus",
+    "ar": "مبنى لعدة عائلات",
+    "en": "apartment building",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Reihenhaus",
+    "ar": "منزل متصل بمنازل أخرى",
+    "en": "terraced house",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Altbauwohnung",
+    "ar": "شقة في مبنى قديم",
+    "en": "flat in an old building",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Neubau",
+    "ar": "مبنى جديد",
+    "en": "new building",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Erdgeschoss",
+    "ar": "الطابق الأرضي",
+    "en": "ground floor",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Stock",
+    "ar": "طابق",
+    "en": "floor; storey",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Stockwerk",
+    "ar": "طابق في مبنى",
+    "en": "storey",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Obergeschoss",
+    "ar": "طابق علوي",
+    "en": "upper floor",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Dachgeschoss",
+    "ar": "الطابق تحت السقف",
+    "en": "attic floor",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Hinterhof",
+    "ar": "فناء خلفي",
+    "en": "back courtyard",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Innenhof",
+    "ar": "فناء داخلي",
+    "en": "inner courtyard",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Treppenhaus",
+    "ar": "بيت الدرج",
+    "en": "stairwell",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Haustür",
+    "ar": "باب المبنى",
+    "en": "front door",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Wohnungstür",
+    "ar": "باب الشقة",
+    "en": "apartment door",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Türklingel",
+    "ar": "جرس الباب",
+    "en": "doorbell",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Fußmatte",
+    "ar": "حصيرة الباب",
+    "en": "doormat",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Türgriff",
+    "ar": "مقبض الباب",
+    "en": "door handle",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Schlüsselloch",
+    "ar": "ثقب المفتاح",
+    "en": "keyhole",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Fensterbank",
+    "ar": "عتبة النافذة",
+    "en": "windowsill",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Jalousie",
+    "ar": "ستارة شرائح",
+    "en": "window blind",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Rollladen",
+    "ar": "مصراع نافذة قابل للّف",
+    "en": "roller shutter",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Gardine",
+    "ar": "ستارة خفيفة",
+    "en": "net curtain",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Tapete",
+    "ar": "ورق جدران",
+    "en": "wallpaper",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Fliese",
+    "ar": "بلاطة",
+    "en": "tile",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Parkett",
+    "ar": "أرضية خشبية",
+    "en": "parquet floor",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Zentralheizung",
+    "ar": "تدفئة مركزية",
+    "en": "central heating",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Heizkörper",
+    "ar": "مشعّ تدفئة",
+    "en": "radiator",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Klimaanlage",
+    "ar": "مكيّف هواء",
+    "en": "air conditioning",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Ventilator",
+    "ar": "مروحة",
+    "en": "fan",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Nebenkosten",
+    "ar": "تكاليف إضافية للسكن",
+    "en": "additional housing costs",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Kaution",
+    "ar": "تأمين مالي مسترد",
+    "en": "security deposit",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Warmmiete",
+    "ar": "إيجار شامل التدفئة وبعض الخدمات",
+    "en": "rent including heating and service charges",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Kaltmiete",
+    "ar": "إيجار أساسي دون الخدمات",
+    "en": "basic rent excluding service charges",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Mietvertrag",
+    "ar": "عقد إيجار",
+    "en": "rental agreement",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Wohnfläche",
+    "ar": "مساحة السكن",
+    "en": "living space",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Quadratmeter",
+    "ar": "متر مربع",
+    "en": "square metre",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Wohnungsanzeige",
+    "ar": "إعلان شقة",
+    "en": "housing advertisement",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Wohnungsbesichtigung",
+    "ar": "معاينة شقة",
+    "en": "flat viewing",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Mitbewohner",
+    "ar": "شريك السكن",
+    "en": "male flatmate",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Mitbewohnerin",
+    "ar": "شريكة السكن",
+    "en": "female flatmate",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Nachbarschaft",
+    "ar": "الجيران؛ الحي",
+    "en": "neighbourhood",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Hausordnung",
+    "ar": "قواعد المبنى",
+    "en": "house rules",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Ruhezeit",
+    "ar": "وقت الهدوء",
+    "en": "quiet hours",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Reparatur",
+    "ar": "إصلاح",
+    "en": "repair",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Schaden",
+    "ar": "ضرر",
+    "en": "damage",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Wasserhahn",
+    "ar": "صنبور الماء",
+    "en": "tap; faucet",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Waschbecken",
+    "ar": "مغسلة",
+    "en": "washbasin",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Badewanne",
+    "ar": "حوض استحمام",
+    "en": "bathtub",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Duschvorhang",
+    "ar": "ستارة الدش",
+    "en": "shower curtain",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Abfluss",
+    "ar": "مصرف المياه",
+    "en": "drain",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Rohr",
+    "ar": "أنبوب",
+    "en": "pipe",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Spüle",
+    "ar": "حوض المطبخ",
+    "en": "kitchen sink",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Arbeitsplatte",
+    "ar": "سطح العمل في المطبخ",
+    "en": "worktop",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Backofen",
+    "ar": "فرن خبز",
+    "en": "oven",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Backblech",
+    "ar": "صينية الفرن",
+    "en": "baking tray",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Wasserkocher",
+    "ar": "غلاية كهربائية",
+    "en": "electric kettle",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Toaster",
+    "ar": "محمصة خبز",
+    "en": "toaster",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Kaffeemaschine",
+    "ar": "آلة قهوة",
+    "en": "coffee machine",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Mixer",
+    "ar": "خلاط",
+    "en": "blender",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Dosenöffner",
+    "ar": "فتّاحة علب",
+    "en": "tin opener",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Flaschenöffner",
+    "ar": "فتّاحة زجاجات",
+    "en": "bottle opener",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Schneidebrett",
+    "ar": "لوح تقطيع",
+    "en": "chopping board",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Geschirrtuch",
+    "ar": "منشفة أطباق",
+    "en": "tea towel",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Spülmittel",
+    "ar": "سائل غسل الأطباق",
+    "en": "washing-up liquid",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Waschmittel",
+    "ar": "مسحوق أو سائل غسيل",
+    "en": "laundry detergent",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Schwamm",
+    "ar": "إسفنجة",
+    "en": "sponge",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Putzlappen",
+    "ar": "قطعة قماش للتنظيف",
+    "en": "cleaning cloth",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Wischmopp",
+    "ar": "ممسحة أرض",
+    "en": "mop",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Bügeleisen",
+    "ar": "مكواة",
+    "en": "iron",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Bügelbrett",
+    "ar": "لوح الكي",
+    "en": "ironing board",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Wäscheständer",
+    "ar": "منشر غسيل",
+    "en": "drying rack",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Wäscheklammer",
+    "ar": "مشبك غسيل",
+    "en": "clothes peg",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Wäschekorb",
+    "ar": "سلة غسيل",
+    "en": "laundry basket",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Wäsche",
+    "ar": "غسيل؛ ملابس مغسولة",
+    "en": "laundry",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Trockner",
+    "ar": "مجفف ملابس",
+    "en": "tumble dryer",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Fernbedienung",
+    "ar": "جهاز تحكم عن بعد",
+    "en": "remote control",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Verlängerungskabel",
+    "ar": "سلك تمديد كهربائي",
+    "en": "extension lead",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Glühbirne",
+    "ar": "مصباح كهربائي",
+    "en": "light bulb",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Taschenlampe",
+    "ar": "مصباح يدوي",
+    "en": "torch; flashlight",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "das Werkzeug",
+    "ar": "أداة؛ أدوات العمل",
+    "en": "tool; tools",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Hammer",
+    "ar": "مطرقة",
+    "en": "hammer",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Nagel",
+    "ar": "مسمار؛ ظفر",
+    "en": "nail",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Schraube",
+    "ar": "برغي",
+    "en": "screw",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Schraubenzieher",
+    "ar": "مفك براغي",
+    "en": "screwdriver",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Zange",
+    "ar": "كماشة",
+    "en": "pliers",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Leiter",
+    "ar": "سلّم متنقل",
+    "en": "ladder",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Bohrmaschine",
+    "ar": "مثقاب كهربائي",
+    "en": "electric drill",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Kommode",
+    "ar": "خزانة أدراج",
+    "en": "chest of drawers",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Schublade",
+    "ar": "درج للأغراض",
+    "en": "drawer",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Matratze",
+    "ar": "مرتبة",
+    "en": "mattress",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "der Kleiderbügel",
+    "ar": "علّاقة ملابس",
+    "en": "clothes hanger",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Vase",
+    "ar": "مزهرية",
+    "en": "vase",
+    "topic": "السكن والحياة المنزلية"
+  },
+  {
+    "de": "die Mahlzeit",
+    "ar": "وجبة",
+    "en": "meal",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Vorspeise",
+    "ar": "مقبّلات",
+    "en": "starter",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Hauptgericht",
+    "ar": "طبق رئيسي",
+    "en": "main course",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Nachspeise",
+    "ar": "تحلية",
+    "en": "dessert",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Nachtisch",
+    "ar": "حلو بعد الطعام",
+    "en": "dessert",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Beilage",
+    "ar": "طبق جانبي",
+    "en": "side dish",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Tagesgericht",
+    "ar": "طبق اليوم",
+    "en": "dish of the day",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Menü",
+    "ar": "وجبة من عدة أطباق",
+    "en": "set menu",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Büfett",
+    "ar": "بوفيه",
+    "en": "buffet",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Kantine",
+    "ar": "مطعم العمل أو المدرسة",
+    "en": "canteen",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Mensa",
+    "ar": "مطعم الجامعة",
+    "en": "university cafeteria",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Imbiss",
+    "ar": "وجبة خفيفة؛ محل وجبات سريعة",
+    "en": "snack; snack bar",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Lieferservice",
+    "ar": "خدمة توصيل",
+    "en": "delivery service",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Lieferung",
+    "ar": "توصيل؛ شحنة",
+    "en": "delivery",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Tischreservierung",
+    "ar": "حجز طاولة",
+    "en": "table reservation",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Gedeck",
+    "ar": "أدوات المائدة لشخص",
+    "en": "place setting",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Tischdecke",
+    "ar": "مفرش مائدة",
+    "en": "tablecloth",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Tablett",
+    "ar": "صينية تقديم",
+    "en": "tray",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Untertasse",
+    "ar": "صحن الفنجان",
+    "en": "saucer",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Teekanne",
+    "ar": "إبريق شاي",
+    "en": "teapot",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Kanne",
+    "ar": "إبريق",
+    "en": "jug; pot",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Thermoskanne",
+    "ar": "قارورة عازلة للحرارة",
+    "en": "thermos flask",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Strohhalm",
+    "ar": "قشّة شرب",
+    "en": "drinking straw",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Speise",
+    "ar": "طبق طعام",
+    "en": "dish",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Zutat",
+    "ar": "مكوّن طبخ",
+    "en": "ingredient",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Menge",
+    "ar": "كمية",
+    "en": "quantity",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Scheibe",
+    "ar": "شريحة",
+    "en": "slice",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Teelöffel",
+    "ar": "ملعقة صغيرة",
+    "en": "teaspoon",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Esslöffel",
+    "ar": "ملعقة كبيرة",
+    "en": "tablespoon",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Prise",
+    "ar": "رَشّة صغيرة",
+    "en": "pinch",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Teig",
+    "ar": "عجين",
+    "en": "dough",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Hefe",
+    "ar": "خميرة",
+    "en": "yeast",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Backpulver",
+    "ar": "مسحوق الخَبز",
+    "en": "baking powder",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Vanille",
+    "ar": "فانيليا",
+    "en": "vanilla",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Zimt",
+    "ar": "قرفة",
+    "en": "cinnamon",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Petersilie",
+    "ar": "بقدونس",
+    "en": "parsley",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Basilikum",
+    "ar": "ريحان",
+    "en": "basil",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Minze",
+    "ar": "نعناع",
+    "en": "mint",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Ingwer",
+    "ar": "زنجبيل",
+    "en": "ginger",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Kümmel",
+    "ar": "كراوية",
+    "en": "caraway",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Chilischote",
+    "ar": "فلفل حار",
+    "en": "chilli pepper",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Linse",
+    "ar": "عدس؛ عدسة",
+    "en": "lentil; lens",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Kichererbse",
+    "ar": "حبّة حمص",
+    "en": "chickpea",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Lauch",
+    "ar": "كرّاث",
+    "en": "leek",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Sellerie",
+    "ar": "كرفس",
+    "en": "celery",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Kürbis",
+    "ar": "يقطين",
+    "en": "pumpkin",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Radieschen",
+    "ar": "فجل صغير",
+    "en": "radish",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Rettich",
+    "ar": "فجل",
+    "en": "radish",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Rosenkohl",
+    "ar": "ملفوف بروكسل",
+    "en": "Brussels sprout",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Rotkohl",
+    "ar": "ملفوف أحمر",
+    "en": "red cabbage",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Sauerkraut",
+    "ar": "ملفوف مخلل",
+    "en": "sauerkraut",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Spargel",
+    "ar": "هليون",
+    "en": "asparagus",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Süßkartoffel",
+    "ar": "بطاطا حلوة",
+    "en": "sweet potato",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Avocado",
+    "ar": "أفوكادو",
+    "en": "avocado",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Pflaume",
+    "ar": "برقوق",
+    "en": "plum",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Himbeere",
+    "ar": "توت العليق",
+    "en": "raspberry",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Brombeere",
+    "ar": "توت أسود",
+    "en": "blackberry",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Blaubeere",
+    "ar": "توت أزرق",
+    "en": "blueberry",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Johannisbeere",
+    "ar": "كشمش",
+    "en": "currant",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Grapefruit",
+    "ar": "جريب فروت",
+    "en": "grapefruit",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Feige",
+    "ar": "تين",
+    "en": "fig",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Granatapfel",
+    "ar": "رمان",
+    "en": "pomegranate",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Kokosnuss",
+    "ar": "جوز الهند",
+    "en": "coconut",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Rosine",
+    "ar": "زبيب",
+    "en": "raisin",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Erdnuss",
+    "ar": "فول سوداني",
+    "en": "peanut",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Walnuss",
+    "ar": "جوز",
+    "en": "walnut",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Haselnuss",
+    "ar": "بندق",
+    "en": "hazelnut",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Pistazie",
+    "ar": "فستق حلبي",
+    "en": "pistachio",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Lachs",
+    "ar": "سلمون",
+    "en": "salmon",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Thunfisch",
+    "ar": "تونة",
+    "en": "tuna",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Garnele",
+    "ar": "روبيان",
+    "en": "prawn; shrimp",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Lammfleisch",
+    "ar": "لحم غنم صغير",
+    "en": "lamb",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Schweinefleisch",
+    "ar": "لحم خنزير",
+    "en": "pork",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Hackfleisch",
+    "ar": "لحم مفروم",
+    "en": "minced meat",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Kalbfleisch",
+    "ar": "لحم عجل",
+    "en": "veal",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Putenfleisch",
+    "ar": "لحم ديك رومي",
+    "en": "turkey meat",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Steak",
+    "ar": "شريحة لحم",
+    "en": "steak",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Schnitzel",
+    "ar": "شريحة لحم رقيقة غالبًا مغطاة بالبقسماط",
+    "en": "schnitzel",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Frikadelle",
+    "ar": "قرص لحم مفروم",
+    "en": "meat patty",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Bratwurst",
+    "ar": "سجق للشواء",
+    "en": "grilling sausage",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Würstchen",
+    "ar": "قطعة سجق صغيرة",
+    "en": "small sausage",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Döner",
+    "ar": "دونر؛ لحم مشوي في خبز",
+    "en": "doner kebab",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Vollkornbrot",
+    "ar": "خبز الحبوب الكاملة",
+    "en": "wholemeal bread",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Weißbrot",
+    "ar": "خبز أبيض",
+    "en": "white bread",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Toastbrot",
+    "ar": "خبز توست",
+    "en": "toast bread",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Brezel",
+    "ar": "خبز بريتسل",
+    "en": "pretzel",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Croissant",
+    "ar": "كرواسون",
+    "en": "croissant",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Pfannkuchen",
+    "ar": "فطيرة رقيقة",
+    "en": "pancake",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Müsli",
+    "ar": "خليط حبوب للإفطار",
+    "en": "muesli",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Haferflocken",
+    "ar": "رقائق الشوفان",
+    "en": "oats",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Quark",
+    "ar": "جبن طازج طري",
+    "en": "quark; fresh curd cheese",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Frischkäse",
+    "ar": "جبن كريمي",
+    "en": "cream cheese",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Hüttenkäse",
+    "ar": "جبن قريش",
+    "en": "cottage cheese",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Margarine",
+    "ar": "زبدة نباتية",
+    "en": "margarine",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Senf",
+    "ar": "خردل",
+    "en": "mustard",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Ketchup",
+    "ar": "كاتشب",
+    "en": "ketchup",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Mayonnaise",
+    "ar": "مايونيز",
+    "en": "mayonnaise",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "das Tomatenmark",
+    "ar": "معجون طماطم",
+    "en": "tomato paste",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Brühe",
+    "ar": "مرق",
+    "en": "broth",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Laktose",
+    "ar": "سكر الحليب",
+    "en": "lactose",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "die Allergie",
+    "ar": "حساسية",
+    "en": "allergy",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Vegetarier",
+    "ar": "شخص نباتي",
+    "en": "vegetarian",
+    "topic": "الطعام والمطعم"
+  },
+  {
+    "de": "der Arbeitsplatz",
+    "ar": "مكان العمل",
+    "en": "workplace",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Arbeitsvertrag",
+    "ar": "عقد عمل",
+    "en": "employment contract",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Arbeitszeit",
+    "ar": "ساعات العمل",
+    "en": "working hours",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Teilzeit",
+    "ar": "دوام جزئي",
+    "en": "part-time work",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Vollzeit",
+    "ar": "دوام كامل",
+    "en": "full-time work",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Schicht",
+    "ar": "نوبة عمل",
+    "en": "shift",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Frühschicht",
+    "ar": "نوبة صباحية",
+    "en": "early shift",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Spätschicht",
+    "ar": "نوبة مسائية",
+    "en": "late shift",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Nachtschicht",
+    "ar": "نوبة ليلية",
+    "en": "night shift",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Überstunde",
+    "ar": "ساعة عمل إضافية",
+    "en": "overtime hour",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Arbeitstag",
+    "ar": "يوم عمل",
+    "en": "working day",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Werktag",
+    "ar": "يوم عمل عادي",
+    "en": "weekday; working day",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Urlaubstag",
+    "ar": "يوم إجازة",
+    "en": "day of leave",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Mittagspause",
+    "ar": "استراحة الغداء",
+    "en": "lunch break",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Stundenlohn",
+    "ar": "أجر الساعة",
+    "en": "hourly wage",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Mindestlohn",
+    "ar": "حد أدنى للأجور",
+    "en": "minimum wage",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Lohnerhöhung",
+    "ar": "زيادة في الأجر",
+    "en": "pay rise",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Gehaltserhöhung",
+    "ar": "زيادة في الراتب",
+    "en": "salary increase",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Abrechnung",
+    "ar": "كشف حساب أو تسوية",
+    "en": "statement; settlement",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Lohnabrechnung",
+    "ar": "قسيمة راتب",
+    "en": "payslip",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Arbeitgeber",
+    "ar": "صاحب العمل",
+    "en": "employer",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Arbeitnehmer",
+    "ar": "موظف بأجر",
+    "en": "employee",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Arbeitnehmerin",
+    "ar": "موظفة بأجر",
+    "en": "female employee",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Abteilung",
+    "ar": "قسم في مؤسسة",
+    "en": "department",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Team",
+    "ar": "فريق",
+    "en": "team",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Teamarbeit",
+    "ar": "عمل جماعي",
+    "en": "teamwork",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Leiter",
+    "ar": "مسؤول؛ قائد",
+    "en": "head; leader",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Leiterin",
+    "ar": "مسؤولة؛ قائدة",
+    "en": "female head",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Betrieb",
+    "ar": "منشأة عمل",
+    "en": "business; company",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Betriebsferien",
+    "ar": "إجازة تغلق خلالها الشركة",
+    "en": "company holiday closure",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Berufserfahrung",
+    "ar": "خبرة مهنية",
+    "en": "work experience",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Praktikum",
+    "ar": "تدريب عملي",
+    "en": "internship",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Praktikant",
+    "ar": "متدرب عملي",
+    "en": "male intern",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Praktikantin",
+    "ar": "متدربة عملية",
+    "en": "female intern",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Auszubildende",
+    "ar": "متدرب مهني",
+    "en": "male apprentice",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Auszubildende",
+    "ar": "متدربة مهنية",
+    "en": "female apprentice",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Ausbildungsplatz",
+    "ar": "مكان تدريب مهني",
+    "en": "apprenticeship place",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Berufsschule",
+    "ar": "مدرسة مهنية",
+    "en": "vocational school",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Vorstellungsgespräch",
+    "ar": "مقابلة توظيف",
+    "en": "job interview",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Bewerbungsgespräch",
+    "ar": "مقابلة عمل",
+    "en": "job interview",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Stellenanzeige",
+    "ar": "إعلان وظيفة",
+    "en": "job advertisement",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Stellenangebot",
+    "ar": "عرض وظيفة",
+    "en": "job vacancy",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Jobsuche",
+    "ar": "بحث عن وظيفة",
+    "en": "job search",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Probezeit",
+    "ar": "فترة تجريبية",
+    "en": "probation period",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Kündigung",
+    "ar": "إنهاء عقد",
+    "en": "notice of termination",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Kündigungsfrist",
+    "ar": "مهلة إنهاء العقد",
+    "en": "notice period",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Arbeitslosigkeit",
+    "ar": "بطالة",
+    "en": "unemployment",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Arbeitslose",
+    "ar": "شخص عاطل عن العمل",
+    "en": "unemployed man",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Arbeitsagentur",
+    "ar": "وكالة العمل",
+    "en": "employment agency",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Weiterbildung",
+    "ar": "تعليم مهني إضافي",
+    "en": "further training",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Fortbildung",
+    "ar": "تدريب لتطوير المهارات",
+    "en": "professional development",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Besprechung",
+    "ar": "اجتماع عمل",
+    "en": "meeting",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Sitzung",
+    "ar": "جلسة اجتماع",
+    "en": "session; meeting",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Konferenz",
+    "ar": "مؤتمر",
+    "en": "conference",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Auftrag",
+    "ar": "طلب عمل؛ تكليف",
+    "en": "order; assignment",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Anfrage",
+    "ar": "استفسار",
+    "en": "enquiry",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Frist",
+    "ar": "مهلة",
+    "en": "deadline",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Terminplan",
+    "ar": "جدول مواعيد",
+    "en": "schedule",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Dienstreise",
+    "ar": "رحلة عمل",
+    "en": "business trip",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Geschäftsreise",
+    "ar": "سفر للعمل",
+    "en": "business trip",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Dienstkleidung",
+    "ar": "ملابس العمل",
+    "en": "work uniform",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Schutzkleidung",
+    "ar": "ملابس واقية",
+    "en": "protective clothing",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Sicherheitsschuh",
+    "ar": "حذاء أمان",
+    "en": "safety shoe",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Helm",
+    "ar": "خوذة",
+    "en": "helmet",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Arbeitsunfall",
+    "ar": "حادث عمل",
+    "en": "workplace accident",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Krankmeldung",
+    "ar": "إبلاغ بالمرض",
+    "en": "notification of sickness",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Krankschreibung",
+    "ar": "شهادة عجز عن العمل بسبب المرض",
+    "en": "sick note",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Vertretung",
+    "ar": "بديل يتولى المهمة",
+    "en": "replacement; cover",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Vertreter",
+    "ar": "ممثل؛ بديل",
+    "en": "representative",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Empfang",
+    "ar": "استقبال",
+    "en": "reception",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Empfangsmitarbeiter",
+    "ar": "موظف استقبال",
+    "en": "receptionist",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Sekretärin",
+    "ar": "سكرتيرة",
+    "en": "secretary",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Sekretär",
+    "ar": "سكرتير",
+    "en": "secretary",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Assistent",
+    "ar": "مساعد",
+    "en": "assistant",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Assistentin",
+    "ar": "مساعدة",
+    "en": "female assistant",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Kundenservice",
+    "ar": "خدمة العملاء",
+    "en": "customer service",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Kundennummer",
+    "ar": "رقم العميل",
+    "en": "customer number",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Kontonummer",
+    "ar": "رقم الحساب",
+    "en": "account number",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Überweisung",
+    "ar": "تحويل مصرفي",
+    "en": "bank transfer",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Einzahlung",
+    "ar": "إيداع مالي",
+    "en": "deposit",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Auszahlung",
+    "ar": "صرف مبلغ",
+    "en": "payout; withdrawal",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Gebühr",
+    "ar": "رسوم",
+    "en": "fee",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Kosten",
+    "ar": "تكاليف",
+    "en": "costs",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Ausgabe",
+    "ar": "مصروف؛ إصدار",
+    "en": "expense; edition",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Einnahme",
+    "ar": "إيراد",
+    "en": "income; revenue",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Einkommen",
+    "ar": "دخل",
+    "en": "income",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Steuer",
+    "ar": "ضريبة",
+    "en": "tax",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Versicherung",
+    "ar": "تأمين",
+    "en": "insurance",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Beitrag",
+    "ar": "مساهمة؛ اشتراك مالي",
+    "en": "contribution; fee",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Rate",
+    "ar": "قسط",
+    "en": "instalment",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Schulden",
+    "ar": "ديون",
+    "en": "debts",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Kredit",
+    "ar": "قرض",
+    "en": "loan",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Ersparnisse",
+    "ar": "مدّخرات",
+    "en": "savings",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Sparbuch",
+    "ar": "دفتر توفير",
+    "en": "savings book",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "das Taschengeld",
+    "ar": "مصروف شخصي",
+    "en": "pocket money",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Geldbeutel",
+    "ar": "محفظة نقود",
+    "en": "wallet",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Geldbörse",
+    "ar": "محفظة",
+    "en": "purse; wallet",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Wechselkurs",
+    "ar": "سعر الصرف",
+    "en": "exchange rate",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Währung",
+    "ar": "عملة نقدية",
+    "en": "currency",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "der Betrag",
+    "ar": "مبلغ",
+    "en": "amount",
+    "topic": "العمل والمال"
+  },
+  {
+    "de": "die Krankenversicherung",
+    "ar": "تأمين صحي",
+    "en": "health insurance",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Krankenkasse",
+    "ar": "صندوق التأمين الصحي",
+    "en": "health insurance fund",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Versichertenkarte",
+    "ar": "بطاقة التأمين",
+    "en": "insurance card",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Hausarzt",
+    "ar": "طبيب الأسرة",
+    "en": "family doctor",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Hausärztin",
+    "ar": "طبيبة الأسرة",
+    "en": "female family doctor",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Facharzt",
+    "ar": "طبيب اختصاصي",
+    "en": "specialist doctor",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Kinderarzt",
+    "ar": "طبيب أطفال",
+    "en": "paediatrician",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Augenarzt",
+    "ar": "طبيب عيون",
+    "en": "eye doctor",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Hautarzt",
+    "ar": "طبيب جلدية",
+    "en": "dermatologist",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Zahnärztin",
+    "ar": "طبيبة أسنان",
+    "en": "female dentist",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Patient",
+    "ar": "مريض يتلقى العلاج",
+    "en": "patient",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Patientin",
+    "ar": "مريضة تتلقى العلاج",
+    "en": "female patient",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Wartezimmer",
+    "ar": "غرفة انتظار",
+    "en": "waiting room",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Sprechstunde",
+    "ar": "وقت استقبال المرضى",
+    "en": "consultation hours",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Untersuchung",
+    "ar": "فحص طبي",
+    "en": "medical examination",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Behandlung",
+    "ar": "علاج",
+    "en": "treatment",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Operation",
+    "ar": "عملية جراحية",
+    "en": "operation",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Verband",
+    "ar": "ضماد",
+    "en": "bandage",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Spritze",
+    "ar": "حقنة",
+    "en": "injection",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Impfung",
+    "ar": "تطعيم",
+    "en": "vaccination",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Grippe",
+    "ar": "إنفلونزا",
+    "en": "flu",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Infektion",
+    "ar": "عدوى",
+    "en": "infection",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Entzündung",
+    "ar": "التهاب",
+    "en": "inflammation",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Verletzung",
+    "ar": "إصابة",
+    "en": "injury",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Bruch",
+    "ar": "كسر",
+    "en": "fracture; break",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Verbrennung",
+    "ar": "حرق",
+    "en": "burn",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Sonnenbrand",
+    "ar": "حرق الشمس",
+    "en": "sunburn",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Ausschlag",
+    "ar": "طفح جلدي",
+    "en": "rash",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Symptom",
+    "ar": "عَرَض مرضي",
+    "en": "symptom",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Schwindel",
+    "ar": "دوار",
+    "en": "dizziness",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Übelkeit",
+    "ar": "غثيان",
+    "en": "nausea",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Erbrechen",
+    "ar": "تقيؤ",
+    "en": "vomiting",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Durchfall",
+    "ar": "إسهال",
+    "en": "diarrhoea",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Verstopfung",
+    "ar": "إمساك؛ انسداد",
+    "en": "constipation; blockage",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Halsschmerzen",
+    "ar": "ألم الحلق",
+    "en": "sore throat",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Rückenschmerzen",
+    "ar": "آلام الظهر",
+    "en": "back pain",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Blutdruck",
+    "ar": "ضغط الدم",
+    "en": "blood pressure",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Puls",
+    "ar": "نبض",
+    "en": "pulse",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Gewicht",
+    "ar": "وزن",
+    "en": "weight",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Körpergröße",
+    "ar": "طول الجسم",
+    "en": "height",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Waage",
+    "ar": "ميزان وزن",
+    "en": "scales",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Thermometer",
+    "ar": "ميزان حرارة",
+    "en": "thermometer",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Medizin",
+    "ar": "الطب؛ دواء",
+    "en": "medicine",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Schmerzmittel",
+    "ar": "مسكّن ألم",
+    "en": "painkiller",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Hustensaft",
+    "ar": "شراب السعال",
+    "en": "cough syrup",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Nasentropfen",
+    "ar": "قطرات الأنف",
+    "en": "nasal drops",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Augentropfen",
+    "ar": "قطرات العين",
+    "en": "eye drops",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Antibiotikum",
+    "ar": "مضاد حيوي",
+    "en": "antibiotic",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Packungsbeilage",
+    "ar": "نشرة الدواء",
+    "en": "medicine leaflet",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Nebenwirkung",
+    "ar": "أثر جانبي",
+    "en": "side effect",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Dosierung",
+    "ar": "تحديد الجرعة",
+    "en": "dosage",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Notarzt",
+    "ar": "طبيب الطوارئ",
+    "en": "emergency doctor",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Notaufnahme",
+    "ar": "قسم الطوارئ",
+    "en": "emergency department",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Rettung",
+    "ar": "إنقاذ",
+    "en": "rescue",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Rollstuhl",
+    "ar": "كرسي متحرك",
+    "en": "wheelchair",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Krücke",
+    "ar": "عكاز",
+    "en": "crutch",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Gehhilfe",
+    "ar": "أداة مساعدة للمشي",
+    "en": "walking aid",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Pflegekraft",
+    "ar": "مقدّم رعاية",
+    "en": "care worker",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Pflegeheim",
+    "ar": "دار رعاية",
+    "en": "care home",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Altenheim",
+    "ar": "دار مسنين",
+    "en": "retirement home",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Zahnpflege",
+    "ar": "عناية بالأسنان",
+    "en": "dental care",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Hautpflege",
+    "ar": "عناية بالبشرة",
+    "en": "skin care",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Sonnencreme",
+    "ar": "كريم واقٍ من الشمس",
+    "en": "sunscreen",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Handcreme",
+    "ar": "كريم اليدين",
+    "en": "hand cream",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Deo",
+    "ar": "مزيل عرق",
+    "en": "deodorant",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Parfüm",
+    "ar": "عطر",
+    "en": "perfume",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Rasierer",
+    "ar": "آلة حلاقة",
+    "en": "razor",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Rasierschaum",
+    "ar": "رغوة حلاقة",
+    "en": "shaving foam",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Make-up",
+    "ar": "مستحضرات تجميل",
+    "en": "make-up",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Lippenstift",
+    "ar": "أحمر شفاه",
+    "en": "lipstick",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Nagellack",
+    "ar": "طلاء أظافر",
+    "en": "nail polish",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Nagelschere",
+    "ar": "مقص أظافر",
+    "en": "nail scissors",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Föhn",
+    "ar": "مجفف شعر",
+    "en": "hairdryer",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Haarbürste",
+    "ar": "فرشاة شعر",
+    "en": "hairbrush",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Taschentuch",
+    "ar": "منديل",
+    "en": "tissue; handkerchief",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Papiertaschentuch",
+    "ar": "منديل ورقي",
+    "en": "paper tissue",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Hygiene",
+    "ar": "نظافة صحية",
+    "en": "hygiene",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Entspannung",
+    "ar": "استرخاء",
+    "en": "relaxation",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Erholung",
+    "ar": "راحة واستعادة النشاط",
+    "en": "recovery; relaxation",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Schlaf",
+    "ar": "نوم",
+    "en": "sleep",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Mittagsschlaf",
+    "ar": "قيلولة",
+    "en": "nap",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Müdigkeit",
+    "ar": "تعب؛ نعاس",
+    "en": "tiredness",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Stress",
+    "ar": "ضغط نفسي",
+    "en": "stress",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Bewegung",
+    "ar": "حركة",
+    "en": "movement; exercise",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Fitness",
+    "ar": "لياقة بدنية",
+    "en": "fitness",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Fitnessstudio",
+    "ar": "نادي رياضي",
+    "en": "gym",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Training",
+    "ar": "تدريب",
+    "en": "training",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "der Trainer",
+    "ar": "مدرّب",
+    "en": "coach",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Trainerin",
+    "ar": "مدرّبة",
+    "en": "female coach",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "die Diät",
+    "ar": "حمية غذائية",
+    "en": "diet",
+    "topic": "الصحة والعناية"
+  },
+  {
+    "de": "das Reisebüro",
+    "ar": "مكتب سفر",
+    "en": "travel agency",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Reiseleiter",
+    "ar": "مرشد سياحي",
+    "en": "tour guide",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Reiseleiterin",
+    "ar": "مرشدة سياحية",
+    "en": "female tour guide",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Tourist",
+    "ar": "سائح",
+    "en": "tourist",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Touristin",
+    "ar": "سائحة",
+    "en": "female tourist",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Sehenswürdigkeit",
+    "ar": "معلم سياحي",
+    "en": "sight; attraction",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Stadtführung",
+    "ar": "جولة إرشادية في المدينة",
+    "en": "guided city tour",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Reiseführer",
+    "ar": "دليل سياحي؛ مرشد",
+    "en": "travel guide",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Rundfahrt",
+    "ar": "جولة بمركبة",
+    "en": "sightseeing tour",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Ausflug",
+    "ar": "نزهة؛ رحلة قصيرة",
+    "en": "excursion",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Wanderung",
+    "ar": "رحلة مشي بالطبيعة",
+    "en": "hike",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Spaziergang",
+    "ar": "نزهة مشيًا",
+    "en": "walk; stroll",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Unterkunft",
+    "ar": "مكان إقامة",
+    "en": "accommodation",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Jugendherberge",
+    "ar": "بيت شباب",
+    "en": "youth hostel",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Ferienwohnung",
+    "ar": "شقة عطلات",
+    "en": "holiday apartment",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Ferienhaus",
+    "ar": "منزل للعطلات",
+    "en": "holiday home",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Campingplatz",
+    "ar": "موقع تخييم",
+    "en": "campsite",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Zelt",
+    "ar": "خيمة",
+    "en": "tent",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Schlafsack",
+    "ar": "كيس نوم",
+    "en": "sleeping bag",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Luftmatratze",
+    "ar": "مرتبة هوائية",
+    "en": "air mattress",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Einzelzimmer",
+    "ar": "غرفة مفردة",
+    "en": "single room",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Doppelzimmer",
+    "ar": "غرفة مزدوجة",
+    "en": "double room",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Dreibettzimmer",
+    "ar": "غرفة بثلاثة أسرّة",
+    "en": "triple room",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Gästezimmer",
+    "ar": "غرفة ضيوف",
+    "en": "guest room",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Vollpension",
+    "ar": "إقامة مع ثلاث وجبات",
+    "en": "full board",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Halbpension",
+    "ar": "إقامة مع وجبتين",
+    "en": "half board",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Anreise",
+    "ar": "رحلة الوصول",
+    "en": "journey to the destination",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Abreise",
+    "ar": "مغادرة مكان الإقامة",
+    "en": "departure from accommodation",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Hinreise",
+    "ar": "رحلة الذهاب",
+    "en": "outward journey",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Rückreise",
+    "ar": "رحلة العودة",
+    "en": "return journey",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Hinfahrt",
+    "ar": "رحلة الذهاب بمركبة",
+    "en": "outward trip",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Rückfahrt",
+    "ar": "رحلة العودة بمركبة",
+    "en": "return trip",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Rückfahrkarte",
+    "ar": "تذكرة ذهاب وعودة",
+    "en": "return ticket",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Tageskarte",
+    "ar": "تذكرة يومية",
+    "en": "day ticket",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Wochenkarte",
+    "ar": "بطاقة أسبوعية",
+    "en": "weekly pass",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Fahrkartenkontrolle",
+    "ar": "فحص التذاكر",
+    "en": "ticket inspection",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Kontrolleur",
+    "ar": "مفتش تذاكر",
+    "en": "ticket inspector",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Schaffner",
+    "ar": "محصّل القطار",
+    "en": "train conductor",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Anschluss",
+    "ar": "وصلة مواصلات",
+    "en": "connection",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Umstieg",
+    "ar": "تبديل وسيلة المواصلات",
+    "en": "transfer",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Verbindung",
+    "ar": "وصلة؛ ارتباط",
+    "en": "connection",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Direktflug",
+    "ar": "رحلة طيران مباشرة",
+    "en": "direct flight",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Fluggesellschaft",
+    "ar": "شركة طيران",
+    "en": "airline",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Bordkarte",
+    "ar": "بطاقة صعود الطائرة",
+    "en": "boarding pass",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Handgepäck",
+    "ar": "حقيبة المقصورة",
+    "en": "hand luggage",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Check-in",
+    "ar": "تسجيل السفر أو الوصول",
+    "en": "check-in",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Sicherheitskontrolle",
+    "ar": "فحص أمني",
+    "en": "security check",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Passkontrolle",
+    "ar": "فحص جوازات السفر",
+    "en": "passport control",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Zoll",
+    "ar": "الجمارك",
+    "en": "customs",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Grenze",
+    "ar": "حدود",
+    "en": "border",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Einreise",
+    "ar": "دخول بلد",
+    "en": "entry into a country",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Ausreise",
+    "ar": "مغادرة بلد",
+    "en": "departure from a country",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Aufenthalt",
+    "ar": "إقامة",
+    "en": "stay",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Aufenthaltserlaubnis",
+    "ar": "تصريح إقامة",
+    "en": "residence permit",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Konsulat",
+    "ar": "قنصلية",
+    "en": "consulate",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Botschaft",
+    "ar": "سفارة",
+    "en": "embassy",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Staatsangehörigkeit",
+    "ar": "جنسية",
+    "en": "nationality",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Nationalität",
+    "ar": "جنسية",
+    "en": "nationality",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Herkunftsland",
+    "ar": "بلد المنشأ",
+    "en": "country of origin",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Heimatland",
+    "ar": "الوطن",
+    "en": "home country",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Heimat",
+    "ar": "وطن؛ موطن",
+    "en": "homeland",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Ausland",
+    "ar": "الخارج؛ بلدان أجنبية",
+    "en": "abroad",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Inland",
+    "ar": "داخل البلد",
+    "en": "home country; domestic territory",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Norden",
+    "ar": "الشمال",
+    "en": "north",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Süden",
+    "ar": "الجنوب",
+    "en": "south",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Osten",
+    "ar": "الشرق",
+    "en": "east",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Westen",
+    "ar": "الغرب",
+    "en": "west",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Entfernung",
+    "ar": "مسافة",
+    "en": "distance",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Strecke",
+    "ar": "مسار؛ مسافة",
+    "en": "route; distance",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Kilometer",
+    "ar": "كيلومتر",
+    "en": "kilometre",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Geschwindigkeit",
+    "ar": "سرعة",
+    "en": "speed",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Lastwagen",
+    "ar": "شاحنة",
+    "en": "lorry; truck",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Lkw",
+    "ar": "شاحنة؛ اختصار",
+    "en": "truck; lorry",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Pkw",
+    "ar": "سيارة ركاب؛ اختصار",
+    "en": "passenger car",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Lieferwagen",
+    "ar": "شاحنة توصيل صغيرة",
+    "en": "delivery van",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Krankenwagenfahrer",
+    "ar": "سائق إسعاف",
+    "en": "ambulance driver",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Busfahrer",
+    "ar": "سائق حافلة",
+    "en": "bus driver",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Taxifahrer",
+    "ar": "سائق سيارة أجرة",
+    "en": "taxi driver",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Beifahrer",
+    "ar": "راكب بجانب السائق",
+    "en": "front-seat passenger",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Sitzplatz",
+    "ar": "مكان جلوس",
+    "en": "seat",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Stehplatz",
+    "ar": "مكان وقوف",
+    "en": "standing place",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Sicherheitsgurt",
+    "ar": "حزام أمان",
+    "en": "seat belt",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Kindersitz",
+    "ar": "مقعد طفل للسيارة",
+    "en": "child car seat",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Kofferraum",
+    "ar": "صندوق السيارة",
+    "en": "boot; trunk",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Lenkrad",
+    "ar": "مقود السيارة",
+    "en": "steering wheel",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Windschutzscheibe",
+    "ar": "زجاج أمامي",
+    "en": "windscreen",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Scheibenwischer",
+    "ar": "ماسحة زجاج",
+    "en": "windscreen wiper",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Reifen",
+    "ar": "إطار عجلة",
+    "en": "tyre",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Bremse",
+    "ar": "مكبح",
+    "en": "brake",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Motor",
+    "ar": "محرّك",
+    "en": "engine",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Panne",
+    "ar": "عطل مفاجئ",
+    "en": "breakdown",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Autowerkstatt",
+    "ar": "ورشة سيارات",
+    "en": "car repair shop",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "das Parkhaus",
+    "ar": "مبنى مواقف",
+    "en": "multi-storey car park",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Parkgebühr",
+    "ar": "رسوم موقف",
+    "en": "parking fee",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Parkschein",
+    "ar": "تذكرة موقف",
+    "en": "parking ticket",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Einbahnstraße",
+    "ar": "شارع باتجاه واحد",
+    "en": "one-way street",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Zebrastreifen",
+    "ar": "ممر مشاة مخطط",
+    "en": "pedestrian crossing",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Kreisverkehr",
+    "ar": "دوّار مروري",
+    "en": "roundabout",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Ausfahrt",
+    "ar": "مخرج طريق",
+    "en": "exit road",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Einfahrt",
+    "ar": "مدخل مركبات",
+    "en": "driveway; entrance",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Umleitung",
+    "ar": "تحويلة طريق",
+    "en": "diversion; detour",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Baustelle",
+    "ar": "موقع بناء",
+    "en": "building site",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Radweg",
+    "ar": "مسار دراجات",
+    "en": "cycle path",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Fußgänger",
+    "ar": "أحد المشاة",
+    "en": "pedestrian",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Fußgängerzone",
+    "ar": "منطقة للمشاة",
+    "en": "pedestrian zone",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Landung",
+    "ar": "هبوط طائرة",
+    "en": "landing",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "der Hafenarbeiter",
+    "ar": "عامل ميناء",
+    "en": "dock worker",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Fähre",
+    "ar": "عبّارة",
+    "en": "ferry",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Schifffahrt",
+    "ar": "ملاحة بالسفن",
+    "en": "shipping; boat travel",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Rundreise",
+    "ar": "رحلة إلى عدة أماكن",
+    "en": "round trip",
+    "topic": "السفر والمواصلات والخدمات"
+  },
+  {
+    "de": "die Anmeldung",
+    "ar": "تسجيل",
+    "en": "registration",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Abmeldung",
+    "ar": "إلغاء تسجيل",
+    "en": "deregistration",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Formular",
+    "ar": "استمارة",
+    "en": "form",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Antrag",
+    "ar": "طلب رسمي",
+    "en": "application",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Kopie",
+    "ar": "نسخة",
+    "en": "copy",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Original",
+    "ar": "أصل الوثيقة",
+    "en": "original",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Dokument",
+    "ar": "وثيقة",
+    "en": "document",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Unterlage",
+    "ar": "مستند",
+    "en": "document; supporting paper",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Bescheinigung",
+    "ar": "إفادة؛ شهادة",
+    "en": "certificate; confirmation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Bestätigung",
+    "ar": "تأكيد",
+    "en": "confirmation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Erlaubnis",
+    "ar": "إذن",
+    "en": "permission",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Genehmigung",
+    "ar": "موافقة رسمية",
+    "en": "approval; permit",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Unterschriftenliste",
+    "ar": "قائمة توقيعات",
+    "en": "signature list",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Teilnahme",
+    "ar": "مشاركة",
+    "en": "participation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Teilnehmer",
+    "ar": "مشارك",
+    "en": "participant",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Teilnehmerin",
+    "ar": "مشاركة",
+    "en": "female participant",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Kursgebühr",
+    "ar": "رسوم الدورة",
+    "en": "course fee",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Kursleitung",
+    "ar": "إدارة الدورة",
+    "en": "course management",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Kursleiter",
+    "ar": "مدرّس أو مسؤول الدورة",
+    "en": "course instructor",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Kursleiterin",
+    "ar": "مدرّسة أو مسؤولة الدورة",
+    "en": "female course instructor",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Stundenplan",
+    "ar": "جدول الدروس",
+    "en": "class timetable",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Schuljahr",
+    "ar": "سنة دراسية",
+    "en": "school year",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Schulfach",
+    "ar": "مادة دراسية",
+    "en": "school subject",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Mathematik",
+    "ar": "رياضيات",
+    "en": "mathematics",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Geschichte",
+    "ar": "تاريخ؛ قصة",
+    "en": "history; story",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Geografie",
+    "ar": "جغرافيا",
+    "en": "geography",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Biologie",
+    "ar": "أحياء",
+    "en": "biology",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Chemie",
+    "ar": "كيمياء",
+    "en": "chemistry",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Physik",
+    "ar": "فيزياء",
+    "en": "physics",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Kunst",
+    "ar": "فن",
+    "en": "art",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Sportunterricht",
+    "ar": "درس رياضة",
+    "en": "physical education",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Klassenzimmer",
+    "ar": "غرفة الصف",
+    "en": "classroom",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Schulhof",
+    "ar": "ساحة المدرسة",
+    "en": "school playground",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Schulferien",
+    "ar": "عطلة مدرسية",
+    "en": "school holidays",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Schultasche",
+    "ar": "حقيبة مدرسية",
+    "en": "schoolbag",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Schulbibliothek",
+    "ar": "مكتبة المدرسة",
+    "en": "school library",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Bibliothek",
+    "ar": "مكتبة للقراءة والاستعارة",
+    "en": "library",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Buchhandlung",
+    "ar": "متجر كتب",
+    "en": "bookshop",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Lehrbuch",
+    "ar": "كتاب تعليمي",
+    "en": "textbook",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Arbeitsbuch",
+    "ar": "كتاب تمارين",
+    "en": "workbook",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Notizbuch",
+    "ar": "دفتر ملاحظات",
+    "en": "notebook",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Notiz",
+    "ar": "ملاحظة مكتوبة",
+    "en": "note",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Kapitel",
+    "ar": "فصل كتاب",
+    "en": "chapter",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Überschrift",
+    "ar": "عنوان رئيسي",
+    "en": "heading",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Titel",
+    "ar": "عنوان",
+    "en": "title",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Absatz",
+    "ar": "فقرة",
+    "en": "paragraph",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Abschnitt",
+    "ar": "قسم من نص",
+    "en": "section",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Inhaltsverzeichnis",
+    "ar": "فهرس المحتويات",
+    "en": "table of contents",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Zusammenfassung",
+    "ar": "ملخّص",
+    "en": "summary",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Erklärung",
+    "ar": "شرح",
+    "en": "explanation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Bedeutung",
+    "ar": "معنى",
+    "en": "meaning",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Regel",
+    "ar": "قاعدة",
+    "en": "rule",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Ausnahme",
+    "ar": "استثناء",
+    "en": "exception",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Wiederholung",
+    "ar": "تكرار؛ مراجعة",
+    "en": "repetition; revision",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Diktat",
+    "ar": "إملاء",
+    "en": "dictation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Aufsatz",
+    "ar": "موضوع تعبير",
+    "en": "essay",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Vortrag",
+    "ar": "عرض شفهي",
+    "en": "talk; presentation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Präsentation",
+    "ar": "عرض تقديمي",
+    "en": "presentation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Gruppenarbeit",
+    "ar": "عمل ضمن مجموعة",
+    "en": "group work",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Partnerarbeit",
+    "ar": "عمل ثنائي",
+    "en": "pair work",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Einzelarbeit",
+    "ar": "عمل فردي",
+    "en": "individual work",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Ergebnis",
+    "ar": "نتيجة",
+    "en": "result",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Punkt",
+    "ar": "نقطة",
+    "en": "point",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Punktzahl",
+    "ar": "مجموع النقاط",
+    "en": "score",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Korrektur",
+    "ar": "تصحيح",
+    "en": "correction",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Vorbereitung",
+    "ar": "تحضير",
+    "en": "preparation",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Nachhilfe",
+    "ar": "دروس تقوية",
+    "en": "tutoring",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Abschluss",
+    "ar": "إنهاء دراسة؛ مؤهل",
+    "en": "qualification; completion",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Schulabschluss",
+    "ar": "شهادة إنهاء المدرسة",
+    "en": "school-leaving qualification",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Grundschule",
+    "ar": "مدرسة ابتدائية",
+    "en": "primary school",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Hauptschule",
+    "ar": "مدرسة ثانوية أساسية",
+    "en": "lower secondary school",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Realschule",
+    "ar": "مدرسة ثانوية متوسطة",
+    "en": "intermediate secondary school",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Gymnasium",
+    "ar": "مدرسة ثانوية تؤهل للجامعة",
+    "en": "academic secondary school",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Abitur",
+    "ar": "شهادة تأهيل لدخول الجامعة",
+    "en": "university entrance qualification",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Hochschule",
+    "ar": "مؤسسة تعليم عالٍ",
+    "en": "higher education institution",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Studium",
+    "ar": "دراسة جامعية",
+    "en": "university studies",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Semester",
+    "ar": "فصل جامعي",
+    "en": "semester",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Vorlesung",
+    "ar": "محاضرة جامعية",
+    "en": "lecture",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Seminar",
+    "ar": "حلقة دراسية",
+    "en": "seminar",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Professor",
+    "ar": "أستاذ جامعي",
+    "en": "professor",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Professorin",
+    "ar": "أستاذة جامعية",
+    "en": "female professor",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Bildschirmhintergrund",
+    "ar": "خلفية الشاشة",
+    "en": "screen background",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Laptop",
+    "ar": "حاسوب محمول",
+    "en": "laptop",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Tablet",
+    "ar": "جهاز لوحي",
+    "en": "tablet",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Lautsprecher",
+    "ar": "مكبّر صوت",
+    "en": "speaker",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Kopfhörer",
+    "ar": "سماعة رأس",
+    "en": "headphones",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Mikrofon",
+    "ar": "ميكروفون",
+    "en": "microphone",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Scanner",
+    "ar": "ماسح ضوئي",
+    "en": "scanner",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der USB-Stick",
+    "ar": "ذاكرة USB",
+    "en": "USB stick",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Speicherkarte",
+    "ar": "بطاقة ذاكرة",
+    "en": "memory card",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Speicher",
+    "ar": "ذاكرة تخزين",
+    "en": "storage; memory",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Festplatte",
+    "ar": "قرص صلب",
+    "en": "hard drive",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das WLAN",
+    "ar": "شبكة لاسلكية",
+    "en": "Wi-Fi",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Router",
+    "ar": "جهاز توزيع الإنترنت",
+    "en": "router",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Anschlussstecker",
+    "ar": "قابس توصيل",
+    "en": "connector plug",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Internetverbindung",
+    "ar": "اتصال بالإنترنت",
+    "en": "internet connection",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Suchmaschine",
+    "ar": "محرك بحث",
+    "en": "search engine",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Suchbegriff",
+    "ar": "عبارة بحث",
+    "en": "search term",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Benutzername",
+    "ar": "اسم مستخدم",
+    "en": "username",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Nutzer",
+    "ar": "مستخدم",
+    "en": "user",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Nutzerin",
+    "ar": "مستخدمة",
+    "en": "female user",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Benutzerkonto",
+    "ar": "حساب مستخدم",
+    "en": "user account",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Link",
+    "ar": "رابط",
+    "en": "link",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Anhang",
+    "ar": "مرفق",
+    "en": "attachment",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Nachrichtengruppe",
+    "ar": "مجموعة رسائل",
+    "en": "messaging group",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Sprachnachricht",
+    "ar": "رسالة صوتية",
+    "en": "voice message",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Videoanruf",
+    "ar": "مكالمة فيديو",
+    "en": "video call",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Einstellung",
+    "ar": "إعداد؛ موقف",
+    "en": "setting; attitude",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Lautstärke",
+    "ar": "مستوى الصوت",
+    "en": "volume",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Helligkeit",
+    "ar": "سطوع",
+    "en": "brightness",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Symbol",
+    "ar": "رمز",
+    "en": "symbol",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Schaltfläche",
+    "ar": "زر على الشاشة",
+    "en": "on-screen button",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "die Taste",
+    "ar": "مفتاح لوحة أو جهاز",
+    "en": "key; button",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Mausklick",
+    "ar": "نقرة فأرة",
+    "en": "mouse click",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Netzwerk",
+    "ar": "شبكة",
+    "en": "network",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Update",
+    "ar": "تحديث",
+    "en": "update",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Download",
+    "ar": "تنزيل",
+    "en": "download",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Upload",
+    "ar": "رفع ملف",
+    "en": "upload",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "der Datenschutz",
+    "ar": "حماية البيانات",
+    "en": "data protection",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Ladezeichen",
+    "ar": "علامة التحميل",
+    "en": "loading indicator",
+    "topic": "التعليم والتقنية"
+  },
+  {
+    "de": "das Hobby",
+    "ar": "هواية",
+    "en": "hobby",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Sport",
+    "ar": "رياضة",
+    "en": "sport",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Fußball",
+    "ar": "كرة القدم",
+    "en": "football",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Basketball",
+    "ar": "كرة السلة",
+    "en": "basketball",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Volleyball",
+    "ar": "كرة الطائرة",
+    "en": "volleyball",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Handball",
+    "ar": "كرة اليد",
+    "en": "handball",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Tennis",
+    "ar": "تنس",
+    "en": "tennis",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Tischtennis",
+    "ar": "تنس الطاولة",
+    "en": "table tennis",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Schwimmen",
+    "ar": "سباحة",
+    "en": "swimming",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Radfahren",
+    "ar": "ركوب الدراجة",
+    "en": "cycling",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Reiten",
+    "ar": "ركوب الخيل",
+    "en": "horse riding",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Skifahren",
+    "ar": "تزلّج على الثلج",
+    "en": "skiing",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Schlittschuhlaufen",
+    "ar": "تزلّج على الجليد",
+    "en": "ice skating",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Spiel",
+    "ar": "لعبة؛ مباراة",
+    "en": "game",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Spieler",
+    "ar": "لاعب",
+    "en": "player",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Spielerin",
+    "ar": "لاعبة",
+    "en": "female player",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Mannschaft",
+    "ar": "فريق رياضي",
+    "en": "team",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Verein",
+    "ar": "نادٍ؛ جمعية",
+    "en": "club; association",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Mitglied",
+    "ar": "عضو",
+    "en": "member",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Wettbewerb",
+    "ar": "مسابقة",
+    "en": "competition",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Wettkampf",
+    "ar": "منافسة رياضية",
+    "en": "sporting competition",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Turnier",
+    "ar": "بطولة",
+    "en": "tournament",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Stadion",
+    "ar": "ملعب كبير",
+    "en": "stadium",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Sporthalle",
+    "ar": "قاعة رياضية",
+    "en": "sports hall",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Sportplatz",
+    "ar": "ملعب رياضي",
+    "en": "sports ground",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Schwimmbad",
+    "ar": "مسبح",
+    "en": "swimming pool",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Hallenbad",
+    "ar": "مسبح داخلي",
+    "en": "indoor swimming pool",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Freibad",
+    "ar": "مسبح خارجي",
+    "en": "outdoor swimming pool",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Ball",
+    "ar": "كرة",
+    "en": "ball",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Tor",
+    "ar": "هدف؛ بوابة",
+    "en": "goal; gate",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Schläger",
+    "ar": "مضرب رياضي",
+    "en": "racket; bat",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Sieg",
+    "ar": "فوز",
+    "en": "victory",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Niederlage",
+    "ar": "خسارة في منافسة",
+    "en": "defeat",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Gewinner",
+    "ar": "فائز",
+    "en": "winner",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Gewinnerin",
+    "ar": "فائزة",
+    "en": "female winner",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Unentschieden",
+    "ar": "تعادل",
+    "en": "draw; tie",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Musik",
+    "ar": "موسيقى",
+    "en": "music",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Lied",
+    "ar": "أغنية",
+    "en": "song",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Sänger",
+    "ar": "مغنٍّ",
+    "en": "singer",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Sängerin",
+    "ar": "مغنّية",
+    "en": "female singer",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Band",
+    "ar": "فرقة موسيقية",
+    "en": "band",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Konzert",
+    "ar": "حفل موسيقي",
+    "en": "concert",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Instrument",
+    "ar": "آلة موسيقية؛ أداة",
+    "en": "instrument",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Gitarre",
+    "ar": "غيتار",
+    "en": "guitar",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Klavier",
+    "ar": "بيانو",
+    "en": "piano",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Geige",
+    "ar": "كمان",
+    "en": "violin",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Trommel",
+    "ar": "طبل",
+    "en": "drum",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Flöte",
+    "ar": "ناي؛ فلوت",
+    "en": "flute",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Tanz",
+    "ar": "رقص؛ رقصة",
+    "en": "dance",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Tanzschule",
+    "ar": "مدرسة رقص",
+    "en": "dance school",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Theater",
+    "ar": "مسرح",
+    "en": "theatre",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Kino",
+    "ar": "سينما",
+    "en": "cinema",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Film",
+    "ar": "فيلم",
+    "en": "film",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Serie",
+    "ar": "مسلسل",
+    "en": "series",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Schauspieler",
+    "ar": "ممثل",
+    "en": "actor",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Schauspielerin",
+    "ar": "ممثلة",
+    "en": "actress",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Bühne",
+    "ar": "خشبة المسرح",
+    "en": "stage",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Zuschauer",
+    "ar": "مشاهد",
+    "en": "spectator; viewer",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Zuschauerin",
+    "ar": "مشاهدة",
+    "en": "female spectator",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Publikum",
+    "ar": "جمهور",
+    "en": "audience",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Eintrittskarte",
+    "ar": "تذكرة دخول",
+    "en": "admission ticket",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Eintritt",
+    "ar": "دخول؛ رسم دخول",
+    "en": "admission",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Ausstellung",
+    "ar": "معرض",
+    "en": "exhibition",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Museum",
+    "ar": "متحف",
+    "en": "museum",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Galerie",
+    "ar": "قاعة عرض فني",
+    "en": "art gallery",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Kunstwerk",
+    "ar": "عمل فني",
+    "en": "work of art",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Künstler",
+    "ar": "فنّان",
+    "en": "artist",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Künstlerin",
+    "ar": "فنّانة",
+    "en": "female artist",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Gemälde",
+    "ar": "لوحة مرسومة",
+    "en": "painting",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Zeichnung",
+    "ar": "رسم",
+    "en": "drawing",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Roman",
+    "ar": "رواية",
+    "en": "novel",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Gedicht",
+    "ar": "قصيدة",
+    "en": "poem",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Autor",
+    "ar": "كاتب",
+    "en": "author",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Autorin",
+    "ar": "كاتبة",
+    "en": "female author",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Märchen",
+    "ar": "حكاية خيالية",
+    "en": "fairy tale",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Rätsel",
+    "ar": "لغز",
+    "en": "puzzle; riddle",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Kreuzworträtsel",
+    "ar": "كلمات متقاطعة",
+    "en": "crossword",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Brettspiel",
+    "ar": "لعبة لوحية",
+    "en": "board game",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Kartenspiel",
+    "ar": "لعبة ورق",
+    "en": "card game",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Würfel",
+    "ar": "نرد؛ مكعّب",
+    "en": "die; cube",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Spielregel",
+    "ar": "قاعدة لعبة",
+    "en": "game rule",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Party",
+    "ar": "حفلة",
+    "en": "party",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Fest",
+    "ar": "احتفال",
+    "en": "celebration",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Feier",
+    "ar": "حفلة مناسبة",
+    "en": "celebration; party",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Hochzeit",
+    "ar": "زفاف",
+    "en": "wedding",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Ehe",
+    "ar": "زواج",
+    "en": "marriage",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Scheidung",
+    "ar": "طلاق",
+    "en": "divorce",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Freundschaft",
+    "ar": "صداقة",
+    "en": "friendship",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Bekanntschaft",
+    "ar": "معرفة بشخص",
+    "en": "acquaintance",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Gefühl",
+    "ar": "شعور",
+    "en": "feeling",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Freude",
+    "ar": "فرح",
+    "en": "joy",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Angst",
+    "ar": "خوف",
+    "en": "fear",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Sorge",
+    "ar": "قلق",
+    "en": "worry",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Ärger",
+    "ar": "غضب؛ إزعاج",
+    "en": "anger; annoyance",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Wut",
+    "ar": "غضب شديد",
+    "en": "rage",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Liebe",
+    "ar": "حب",
+    "en": "love",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "das Glück",
+    "ar": "سعادة؛ حظ",
+    "en": "happiness; luck",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "der Spaß",
+    "ar": "متعة؛ مزاح",
+    "en": "fun",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Lust",
+    "ar": "رغبة",
+    "en": "desire; inclination",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "die Laune",
+    "ar": "مزاج",
+    "en": "mood",
+    "topic": "الترفيه والعلاقات والمشاعر"
+  },
+  {
+    "de": "abgeben",
+    "ar": "يسلّم شيئًا",
+    "en": "to hand in",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "abnehmen",
+    "ar": "ينقص وزنه؛ يزيل",
+    "en": "to lose weight; to remove",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "absagen",
+    "ar": "يلغي موعدًا",
+    "en": "to cancel",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "abschließen",
+    "ar": "يقفل؛ يُنهي",
+    "en": "to lock; to complete",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "abschreiben",
+    "ar": "ينسخ كتابةً",
+    "en": "to copy in writing",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "abstellen",
+    "ar": "يركن؛ يطفئ جهازًا",
+    "en": "to park; to switch off",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "abtrocknen",
+    "ar": "يجفّف شيئًا",
+    "en": "to dry",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "abwaschen",
+    "ar": "يغسل الأطباق",
+    "en": "to wash up",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "achten",
+    "ar": "ينتبه؛ يحترم",
+    "en": "to pay attention; to respect",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ändern",
+    "ar": "يغيّر",
+    "en": "to change",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich ändern",
+    "ar": "يتغيّر",
+    "en": "to change",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anbieten",
+    "ar": "يعرض",
+    "en": "to offer",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anfassen",
+    "ar": "يلمس",
+    "en": "to touch",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ankündigen",
+    "ar": "يعلن مسبقًا",
+    "en": "to announce",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anklicken",
+    "ar": "ينقر على",
+    "en": "to click on",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anmachen",
+    "ar": "يشغّل",
+    "en": "to switch on",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anprobieren",
+    "ar": "يجرّب الملابس",
+    "en": "to try on",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anschalten",
+    "ar": "يشغّل جهازًا",
+    "en": "to switch on",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ansehen",
+    "ar": "يشاهد؛ ينظر إلى",
+    "en": "to look at; to watch",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ansprechen",
+    "ar": "يخاطب",
+    "en": "to address; to speak to",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anstellen",
+    "ar": "يشغّل شخصًا أو جهازًا",
+    "en": "to employ; to turn on",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich anstellen",
+    "ar": "يقف في الطابور",
+    "en": "to queue",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "anzünden",
+    "ar": "يشعل",
+    "en": "to light",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ärgern",
+    "ar": "يزعج",
+    "en": "to annoy",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich ärgern",
+    "ar": "ينزعج",
+    "en": "to get annoyed",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufbauen",
+    "ar": "يركّب؛ يبني",
+    "en": "to assemble; to build",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufgeben",
+    "ar": "يتخلّى؛ يسلّم طردًا",
+    "en": "to give up; to hand over",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufhängen",
+    "ar": "يعلّق",
+    "en": "to hang up",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufladen",
+    "ar": "يشحن",
+    "en": "to charge",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufnehmen",
+    "ar": "يسجّل؛ يستقبل",
+    "en": "to record; to take in",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufpassen",
+    "ar": "ينتبه",
+    "en": "to pay attention",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufschreiben",
+    "ar": "يدوّن",
+    "en": "to write down",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufteilen",
+    "ar": "يقسّم",
+    "en": "to divide up",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aufwärmen",
+    "ar": "يسخّن",
+    "en": "to warm up",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ausgeben",
+    "ar": "ينفق",
+    "en": "to spend",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ausleihen",
+    "ar": "يستعير؛ يعير",
+    "en": "to borrow; to lend",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ausmachen",
+    "ar": "يطفئ؛ يتفق على",
+    "en": "to switch off; to arrange",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "auspacken",
+    "ar": "يفرغ الأمتعة أو العبوة",
+    "en": "to unpack",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ausprobieren",
+    "ar": "يجرّب",
+    "en": "to try out",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ausruhen",
+    "ar": "يريح",
+    "en": "to rest",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich ausruhen",
+    "ar": "يستريح",
+    "en": "to rest",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ausschalten",
+    "ar": "يطفئ جهازًا",
+    "en": "to switch off",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aussehen",
+    "ar": "يبدو شكله",
+    "en": "to look; to appear",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "aussprechen",
+    "ar": "ينطق",
+    "en": "to pronounce",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "auswählen",
+    "ar": "يختار",
+    "en": "to select",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ausziehen",
+    "ar": "يترك السكن؛ يخلع",
+    "en": "to move out; to take off clothes",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bauen",
+    "ar": "يبني",
+    "en": "to build",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "beachten",
+    "ar": "يراعي؛ ينتبه إلى",
+    "en": "to observe; to pay attention to",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "beantragen",
+    "ar": "يقدّم طلبًا رسميًا",
+    "en": "to apply for",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "beantworten",
+    "ar": "يجيب عن",
+    "en": "to answer",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "atmen",
+    "ar": "يتنفّس",
+    "en": "to breathe",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich bedanken",
+    "ar": "يشكر",
+    "en": "to thank someone",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bedeuten",
+    "ar": "يعني",
+    "en": "to mean",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bedienen",
+    "ar": "يخدم؛ يشغّل آلة",
+    "en": "to serve; to operate",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "beenden",
+    "ar": "ينهي",
+    "en": "to finish",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "behalten",
+    "ar": "يحتفظ بـ",
+    "en": "to keep",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "behandeln",
+    "ar": "يعالج؛ يتعامل مع",
+    "en": "to treat",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "begrüßen",
+    "ar": "يرحّب بـ",
+    "en": "to greet",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "begleiten",
+    "ar": "يرافق",
+    "en": "to accompany",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "behaupten",
+    "ar": "يدّعي؛ يؤكد رأيًا",
+    "en": "to claim",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "benutzen",
+    "ar": "يستخدم",
+    "en": "to use",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "beraten",
+    "ar": "ينصح",
+    "en": "to advise",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "berichten",
+    "ar": "يخبر؛ يقدّم تقريرًا",
+    "en": "to report",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "berühren",
+    "ar": "يلمس",
+    "en": "to touch",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "beschreiben",
+    "ar": "يصف",
+    "en": "to describe",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich beschweren",
+    "ar": "يشتكي",
+    "en": "to complain",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "besichtigen",
+    "ar": "يزور لمشاهدة مكان",
+    "en": "to visit; to tour",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "besitzen",
+    "ar": "يمتلك",
+    "en": "to own",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "besorgen",
+    "ar": "يحضر؛ يدبّر",
+    "en": "to get; to obtain",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "besprechen",
+    "ar": "يناقش",
+    "en": "to discuss",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bestätigen",
+    "ar": "يؤكّد",
+    "en": "to confirm",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bestehen",
+    "ar": "ينجح في امتحان؛ يوجد",
+    "en": "to pass an exam; to exist",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "betreuen",
+    "ar": "يرعى؛ يشرف على",
+    "en": "to look after",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich bewerben",
+    "ar": "يتقدّم لوظيفة",
+    "en": "to apply for a job",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bewegen",
+    "ar": "يحرّك",
+    "en": "to move",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich bewegen",
+    "ar": "يتحرّك",
+    "en": "to move",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bieten",
+    "ar": "يقدّم؛ يتيح",
+    "en": "to offer",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "bügeln",
+    "ar": "يكوي",
+    "en": "to iron",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "dauern",
+    "ar": "يستغرق",
+    "en": "to last",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "drucken",
+    "ar": "يطبع",
+    "en": "to print",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "drücken",
+    "ar": "يضغط",
+    "en": "to press",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "einfallen",
+    "ar": "يخطر بالبال",
+    "en": "to occur to someone",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "einfüllen",
+    "ar": "يصبّ داخل وعاء",
+    "en": "to pour in",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "einkreisen",
+    "ar": "يضع دائرة حول",
+    "en": "to circle",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "einpacken",
+    "ar": "يحزم؛ يغلّف",
+    "en": "to pack",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "einrichten",
+    "ar": "يؤثث؛ يُعِدّ",
+    "en": "to furnish; to set up",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "einschalten",
+    "ar": "يشغّل جهازًا",
+    "en": "to switch on",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "eintragen",
+    "ar": "يسجّل في قائمة",
+    "en": "to enter; to register",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "einziehen",
+    "ar": "ينتقل إلى سكن",
+    "en": "to move in",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "empfehlen",
+    "ar": "ينصح بـ",
+    "en": "to recommend",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "entdecken",
+    "ar": "يكتشف",
+    "en": "to discover",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "entfernen",
+    "ar": "يزيل",
+    "en": "to remove",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "entscheiden",
+    "ar": "يقرّر",
+    "en": "to decide",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich entscheiden",
+    "ar": "يتخذ قرارًا",
+    "en": "to make a decision",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "entspannen",
+    "ar": "يريح",
+    "en": "to relax",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich entspannen",
+    "ar": "يسترخي",
+    "en": "to relax",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "entstehen",
+    "ar": "ينشأ",
+    "en": "to arise",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "entwickeln",
+    "ar": "يطوّر",
+    "en": "to develop",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erfahren",
+    "ar": "يعرف خبرًا؛ يختبر",
+    "en": "to find out; to experience",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erfinden",
+    "ar": "يخترع",
+    "en": "to invent",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ergänzen",
+    "ar": "يكمل؛ يضيف",
+    "en": "to complete; to add",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erhalten",
+    "ar": "يتلقى",
+    "en": "to receive",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erinnern",
+    "ar": "يذكّر",
+    "en": "to remind",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich erinnern",
+    "ar": "يتذكّر",
+    "en": "to remember",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erkennen",
+    "ar": "يتعرّف على",
+    "en": "to recognise",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erlauben",
+    "ar": "يسمح",
+    "en": "to allow",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erledigen",
+    "ar": "ينجز",
+    "en": "to complete; to deal with",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erreichen",
+    "ar": "يصل إلى",
+    "en": "to reach",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erscheinen",
+    "ar": "يظهر؛ يصدر",
+    "en": "to appear; to be published",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ersetzen",
+    "ar": "يستبدل",
+    "en": "to replace",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erwarten",
+    "ar": "يتوقّع؛ ينتظر",
+    "en": "to expect",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "erzählen",
+    "ar": "يروي",
+    "en": "to tell",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "fallen",
+    "ar": "يسقط",
+    "en": "to fall",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "fangen",
+    "ar": "يمسك؛ يصطاد",
+    "en": "to catch",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "fernsehen",
+    "ar": "يشاهد التلفاز",
+    "en": "to watch television",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "festhalten",
+    "ar": "يمسك بقوة؛ يدوّن",
+    "en": "to hold on to; to record",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "feststellen",
+    "ar": "يلاحظ؛ يتبيّن",
+    "en": "to establish; to notice",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "folgen",
+    "ar": "يتبع",
+    "en": "to follow",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "fordern",
+    "ar": "يطالب",
+    "en": "to demand",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "husten",
+    "ar": "يسعل",
+    "en": "to cough",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich freuen",
+    "ar": "يفرح",
+    "en": "to be pleased",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "fühlen",
+    "ar": "يشعر",
+    "en": "to feel",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich fühlen",
+    "ar": "يشعر بحالة معينة",
+    "en": "to feel",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "führen",
+    "ar": "يقود؛ يدير",
+    "en": "to lead",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "füttern",
+    "ar": "يطعم حيوانًا",
+    "en": "to feed an animal",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "gefallen",
+    "ar": "يعجب شخصًا",
+    "en": "to appeal to; to please",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "gehören",
+    "ar": "يخصّ؛ ينتمي",
+    "en": "to belong",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "gelingen",
+    "ar": "ينجح أمر",
+    "en": "to succeed",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "genießen",
+    "ar": "يستمتع بـ",
+    "en": "to enjoy",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "niesen",
+    "ar": "يعطس",
+    "en": "to sneeze",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "gratulieren",
+    "ar": "يهنّئ",
+    "en": "to congratulate",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "grillen",
+    "ar": "يشوي",
+    "en": "to grill",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "grüßen",
+    "ar": "يحيّي",
+    "en": "to greet",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "halten",
+    "ar": "يمسك؛ يتوقف",
+    "en": "to hold; to stop",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "hängen",
+    "ar": "يتدلّى؛ يعلّق",
+    "en": "to hang",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "heizen",
+    "ar": "يدفّئ",
+    "en": "to heat",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "herunterladen",
+    "ar": "ينزّل ملفًا",
+    "en": "to download",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "hochladen",
+    "ar": "يرفع ملفًا",
+    "en": "to upload",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "hoffen",
+    "ar": "يأمل",
+    "en": "to hope",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sich interessieren",
+    "ar": "يهتم",
+    "en": "to be interested",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "klingeln",
+    "ar": "يرنّ",
+    "en": "to ring",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "klopfen",
+    "ar": "يطرق",
+    "en": "to knock",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "kopieren",
+    "ar": "ينسخ",
+    "en": "to copy",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "korrigieren",
+    "ar": "يصحّح",
+    "en": "to correct",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "kündigen",
+    "ar": "ينهي عقدًا؛ يستقيل",
+    "en": "to give notice; to resign",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "läuten",
+    "ar": "يدقّ الجرس",
+    "en": "to ring",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "leihen",
+    "ar": "يعير؛ يستعير",
+    "en": "to lend; to borrow",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "liefern",
+    "ar": "يوصّل",
+    "en": "to deliver",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "lösen",
+    "ar": "يحلّ",
+    "en": "to solve",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "lüften",
+    "ar": "يهوّي مكانًا",
+    "en": "to air a room",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "markieren",
+    "ar": "يضع علامة",
+    "en": "to mark",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "mieten",
+    "ar": "يستأجر",
+    "en": "to rent",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "mischen",
+    "ar": "يمزج",
+    "en": "to mix",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "mitarbeiten",
+    "ar": "يشارك في العمل",
+    "en": "to collaborate",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "mitfahren",
+    "ar": "يركب مع شخص",
+    "en": "to travel along",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "mitmachen",
+    "ar": "يشارك",
+    "en": "to join in",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "mitnehmen",
+    "ar": "يأخذ معه",
+    "en": "to take along",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "mitteilen",
+    "ar": "يبلغ",
+    "en": "to inform",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "nachdenken",
+    "ar": "يفكّر بتمعّن",
+    "en": "to think about",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "nachfragen",
+    "ar": "يستفسر مجددًا",
+    "en": "to ask for clarification",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "nachschauen",
+    "ar": "يتحقق بالنظر",
+    "en": "to check",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "nachschlagen",
+    "ar": "يبحث في مرجع",
+    "en": "to look up",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "nähen",
+    "ar": "يخيط",
+    "en": "to sew",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "nennen",
+    "ar": "يسمّي",
+    "en": "to name",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ordnen",
+    "ar": "يرتّب",
+    "en": "to organise",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "organisieren",
+    "ar": "ينظّم",
+    "en": "to organise",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "parken",
+    "ar": "يركن مركبة",
+    "en": "to park",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "passen",
+    "ar": "يناسب",
+    "en": "to fit; to suit",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "planen",
+    "ar": "يخطط",
+    "en": "to plan",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "probieren",
+    "ar": "يجرّب؛ يتذوّق",
+    "en": "to try; to taste",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "prüfen",
+    "ar": "يفحص",
+    "en": "to check; to examine",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "rauchen",
+    "ar": "يدخّن",
+    "en": "to smoke",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "reagieren",
+    "ar": "يتفاعل",
+    "en": "to react",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "rechnen",
+    "ar": "يحسب",
+    "en": "to calculate",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "reden",
+    "ar": "يتحدث",
+    "en": "to talk",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "reinigen",
+    "ar": "ينظّف",
+    "en": "to clean",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "reparieren",
+    "ar": "يصلح",
+    "en": "to repair",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "riechen",
+    "ar": "يشمّ؛ تفوح منه رائحة",
+    "en": "to smell",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "rufen",
+    "ar": "ينادي",
+    "en": "to call out",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sammeln",
+    "ar": "يجمع",
+    "en": "to collect",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "schaffen",
+    "ar": "ينجح في إنجاز",
+    "en": "to manage; to accomplish",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "scheinen",
+    "ar": "يبدو؛ يسطع",
+    "en": "to seem; to shine",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "schenken",
+    "ar": "يهدي",
+    "en": "to give as a gift",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "schmecken",
+    "ar": "يكون طعمه؛ يتذوّق",
+    "en": "to taste",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "schützen",
+    "ar": "يحمي",
+    "en": "to protect",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "sortieren",
+    "ar": "يفرز",
+    "en": "to sort",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "speichern",
+    "ar": "يحفظ بيانات",
+    "en": "to save data",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "spülen",
+    "ar": "يشطف؛ يغسل الأطباق",
+    "en": "to rinse; to wash dishes",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "stören",
+    "ar": "يزعج",
+    "en": "to disturb",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "streiten",
+    "ar": "يتشاجر",
+    "en": "to argue",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "tauschen",
+    "ar": "يبدّل",
+    "en": "to exchange",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "teilen",
+    "ar": "يقسّم؛ يشارك",
+    "en": "to share; to divide",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "teilnehmen",
+    "ar": "يشارك",
+    "en": "to take part",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "trocknen",
+    "ar": "يجفّف؛ يجفّ",
+    "en": "to dry",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "übernachten",
+    "ar": "يبيت",
+    "en": "to stay overnight",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "überprüfen",
+    "ar": "يتحقق من",
+    "en": "to check",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "übersetzen",
+    "ar": "يترجم",
+    "en": "to translate",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "überweisen",
+    "ar": "يحوّل مالًا",
+    "en": "to transfer money",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "umtauschen",
+    "ar": "يستبدل سلعة",
+    "en": "to exchange goods",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "untersuchen",
+    "ar": "يفحص طبيًا؛ يبحث",
+    "en": "to examine",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "verbessern",
+    "ar": "يحسّن",
+    "en": "to improve",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "verbieten",
+    "ar": "يمنع",
+    "en": "to forbid",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "verdienen",
+    "ar": "يكسب أجرًا؛ يستحق",
+    "en": "to earn; to deserve",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "vergleichen",
+    "ar": "يقارن",
+    "en": "to compare",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "vermieten",
+    "ar": "يؤجّر",
+    "en": "to rent out",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "verschieben",
+    "ar": "يؤجّل؛ يزيح",
+    "en": "to postpone; to move",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "versprechen",
+    "ar": "يَعِد",
+    "en": "to promise",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "versuchen",
+    "ar": "يحاول",
+    "en": "to try",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "vorbereiten",
+    "ar": "يحضّر",
+    "en": "to prepare",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "vorstellen",
+    "ar": "يقدّم شخصًا؛ يتخيّل",
+    "en": "to introduce; to imagine",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "wählen",
+    "ar": "يختار؛ ينتخب",
+    "en": "to choose; to vote",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "zurückgeben",
+    "ar": "يعيد شيئًا",
+    "en": "to give back",
+    "topic": "أفعال الحياة اليومية والتعامل"
+  },
+  {
+    "de": "ähnlich",
+    "ar": "مشابه",
+    "en": "similar",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "anders",
+    "ar": "مختلف؛ بشكل آخر",
+    "en": "different; differently",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "angenehm",
+    "ar": "لطيف؛ مريح",
+    "en": "pleasant",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "anstrengend",
+    "ar": "مُجهد",
+    "en": "tiring",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "arbeitslos",
+    "ar": "عاطل عن العمل",
+    "en": "unemployed",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "ärgerlich",
+    "ar": "مزعج؛ غاضب",
+    "en": "annoying; annoyed",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "aufmerksam",
+    "ar": "منتبه",
+    "en": "attentive",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "aufgeregt",
+    "ar": "منفعل؛ متحمّس",
+    "en": "excited; nervous",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "ausreichend",
+    "ar": "كافٍ",
+    "en": "sufficient",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "bekannt",
+    "ar": "معروف",
+    "en": "known; familiar",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "beliebt",
+    "ar": "محبوب",
+    "en": "popular",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "bereit",
+    "ar": "مستعد",
+    "en": "ready",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "beruflich",
+    "ar": "مهني؛ متعلق بالعمل",
+    "en": "professional; work-related",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "beschäftigt",
+    "ar": "مشغول",
+    "en": "busy",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "besonders",
+    "ar": "خاص؛ خصوصًا",
+    "en": "special; particularly",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "bestimmt",
+    "ar": "معيّن؛ بالتأكيد",
+    "en": "specific; certainly",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "preiswert",
+    "ar": "بسعر مناسب",
+    "en": "reasonably priced",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "deutlich",
+    "ar": "واضح",
+    "en": "clear",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "direkt",
+    "ar": "مباشر",
+    "en": "direct",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "dringend",
+    "ar": "عاجل",
+    "en": "urgent",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "egal",
+    "ar": "لا يهم؛ متساوٍ",
+    "en": "it does not matter; equal",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "ehrlich",
+    "ar": "صادق",
+    "en": "honest",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "eigen",
+    "ar": "خاص بالمرء",
+    "en": "own",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "einsam",
+    "ar": "وحيد",
+    "en": "lonely",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "eng",
+    "ar": "ضيّق",
+    "en": "tight; narrow",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "entfernt",
+    "ar": "بعيد",
+    "en": "distant",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "entspannt",
+    "ar": "مسترخٍ",
+    "en": "relaxed",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "erfolgreich",
+    "ar": "ناجح",
+    "en": "successful",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "ernst",
+    "ar": "جاد",
+    "en": "serious",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "fleißig",
+    "ar": "مجتهد",
+    "en": "hard-working",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "fremd",
+    "ar": "غريب؛ أجنبي",
+    "en": "strange; foreign",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "gefährlich",
+    "ar": "خطير",
+    "en": "dangerous",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "gemütlich",
+    "ar": "مريح ودافئ",
+    "en": "cosy",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "genau",
+    "ar": "دقيق؛ بالضبط",
+    "en": "exact; exactly",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "gerecht",
+    "ar": "عادل",
+    "en": "fair",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "getrennt",
+    "ar": "منفصل",
+    "en": "separate",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "gewöhnlich",
+    "ar": "عادي؛ عادةً",
+    "en": "usual; usually",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "gleich",
+    "ar": "متساوٍ؛ بعد قليل",
+    "en": "same; in a moment",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "gültig",
+    "ar": "صالح",
+    "en": "valid",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "hilfsbereit",
+    "ar": "مستعد للمساعدة",
+    "en": "helpful",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "höchstens",
+    "ar": "على الأكثر",
+    "en": "at most",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "hauptsächlich",
+    "ar": "بشكل رئيسي",
+    "en": "mainly",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "leider",
+    "ar": "للأسف",
+    "en": "unfortunately",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "lieber",
+    "ar": "يفضّل؛ بالأحرى",
+    "en": "preferably; rather",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "mindestens",
+    "ar": "على الأقل",
+    "en": "at least",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "normal",
+    "ar": "عادي",
+    "en": "normal",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "notwendig",
+    "ar": "ضروري",
+    "en": "necessary",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "öffentlich",
+    "ar": "عام؛ متاح للجمهور",
+    "en": "public",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "persönlich",
+    "ar": "شخصي",
+    "en": "personal",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "privat",
+    "ar": "خاص",
+    "en": "private",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "regelmäßig",
+    "ar": "بانتظام",
+    "en": "regularly",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "selbstständig",
+    "ar": "مستقل",
+    "en": "independent",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "sicher",
+    "ar": "آمن؛ متأكد",
+    "en": "safe; certain",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "sofort",
+    "ar": "فورًا",
+    "en": "immediately",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "sonst",
+    "ar": "وإلّا؛ غير ذلك",
+    "en": "otherwise; else",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "ungefähr",
+    "ar": "تقريبًا",
+    "en": "approximately",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "unterwegs",
+    "ar": "في الطريق",
+    "en": "on the way",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "verschieden",
+    "ar": "مختلف؛ متنوع",
+    "en": "different; various",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "vielleicht",
+    "ar": "ربما",
+    "en": "perhaps",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "wahrscheinlich",
+    "ar": "على الأرجح",
+    "en": "probably",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "zusammen",
+    "ar": "معًا",
+    "en": "together",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "zuerst",
+    "ar": "أولًا",
+    "en": "first",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "zuletzt",
+    "ar": "أخيرًا",
+    "en": "last; finally",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "deshalb",
+    "ar": "لذلك",
+    "en": "therefore",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "trotzdem",
+    "ar": "مع ذلك",
+    "en": "nevertheless",
+    "topic": "صفات وظروف وروابط"
+  },
+  {
+    "de": "während",
+    "ar": "أثناء؛ بينما",
+    "en": "during; while",
+    "topic": "صفات وظروف وروابط"
+  }
+]

@@ -1,0 +1,6002 @@
+[
+  {
+    "de": "die Aporie",
+    "ar": "المأزق الفكري",
+    "en": "aporia; intellectual impasse",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Antinomie",
+    "ar": "التناقض بين مبدأين",
+    "en": "antinomy",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Dichotomie",
+    "ar": "التقسيم الثنائي",
+    "en": "dichotomy",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Dialektik",
+    "ar": "الجدل الفكري",
+    "en": "dialectics",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Hermeneutik",
+    "ar": "علم التأويل",
+    "en": "hermeneutics",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Heuristik",
+    "ar": "منهج الاستكشاف",
+    "en": "heuristics",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Epistemologie",
+    "ar": "نظرية المعرفة",
+    "en": "epistemology",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Ontologie",
+    "ar": "علم الوجود",
+    "en": "ontology",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Metaphysik",
+    "ar": "ما وراء الطبيعة",
+    "en": "metaphysics",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Phänomenologie",
+    "ar": "علم الظواهر",
+    "en": "phenomenology",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Teleologie",
+    "ar": "التفسير بالغائية",
+    "en": "teleology",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Determination",
+    "ar": "التحديد؛ التعيين",
+    "en": "determination",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Immanenz",
+    "ar": "المحايثة؛ الوجود داخل الشيء",
+    "en": "immanence",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Transzendenz",
+    "ar": "التجاوز لما هو محسوس",
+    "en": "transcendence",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Universalität",
+    "ar": "الشمول الكلّي",
+    "en": "universality",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Partikularität",
+    "ar": "الخصوصية الجزئية",
+    "en": "particularity",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Singularität",
+    "ar": "التفرّد",
+    "en": "singularity",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Essentialität",
+    "ar": "الصفة الجوهرية",
+    "en": "essentiality",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Akzidenz",
+    "ar": "الصفة غير الجوهرية",
+    "en": "accident; nonessential property",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Substanz",
+    "ar": "الجوهر؛ المادّة",
+    "en": "substance",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Essenz",
+    "ar": "الخلاصة الجوهرية",
+    "en": "essence",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Quintessenz",
+    "ar": "لبّ الخلاصة",
+    "en": "quintessence",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Abstraktheit",
+    "ar": "التجرّد",
+    "en": "abstractness",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Konkretion",
+    "ar": "التجسيد المحدّد",
+    "en": "concretisation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Induktion",
+    "ar": "الاستقراء",
+    "en": "induction",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Deduktion",
+    "ar": "الاستنباط",
+    "en": "deduction",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Abduktion",
+    "ar": "الاستدلال إلى أفضل تفسير",
+    "en": "abductive reasoning",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Inferenz",
+    "ar": "الاستدلال",
+    "en": "inference",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Explikation",
+    "ar": "الشرح الصريح المفصّل",
+    "en": "explication",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Präzisierung",
+    "ar": "التحديد الدقيق",
+    "en": "specification",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Operationalisierung",
+    "ar": "تحويل مفهوم إلى مؤشرات قابلة للقياس",
+    "en": "operationalisation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Systematisierung",
+    "ar": "التنظيم في منظومة",
+    "en": "systematisation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Konzeptualisierung",
+    "ar": "الصياغة المفاهيمية",
+    "en": "conceptualisation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Theoriebildung",
+    "ar": "بناء النظرية",
+    "en": "theory formation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Paradigmenbildung",
+    "ar": "تشكّل نموذج فكري",
+    "en": "paradigm formation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "der Paradigmenwechsel",
+    "ar": "التحوّل في النموذج الفكري",
+    "en": "paradigm shift",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Paradigma",
+    "ar": "النموذج الفكري",
+    "en": "paradigm",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Axiom",
+    "ar": "المسلّمة",
+    "en": "axiom",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Postulat",
+    "ar": "المبدأ المفترض",
+    "en": "postulate",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Dogma",
+    "ar": "العقيدة القطعية",
+    "en": "dogma",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Diktum",
+    "ar": "المقولة الحاسمة",
+    "en": "dictum",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Theorem",
+    "ar": "النظرية المثبتة",
+    "en": "theorem",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Korollar",
+    "ar": "النتيجة التابعة لبرهان",
+    "en": "corollary",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "der Syllogismus",
+    "ar": "القياس المنطقي",
+    "en": "syllogism",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Tautologie",
+    "ar": "تحصيل الحاصل",
+    "en": "tautology",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "der Zirkelschluss",
+    "ar": "الاستدلال الدائري",
+    "en": "circular reasoning",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Scheinkausalität",
+    "ar": "السببية الزائفة",
+    "en": "spurious causality",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Scheinkorrelation",
+    "ar": "الارتباط الزائف",
+    "en": "spurious correlation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "das Gegenbeispiel",
+    "ar": "المثال الناقض",
+    "en": "counterexample",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Gegenprobe",
+    "ar": "التحقّق بطريقة معاكسة",
+    "en": "cross-check",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Falsifikation",
+    "ar": "دحض الفرضية",
+    "en": "falsification",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Verifikation",
+    "ar": "التحقّق من الصحّة",
+    "en": "verification",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Plausibilitätsprüfung",
+    "ar": "فحص المعقولية",
+    "en": "plausibility check",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Evidenz",
+    "ar": "الدليل الواضح",
+    "en": "evidence",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Evidenzlage",
+    "ar": "مجمل الأدلّة المتاحة",
+    "en": "state of the evidence",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Erkenntnisleistung",
+    "ar": "الإنجاز المعرفي",
+    "en": "cognitive achievement",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Erkenntnisquelle",
+    "ar": "مصدر المعرفة",
+    "en": "source of knowledge",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Erkenntniskritik",
+    "ar": "النقد المعرفي",
+    "en": "critique of knowledge",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Erkenntnisbedingung",
+    "ar": "شرط إمكان المعرفة",
+    "en": "condition of knowledge",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Wissensordnung",
+    "ar": "تنظيم المعرفة",
+    "en": "order of knowledge",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Wissensproduktion",
+    "ar": "إنتاج المعرفة",
+    "en": "knowledge production",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Wissenssoziologie",
+    "ar": "علم اجتماع المعرفة",
+    "en": "sociology of knowledge",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Denktradition",
+    "ar": "التقليد الفكري",
+    "en": "intellectual tradition",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Denkfigur",
+    "ar": "البنية المتكرّرة في التفكير",
+    "en": "figure of thought",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Denkblockade",
+    "ar": "العائق الذهني",
+    "en": "mental block",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Denkverengung",
+    "ar": "تضييق أفق التفكير",
+    "en": "narrowing of thought",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Denkfreiheit",
+    "ar": "حرية التفكير",
+    "en": "freedom of thought",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Denknotwendigkeit",
+    "ar": "الضرورة المنطقية",
+    "en": "logical necessity",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Prämissenprüfung",
+    "ar": "فحص المقدّمات",
+    "en": "examination of premises",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Prämissenkritik",
+    "ar": "نقد المقدّمات",
+    "en": "critique of premises",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Begriffsunschärfe",
+    "ar": "عدم دقّة المفهوم",
+    "en": "conceptual vagueness",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Begriffsgeschichte",
+    "ar": "تاريخ المفاهيم",
+    "en": "conceptual history",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Begriffsarbeit",
+    "ar": "العمل على توضيح المفاهيم",
+    "en": "conceptual clarification",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Begriffsverschiebung",
+    "ar": "تغيّر دلالة المفهوم",
+    "en": "conceptual shift",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Begriffsverwirrung",
+    "ar": "الخلط المفاهيمي",
+    "en": "conceptual confusion",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Kategorienbildung",
+    "ar": "تشكيل الفئات",
+    "en": "category formation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "der Kategorienfehler",
+    "ar": "خطأ الخلط بين الفئات",
+    "en": "category mistake",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Taxonomie",
+    "ar": "التصنيف المنهجي",
+    "en": "taxonomy",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Typologie",
+    "ar": "تصنيف الأنماط",
+    "en": "typology",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Analogie",
+    "ar": "المماثلة",
+    "en": "analogy",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Disanalogie",
+    "ar": "وجه الاختلاف في المقارنة",
+    "en": "disanalogy",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Inkommensurabilität",
+    "ar": "عدم القابلية للمقارنة بمعيار واحد",
+    "en": "incommensurability",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Widerspruchsfreiheit",
+    "ar": "الخلوّ من التناقض",
+    "en": "consistency",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Unentscheidbarkeit",
+    "ar": "استحالة الحسم",
+    "en": "undecidability",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Unbestimmtheit",
+    "ar": "عدم التعيّن",
+    "en": "indeterminacy",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Unschärfe",
+    "ar": "غياب الدقّة",
+    "en": "imprecision",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Vielstimmigkeit",
+    "ar": "تعدّد الأصوات",
+    "en": "polyphony",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Multiperspektivität",
+    "ar": "تعدّد المنظورات",
+    "en": "multiple perspectives",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Selbstbezüglichkeit",
+    "ar": "الإحالة إلى الذات",
+    "en": "self-reference",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Selbstwidersprüchlichkeit",
+    "ar": "التناقض الذاتي",
+    "en": "self-contradiction",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Letztbegründung",
+    "ar": "التأسيس النهائي للحجّة",
+    "en": "ultimate justification",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Begründungspflicht",
+    "ar": "واجب تقديم التعليل",
+    "en": "duty to give reasons",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Begründungslücke",
+    "ar": "فجوة التعليل",
+    "en": "gap in justification",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Argumentationslücke",
+    "ar": "ثغرة الحجّة",
+    "en": "gap in reasoning",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Argumentationsschwäche",
+    "ar": "ضعف الاستدلال",
+    "en": "weakness in reasoning",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Fehldeutung",
+    "ar": "التأويل الخاطئ",
+    "en": "misinterpretation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Überinterpretation",
+    "ar": "المبالغة في التأويل",
+    "en": "overinterpretation",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Unterkomplexität",
+    "ar": "التبسيط دون مستوى التعقيد الفعلي",
+    "en": "oversimplification",
+    "topic": "دقّة الفكر والنقد"
+  },
+  {
+    "de": "die Eloquenz",
+    "ar": "الفصاحة",
+    "en": "eloquence",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Diktion",
+    "ar": "أسلوب انتقاء الألفاظ",
+    "en": "diction",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Ausdrucksnuance",
+    "ar": "درجة دقيقة في التعبير",
+    "en": "expressive nuance",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sprachökonomie",
+    "ar": "الاقتصاد في التعبير",
+    "en": "linguistic economy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sprachkritik",
+    "ar": "نقد الاستعمال اللغوي",
+    "en": "language criticism",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sprachsensibilität",
+    "ar": "الحساسية للفروق اللغوية",
+    "en": "linguistic sensitivity",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sprachmächtigkeit",
+    "ar": "القدرة البليغة على التعبير",
+    "en": "verbal mastery",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sprachlosigkeit",
+    "ar": "العجز عن التعبير",
+    "en": "speechlessness",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sprachskepsis",
+    "ar": "الشكّ في قدرة اللغة على تمثيل الواقع",
+    "en": "scepticism about language",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sprachreflexion",
+    "ar": "التأمّل في اللغة",
+    "en": "reflection on language",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Polysemie",
+    "ar": "تعدّد معاني اللفظ",
+    "en": "polysemy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Homonymie",
+    "ar": "اشتراك ألفاظ مختلفة في الشكل",
+    "en": "homonymy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Synonymie",
+    "ar": "الترادف",
+    "en": "synonymy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Antonymie",
+    "ar": "التضادّ الدلالي",
+    "en": "antonymy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Bedeutungsverschiebung",
+    "ar": "انزياح المعنى",
+    "en": "semantic shift",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Bedeutungsverengung",
+    "ar": "تضييق المعنى",
+    "en": "narrowing of meaning",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Bedeutungserweiterung",
+    "ar": "اتّساع المعنى",
+    "en": "broadening of meaning",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Bedeutungsübertragung",
+    "ar": "نقل المعنى",
+    "en": "transfer of meaning",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Bedeutungsaufladung",
+    "ar": "إكساب اللفظ دلالات إضافية",
+    "en": "loading with meaning",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Bedeutungsentleerung",
+    "ar": "تفريغ اللفظ من معناه",
+    "en": "emptying of meaning",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Lesart",
+    "ar": "وجه القراءة أو التأويل",
+    "en": "reading; interpretation",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Deutungsebene",
+    "ar": "مستوى التأويل",
+    "en": "level of interpretation",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Deutungsvielfalt",
+    "ar": "تنوّع التأويلات",
+    "en": "diversity of interpretations",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Deutungsmacht",
+    "ar": "قوّة فرض التأويل",
+    "en": "interpretive power",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Textur",
+    "ar": "نسيج النصّ أو السطح",
+    "en": "texture",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Intertextualität",
+    "ar": "التناصّ",
+    "en": "intertextuality",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Referentialität",
+    "ar": "الإحالة إلى واقع أو مرجع",
+    "en": "referentiality",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Fiktionalität",
+    "ar": "الصفة التخييلية",
+    "en": "fictionality",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Literarizität",
+    "ar": "الأدبية",
+    "en": "literariness",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Narration",
+    "ar": "السرد",
+    "en": "narration",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "das Narrativ",
+    "ar": "السردية",
+    "en": "narrative",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Narratologie",
+    "ar": "علم السرد",
+    "en": "narratology",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Erzählhaltung",
+    "ar": "موقف الراوي",
+    "en": "narrative stance",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Erzählinstanz",
+    "ar": "الجهة الراوية",
+    "en": "narrative voice",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Erzählzeit",
+    "ar": "زمن عرض السرد",
+    "en": "narration time",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die erzählte Zeit",
+    "ar": "المدّة التي تغطّيها الأحداث",
+    "en": "story time",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Zeitraffung",
+    "ar": "تسريع زمن السرد",
+    "en": "narrative time compression",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Zeitdehnung",
+    "ar": "إبطاء زمن السرد",
+    "en": "narrative time expansion",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Figurenrede",
+    "ar": "كلام الشخصيات",
+    "en": "character speech",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die erlebte Rede",
+    "ar": "الخطاب غير المباشر الحرّ",
+    "en": "free indirect discourse",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "der innere Monolog",
+    "ar": "المناجاة الداخلية",
+    "en": "interior monologue",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "der Bewusstseinsstrom",
+    "ar": "تيّار الوعي",
+    "en": "stream of consciousness",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Unzuverlässigkeit",
+    "ar": "عدم الموثوقية",
+    "en": "unreliability",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Leerstelle",
+    "ar": "الفجوة الدلالية في النصّ",
+    "en": "textual gap",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Mehrstimmigkeit",
+    "ar": "تعدّد الأصوات",
+    "en": "polyphony",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Verfremdung",
+    "ar": "التغريب",
+    "en": "estrangement",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Vergegenwärtigung",
+    "ar": "استحضار الشيء ذهنيًا",
+    "en": "making present in the mind",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Verlebendigung",
+    "ar": "إضفاء الحيوية",
+    "en": "bringing to life",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Verdichtung",
+    "ar": "التكثيف",
+    "en": "condensation",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Verknappung",
+    "ar": "الإيجاز المكثّف",
+    "en": "compression",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Ausschmückung",
+    "ar": "الزخرفة التعبيرية",
+    "en": "embellishment",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Abschweifung",
+    "ar": "الاستطراد",
+    "en": "digression",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Exposition",
+    "ar": "عرض الخلفية في بداية العمل",
+    "en": "exposition",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Peripetie",
+    "ar": "التحوّل الحاسم في الحبكة",
+    "en": "reversal of fortune",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Katharsis",
+    "ar": "التطهير الوجداني",
+    "en": "catharsis",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Tragik",
+    "ar": "المأساوية",
+    "en": "tragic quality",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Komik",
+    "ar": "الطابع المضحك",
+    "en": "comic quality",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Groteske",
+    "ar": "المزج الغريب بين الهزل والرهبة",
+    "en": "grotesque",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Burleske",
+    "ar": "العمل الهزلي المبالغ فيه",
+    "en": "burlesque",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Farce",
+    "ar": "المهزلة",
+    "en": "farce",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Posse",
+    "ar": "الملهاة الخفيفة",
+    "en": "farce; comic play",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Travestie",
+    "ar": "إعادة صياغة ساخرة",
+    "en": "travesty",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Persiflage",
+    "ar": "التقليد الساخر",
+    "en": "satirical imitation",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Polemik",
+    "ar": "السجال الهجومي",
+    "en": "polemic",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Invektive",
+    "ar": "الهجاء اللاذع",
+    "en": "invective",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Schmähung",
+    "ar": "الإساءة اللفظية",
+    "en": "vilification",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Schmähkritik",
+    "ar": "النقد الذي يهدف إلى الإهانة",
+    "en": "defamatory criticism",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Apologie",
+    "ar": "الدفاع المنهجي عن فكرة",
+    "en": "apologia",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Eloge",
+    "ar": "خطاب المديح",
+    "en": "eulogy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Elegie",
+    "ar": "المرثية التأمّلية",
+    "en": "elegy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Ode",
+    "ar": "القصيدة الاحتفائية",
+    "en": "ode",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Hymne",
+    "ar": "النشيد الممجّد",
+    "en": "hymn",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "das Epigramm",
+    "ar": "القول الشعري الوجيز اللاذع",
+    "en": "epigram",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "der Aphorismus",
+    "ar": "الحكمة المكثّفة",
+    "en": "aphorism",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Sentenz",
+    "ar": "المقولة الحكيمة",
+    "en": "maxim",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Maxime",
+    "ar": "المبدأ الموجّه للسلوك",
+    "en": "maxim",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "das Bonmot",
+    "ar": "العبارة الذكية الطريفة",
+    "en": "witty remark",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "das Aperçu",
+    "ar": "اللمحة الفكرية الوجيزة",
+    "en": "brief insight",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "das Oxymoron",
+    "ar": "جمع لفظين متضادّين",
+    "en": "oxymoron",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Synekdoche",
+    "ar": "التعبير بالجزء عن الكلّ أو العكس",
+    "en": "synecdoche",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Metonymie",
+    "ar": "المجاز المرسل",
+    "en": "metonymy",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Hyperbel",
+    "ar": "المبالغة البلاغية",
+    "en": "hyperbole",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Litotes",
+    "ar": "التوكيد بنفي الضدّ",
+    "en": "litotes",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Ellipse",
+    "ar": "الحذف البلاغي",
+    "en": "ellipsis",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Anapher",
+    "ar": "تكرار اللفظ في البداية",
+    "en": "anaphora",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Epipher",
+    "ar": "تكرار اللفظ في النهاية",
+    "en": "epistrophe",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "der Chiasmus",
+    "ar": "التقاطع في ترتيب عناصر الجملة",
+    "en": "chiasmus",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Klimax",
+    "ar": "التدرّج التصاعدي",
+    "en": "climax",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Antiklimax",
+    "ar": "التدرّج التنازلي",
+    "en": "anticlimax",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Antithese",
+    "ar": "المقابلة بين فكرتين",
+    "en": "antithesis",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Personifikation",
+    "ar": "التشخيص",
+    "en": "personification",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Alliteration",
+    "ar": "تكرار الصوت الأوّل",
+    "en": "alliteration",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Assonanz",
+    "ar": "تكرار أصوات العلّة",
+    "en": "assonance",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Lautmalerei",
+    "ar": "المحاكاة الصوتية",
+    "en": "onomatopoeia",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Euphonie",
+    "ar": "حسن الوقع الصوتي",
+    "en": "euphony",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Dissonanz",
+    "ar": "التنافر",
+    "en": "dissonance",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Kadenz",
+    "ar": "القفلة الإيقاعية",
+    "en": "cadence",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Zäsur",
+    "ar": "الوقفة؛ الانقطاع الفاصل",
+    "en": "caesura; turning point",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "das Enjambement",
+    "ar": "تجاوز الجملة حدّ البيت الشعري",
+    "en": "enjambment",
+    "topic": "اللغة والأدب والبلاغة"
+  },
+  {
+    "de": "die Abgeklärtheit",
+    "ar": "الرزانة النابعة من الخبرة",
+    "en": "serenity born of experience",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Besonnenheit",
+    "ar": "التروّي",
+    "en": "level-headedness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Bedachtsamkeit",
+    "ar": "التأنّي المدروس",
+    "en": "deliberateness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Behutsamkeit",
+    "ar": "الحذر اللطيف",
+    "en": "gentleness; caution",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Umsicht",
+    "ar": "حسن التبصّر",
+    "en": "prudence",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Weitsicht",
+    "ar": "بُعد النظر",
+    "en": "foresight",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Klarsicht",
+    "ar": "وضوح الرؤية",
+    "en": "clear-sightedness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Scharfsicht",
+    "ar": "حدّة الملاحظة",
+    "en": "keen perception",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Scharfsinnigkeit",
+    "ar": "الذكاء النافذ",
+    "en": "acuteness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Findigkeit",
+    "ar": "سرعة إيجاد الحلول",
+    "en": "resourcefulness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Geistesgegenwart",
+    "ar": "سرعة البديهة في الموقف",
+    "en": "presence of mind",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Schlagfertigkeit",
+    "ar": "سرعة الردّ الذكي",
+    "en": "quick-wittedness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "der Geistesblitz",
+    "ar": "الفكرة اللامعة المفاجئة",
+    "en": "flash of inspiration",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Gewandtheit",
+    "ar": "البراعة والمرونة",
+    "en": "dexterity; adeptness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Weltgewandtheit",
+    "ar": "الخبرة في التعامل الاجتماعي",
+    "en": "worldliness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Weltfremdheit",
+    "ar": "البعد عن واقع الحياة",
+    "en": "unworldliness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Weltläufigkeit",
+    "ar": "سعة الخبرة بالعالم",
+    "en": "cosmopolitan sophistication",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Weltmüdigkeit",
+    "ar": "الضجر من الحياة",
+    "en": "world-weariness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Lebensklugheit",
+    "ar": "الحكمة العملية",
+    "en": "practical wisdom",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Lebensbejahung",
+    "ar": "الإقبال الإيجابي على الحياة",
+    "en": "affirmation of life",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Lebensüberdrüssigkeit",
+    "ar": "السأم من الحياة",
+    "en": "weariness of life",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Schwermut",
+    "ar": "الحزن العميق الهادئ",
+    "en": "melancholy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Wehmut",
+    "ar": "الحزن الرقيق الممزوج بالحنين",
+    "en": "wistfulness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Melancholie",
+    "ar": "الكآبة التأمّلية",
+    "en": "melancholy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Trübsal",
+    "ar": "الغمّ",
+    "en": "gloom",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Tristesse",
+    "ar": "الرتابة الكئيبة",
+    "en": "dreariness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Beklommenheit",
+    "ar": "الانقباض والقلق",
+    "en": "apprehension",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Bangigkeit",
+    "ar": "الخوف القَلِق",
+    "en": "anxiety",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Bestürzung",
+    "ar": "الصدمة والحيرة",
+    "en": "consternation",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Fassungslosigkeit",
+    "ar": "الذهول",
+    "en": "utter astonishment",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Verstörung",
+    "ar": "الاضطراب النفسي",
+    "en": "distress",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Verstimmtheit",
+    "ar": "تعكّر المزاج",
+    "en": "displeasure",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Gereiztheit",
+    "ar": "سرعة الانفعال",
+    "en": "irritability",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Empörung",
+    "ar": "السخط",
+    "en": "indignation",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Entrüstung",
+    "ar": "الغضب الأخلاقي",
+    "en": "outrage",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Erbitterung",
+    "ar": "المرارة والغضب الشديد",
+    "en": "bitterness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Verbissenheit",
+    "ar": "الإصرار المتشنّج",
+    "en": "grim determination",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Verstocktheit",
+    "ar": "العناد الرافض للاعتراف",
+    "en": "obstinacy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unversöhnlichkeit",
+    "ar": "رفض المصالحة",
+    "en": "irreconcilability",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Rechthaberei",
+    "ar": "الإصرار على امتلاك الحقّ",
+    "en": "insistence on being right",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Besserwisserei",
+    "ar": "التظاهر بمعرفة كلّ شيء",
+    "en": "know-it-all behaviour",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Selbstgefälligkeit",
+    "ar": "الرضا المتعالي عن الذات",
+    "en": "complacency",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Selbstgerechtigkeit",
+    "ar": "الاعتقاد المتعالي بالصواب الأخلاقي",
+    "en": "self-righteousness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Selbstüberhöhung",
+    "ar": "تعظيم الذات",
+    "en": "self-aggrandisement",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Überheblichkeit",
+    "ar": "التكبّر",
+    "en": "arrogance",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Anmaßung",
+    "ar": "ادّعاء ما لا يحقّ",
+    "en": "presumption",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Vermessenheit",
+    "ar": "الجرأة المتعالية غير المحسوبة",
+    "en": "presumptuousness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Hybris",
+    "ar": "الغرور المفرط",
+    "en": "hubris",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Eitelkeit",
+    "ar": "الغرور بالمظهر أو الإنجاز",
+    "en": "vanity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Geltungssucht",
+    "ar": "الهوس بالحصول على الاعتبار",
+    "en": "craving for recognition",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Profilierungssucht",
+    "ar": "الهوس بإبراز الذات",
+    "en": "compulsive self-promotion",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Gefallsucht",
+    "ar": "الهوس بإرضاء الآخرين",
+    "en": "craving to please",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unterwürfigkeit",
+    "ar": "الخنوع",
+    "en": "submissiveness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Kriecherei",
+    "ar": "التملّق الذليل",
+    "en": "servility",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Liebedienerei",
+    "ar": "التودّد المتملّق",
+    "en": "sycophancy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Schmeichelei",
+    "ar": "الإطراء المتملّق",
+    "en": "flattery",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Heuchelei",
+    "ar": "النفاق",
+    "en": "hypocrisy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Doppelzüngigkeit",
+    "ar": "ازدواج الكلام المخادع",
+    "en": "duplicity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Hinterlist",
+    "ar": "المكر",
+    "en": "guile",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Arglist",
+    "ar": "الخداع المتعمّد",
+    "en": "deceit",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Niedertracht",
+    "ar": "الدناءة",
+    "en": "baseness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Missgunst",
+    "ar": "الحسد وسوء التمنّي",
+    "en": "resentful envy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Häme",
+    "ar": "الشماتة الساخرة",
+    "en": "malicious glee",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Schadenfreude",
+    "ar": "الفرح بمصيبة الغير",
+    "en": "schadenfreude",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Gehässigkeit",
+    "ar": "الحقد المؤذي",
+    "en": "spitefulness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Boshaftigkeit",
+    "ar": "الخبث",
+    "en": "malice",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Heimtücke",
+    "ar": "الغدر الخفيّ",
+    "en": "treachery",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "der Argwohn",
+    "ar": "الارتياب",
+    "en": "suspicion",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Arglosigkeit",
+    "ar": "حسن النيّة دون شكّ",
+    "en": "guilelessness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Gutgläubigkeit",
+    "ar": "سهولة التصديق",
+    "en": "credulity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Leichtgläubigkeit",
+    "ar": "السذاجة في التصديق",
+    "en": "gullibility",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Vertrauensseligkeit",
+    "ar": "الإفراط في الثقة",
+    "en": "overtrustfulness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unbedarftheit",
+    "ar": "قلّة الخبرة والسذاجة",
+    "en": "naivety",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unbekümmertheit",
+    "ar": "عدم الاكتراث بالهموم",
+    "en": "carefreeness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unbeschwertheit",
+    "ar": "الخلوّ من الهمّ",
+    "en": "light-heartedness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unverdrossenheit",
+    "ar": "المثابرة دون إحباط",
+    "en": "undaunted perseverance",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unerschrockenheit",
+    "ar": "الجرأة دون خوف",
+    "en": "fearlessness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unbeugsamkeit",
+    "ar": "صلابة الموقف",
+    "en": "unyielding resolve",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unerschütterlichkeit",
+    "ar": "الثبات الذي لا يتزعزع",
+    "en": "steadfastness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Standhaftigkeit",
+    "ar": "الثبات أمام الضغط",
+    "en": "steadfastness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Langmut",
+    "ar": "طول الصبر",
+    "en": "forbearance",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Nachsicht",
+    "ar": "التسامح مع الخطأ",
+    "en": "leniency",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Milde",
+    "ar": "اللطف وعدم القسوة",
+    "en": "gentleness; leniency",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Güte",
+    "ar": "طيبة النفس",
+    "en": "kindness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Herzensgüte",
+    "ar": "طيبة القلب",
+    "en": "kind-heartedness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Großmut",
+    "ar": "كرم النفس",
+    "en": "magnanimity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Freigebigkeit",
+    "ar": "السخاء",
+    "en": "generosity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Selbstlosigkeit",
+    "ar": "الإيثار",
+    "en": "selflessness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Aufrichtigkeit",
+    "ar": "الصدق والإخلاص",
+    "en": "sincerity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Lauterkeit",
+    "ar": "النزاهة",
+    "en": "integrity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Redlichkeit",
+    "ar": "الأمانة",
+    "en": "honesty",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Rechtschaffenheit",
+    "ar": "الاستقامة",
+    "en": "uprightness",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Integrität",
+    "ar": "النزاهة؛ التكامل",
+    "en": "integrity",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unbestechlichkeit",
+    "ar": "عدم قبول الرشوة",
+    "en": "incorruptibility",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Unverbrüchlichkeit",
+    "ar": "الثبات الذي لا يُنقض",
+    "en": "unwavering constancy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Hingabe",
+    "ar": "التفاني",
+    "en": "devotion",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Inbrunst",
+    "ar": "الحرارة الوجدانية",
+    "en": "fervour",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Innigkeit",
+    "ar": "عمق الحميمية",
+    "en": "intimacy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Zuwendung",
+    "ar": "الاهتمام العاطفي",
+    "en": "affectionate attention",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "die Anteilnahme",
+    "ar": "المشاركة الوجدانية",
+    "en": "sympathy",
+    "topic": "الشخصية والمشاعر والتفاعل"
+  },
+  {
+    "de": "abgründig",
+    "ar": "عميق وغامض على نحو مقلق",
+    "en": "fathomless; darkly profound",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "abhold",
+    "ar": "نافر من شيء",
+    "en": "averse",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "abseitig",
+    "ar": "بعيد عن المألوف",
+    "en": "obscure; offbeat",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "absonderlich",
+    "ar": "غريب الأطوار",
+    "en": "peculiar",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "abstrus",
+    "ar": "غامض وغير معقول",
+    "en": "abstruse",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "adversativ",
+    "ar": "مفيد للتعارض",
+    "en": "adversative",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "affektiert",
+    "ar": "متكلّف",
+    "en": "affected",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "akribisch",
+    "ar": "بالغ الدقّة",
+    "en": "meticulous",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "allegorisch",
+    "ar": "رمزي ممتدّ",
+    "en": "allegorical",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "allusiv",
+    "ar": "تلميحي",
+    "en": "allusive",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "amorph",
+    "ar": "عديم الشكل المحدّد",
+    "en": "amorphous",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "anachronistisch",
+    "ar": "غير ملائم لعصره",
+    "en": "anachronistic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "anrüchig",
+    "ar": "مشبوه السمعة",
+    "en": "disreputable",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "antiquiert",
+    "ar": "عتيق لم يعد مناسبًا",
+    "en": "antiquated",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "apodiktisch",
+    "ar": "جازم دون إتاحة النقاش",
+    "en": "apodictic; categorical",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "apologetisch",
+    "ar": "دفاعي تبريري",
+    "en": "apologetic in defence",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "arbiträr",
+    "ar": "اعتباطي",
+    "en": "arbitrary",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "archaisch",
+    "ar": "قديم موغل في القِدم",
+    "en": "archaic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "arglistig",
+    "ar": "خادع عمدًا",
+    "en": "deceitful",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "artifiziell",
+    "ar": "مصطنع أو فنّي التركيب",
+    "en": "artificial",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "asketisch",
+    "ar": "زاهد",
+    "en": "ascetic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "asymmetrisch",
+    "ar": "غير متناظر",
+    "en": "asymmetrical",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "attributiv",
+    "ar": "وصفي مضاف إلى اسم",
+    "en": "attributive",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "austauschbar",
+    "ar": "قابل للاستبدال",
+    "en": "interchangeable",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "autark",
+    "ar": "مكتفٍ ذاتيًا",
+    "en": "self-sufficient",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "autokratisch",
+    "ar": "استبدادي",
+    "en": "autocratic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "axiomatisch",
+    "ar": "مسلّم به",
+    "en": "axiomatic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "bedeutungsschwanger",
+    "ar": "محمّل بإيحاءات عميقة",
+    "en": "pregnant with meaning",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "begriffsstutzig",
+    "ar": "بطيء الفهم",
+    "en": "slow on the uptake",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "beiläufig",
+    "ar": "عرضي وغير مركّز عليه",
+    "en": "casual; incidental",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "beklemmend",
+    "ar": "خانق نفسيًا",
+    "en": "oppressive",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "belanglos",
+    "ar": "تافه الأهمية",
+    "en": "inconsequential",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "beredt",
+    "ar": "بليغ",
+    "en": "eloquent",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "beredsam",
+    "ar": "فصيح التعبير",
+    "en": "eloquent",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "berüchtigt",
+    "ar": "سيّئ الصيت",
+    "en": "notorious",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "beschaulich",
+    "ar": "هادئ تأمّلي",
+    "en": "tranquil",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "bestürzend",
+    "ar": "مذهل ومقلق",
+    "en": "appalling",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "betulich",
+    "ar": "بطيء ومتكلّف العناية",
+    "en": "fussy and overcareful",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "bieder",
+    "ar": "تقليدي ساذج",
+    "en": "stolid; conventional",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "blasiert",
+    "ar": "متعالي اللامبالاة",
+    "en": "blasé",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "brillant",
+    "ar": "متألّق",
+    "en": "brilliant",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "brüsk",
+    "ar": "فظّ ومفاجئ",
+    "en": "brusque",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "chamäleonhaft",
+    "ar": "متلوّن بحسب الموقف",
+    "en": "chameleon-like",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "chiffriert",
+    "ar": "مرمّز",
+    "en": "encoded",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "dechiffrierbar",
+    "ar": "قابل لفكّ الرموز",
+    "en": "decipherable",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "defätistisch",
+    "ar": "انهزامي",
+    "en": "defeatist",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "delektabel",
+    "ar": "ممتع وشهيّ",
+    "en": "delectable",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "diffus",
+    "ar": "مبهم وغير محدّد",
+    "en": "diffuse",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "dilettantisch",
+    "ar": "هاوٍ ضعيف الإتقان",
+    "en": "amateurish",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "diskrepant",
+    "ar": "متباين",
+    "en": "discrepant",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "disparat",
+    "ar": "متباعد وغير متجانس",
+    "en": "disparate",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "distinguiert",
+    "ar": "راقٍ في المظهر والسلوك",
+    "en": "distinguished",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "doppelbödig",
+    "ar": "ذو معنى ظاهر وآخر خفيّ",
+    "en": "double-layered",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "doppelsinnig",
+    "ar": "ذو معنيين",
+    "en": "double-edged in meaning",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "dünkelhaft",
+    "ar": "مغرور متعالٍ",
+    "en": "conceited",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "durchtrieben",
+    "ar": "ماكر",
+    "en": "cunning",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "eigensüchtig",
+    "ar": "أناني",
+    "en": "selfish",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "eingängig",
+    "ar": "سهل التذكّر والفهم",
+    "en": "catchy; accessible",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "einprägsam",
+    "ar": "راسخ في الذاكرة",
+    "en": "memorable",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "eklektisch",
+    "ar": "جامع من مذاهب مختلفة",
+    "en": "eclectic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "elaboriert",
+    "ar": "مصاغ بإتقان وتفصيل",
+    "en": "elaborate",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "elegisch",
+    "ar": "حزين تأمّلي",
+    "en": "elegiac",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "elitär",
+    "ar": "نخبوي",
+    "en": "elitist",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "elliptisch",
+    "ar": "موجز بالحذف",
+    "en": "elliptical",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "eminent",
+    "ar": "بالغ الأهمية",
+    "en": "eminent",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "emphatisch",
+    "ar": "مؤكّد بحماسة",
+    "en": "emphatic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "enigmatisch",
+    "ar": "لغزي",
+    "en": "enigmatic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "epigrammatisch",
+    "ar": "موجز لاذع",
+    "en": "epigrammatic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "episodisch",
+    "ar": "عرضي أو حلقي",
+    "en": "episodic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "erbaulich",
+    "ar": "باعث على الارتياح الأخلاقي",
+    "en": "edifying",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "erhaben",
+    "ar": "سامٍ ومهيب",
+    "en": "sublime",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "erklecklich",
+    "ar": "كبير نسبيًا",
+    "en": "considerable",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "erlesen",
+    "ar": "منتقى وفاخر",
+    "en": "exquisite",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "erstarrt",
+    "ar": "جامد",
+    "en": "rigid; frozen",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "euphemistisch",
+    "ar": "تلطيفي في التعبير",
+    "en": "euphemistic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "euphorisch",
+    "ar": "منتشٍ بحماسة",
+    "en": "euphoric",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "exaltiert",
+    "ar": "مفرط الانفعال",
+    "en": "overexcited",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "exorbitant",
+    "ar": "مفرط إلى حدّ كبير",
+    "en": "exorbitant",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "expressiv",
+    "ar": "قويّ التعبير",
+    "en": "expressive",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "extemporiert",
+    "ar": "مرتجل دون تحضير",
+    "en": "extemporised",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "extravagant",
+    "ar": "غريب ومترف",
+    "en": "extravagant",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "fabulös",
+    "ar": "رائع؛ خيالي",
+    "en": "fabulous",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "fiktiv",
+    "ar": "متخيّل",
+    "en": "fictitious",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "filigran",
+    "ar": "دقيق البنية",
+    "en": "delicate; intricate",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "floskelhaft",
+    "ar": "مليء بعبارات جوفاء",
+    "en": "formulaic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "fragmentarisch",
+    "ar": "مجزّأ وغير مكتمل",
+    "en": "fragmentary",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "frappierend",
+    "ar": "مدهش ولافت",
+    "en": "striking",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "fulminant",
+    "ar": "قويّ ومبهر",
+    "en": "spectacular",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "gehaltlos",
+    "ar": "فارغ المضمون",
+    "en": "vacuous",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "geschliffen",
+    "ar": "مصقول الأسلوب",
+    "en": "polished",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "gewunden",
+    "ar": "ملتوي التعبير",
+    "en": "convoluted",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "grotesk",
+    "ar": "غريب إلى حدّ العبث",
+    "en": "grotesque",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "hermetisch",
+    "ar": "مغلق على الفهم؛ محكم الإغلاق",
+    "en": "hermetic",
+    "topic": "صفات الدقّة والأسلوب"
+  },
+  {
+    "de": "hintergründig",
+    "ar": "ذو عمق خفيّ",
+    "en": "subtle; profound",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "hochgestochen",
+    "ar": "متكلّف وفخم الألفاظ",
+    "en": "high-flown",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "hohl",
+    "ar": "أجوف",
+    "en": "hollow",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "hölzern",
+    "ar": "جامد بلا حيوية",
+    "en": "wooden",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "idiosynkratisch",
+    "ar": "خاصّ بطبع الفرد",
+    "en": "idiosyncratic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "illuster",
+    "ar": "لامع المكانة",
+    "en": "illustrious",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "impertinent",
+    "ar": "وقح",
+    "en": "impertinent",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "inbrünstig",
+    "ar": "شديد الوجد",
+    "en": "fervent",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "inkohärent",
+    "ar": "غير مترابط",
+    "en": "incoherent",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "inkongruent",
+    "ar": "غير متوافق",
+    "en": "incongruent",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "inkommensurabel",
+    "ar": "غير قابل للقياس بمعيار مشترك",
+    "en": "incommensurable",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "insinuant",
+    "ar": "موحٍ باتّهام خفيّ",
+    "en": "insinuating",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "introspektiv",
+    "ar": "متأمّل في الداخل النفسي",
+    "en": "introspective",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "intrinsisch",
+    "ar": "نابع من الداخل",
+    "en": "intrinsic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "extrinsisch",
+    "ar": "نابع من عوامل خارجية",
+    "en": "extrinsic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "intrigant",
+    "ar": "دبّار للمكائد",
+    "en": "scheming",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "ironisch",
+    "ar": "ساخر بالمفارقة",
+    "en": "ironic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "irrlichternd",
+    "ar": "متقلّب ومضلّل",
+    "en": "erratic and elusive",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "kafkaesk",
+    "ar": "عبثي خانق كعوالم كافكا",
+    "en": "Kafkaesque",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "klandestin",
+    "ar": "سرّي وخفيّ",
+    "en": "clandestine",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "kongenial",
+    "ar": "موافق في العبقرية والفهم",
+    "en": "congenial",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "konsterniert",
+    "ar": "مبهوت ومضطرب",
+    "en": "dismayed",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "kontemplativ",
+    "ar": "تأمّلي",
+    "en": "contemplative",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "konzis",
+    "ar": "موجز ودقيق",
+    "en": "concise",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "kryptisch",
+    "ar": "غامض مشفّر المعنى",
+    "en": "cryptic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "lakonisch",
+    "ar": "مقتضب",
+    "en": "laconic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "lapidar",
+    "ar": "وجيز وقاطع",
+    "en": "succinct and emphatic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "larmoyant",
+    "ar": "كثير الشكوى المثيرة للشفقة",
+    "en": "self-pitying",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "lasziv",
+    "ar": "مثير على نحو متعمّد",
+    "en": "lascivious",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "leutselig",
+    "ar": "ودود في التعامل مع الجميع",
+    "en": "affable",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "listig",
+    "ar": "ماكر",
+    "en": "crafty",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "luzide",
+    "ar": "واضح الفكر",
+    "en": "lucid",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "maliziös",
+    "ar": "خبيث بسخرية",
+    "en": "maliciously witty",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "manieriert",
+    "ar": "متكلّف الأسلوب",
+    "en": "mannered",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "markant",
+    "ar": "بارز ومميّز",
+    "en": "distinctive",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "melodramatisch",
+    "ar": "مبالغ في الانفعال",
+    "en": "melodramatic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "metaphorisch",
+    "ar": "استعاري",
+    "en": "metaphorical",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "metaphysisch",
+    "ar": "ميتافيزيقي",
+    "en": "metaphysical",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "minutiös",
+    "ar": "دقيق في أصغر التفاصيل",
+    "en": "meticulous",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "moralisierend",
+    "ar": "واعظ بتعالٍ",
+    "en": "moralising",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "morbid",
+    "ar": "مفتون بالكآبة والمرض",
+    "en": "morbid",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "müßig",
+    "ar": "بلا جدوى؛ عاطل",
+    "en": "idle; futile",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "nebulös",
+    "ar": "ضبابي المعنى",
+    "en": "nebulous",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "nonchalant",
+    "ar": "هادئ اللامبالاة",
+    "en": "nonchalant",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "nostalgisch",
+    "ar": "حنيني",
+    "en": "nostalgic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "notorisch",
+    "ar": "معروف بعادة متكرّرة",
+    "en": "notorious; habitual",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "obskur",
+    "ar": "غامض أو مشبوه",
+    "en": "obscure",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "opulent",
+    "ar": "فخم وغنيّ",
+    "en": "opulent",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "ostentativ",
+    "ar": "استعراضي متعمّد",
+    "en": "ostentatious",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "pathetisch",
+    "ar": "مبالغ في العاطفة والفخامة",
+    "en": "overly solemn; grandiloquent",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "pedantisch",
+    "ar": "متزمّت في التفاصيل",
+    "en": "pedantic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "perfid",
+    "ar": "غادر بخبث",
+    "en": "perfidious",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "peripher",
+    "ar": "هامشي",
+    "en": "peripheral",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "pikant",
+    "ar": "مثير للاهتمام أو الحرج",
+    "en": "piquant",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "plakativ",
+    "ar": "صارخ ومبسّط",
+    "en": "striking and oversimplified",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "plastisch",
+    "ar": "واضح التجسيد",
+    "en": "vivid",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "plump",
+    "ar": "ثقيل وفجّ",
+    "en": "clumsy; crude",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "pointiert",
+    "ar": "مكثّف وحادّ",
+    "en": "pointed",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "polemisch",
+    "ar": "هجومي في الجدل",
+    "en": "polemical",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "pomphaft",
+    "ar": "فخم باستعراض",
+    "en": "pompous",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "präjudiziell",
+    "ar": "مؤثّر مسبقًا في الحكم",
+    "en": "prejudicial",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "präpotent",
+    "ar": "متسلّط ومتعجرف",
+    "en": "overbearing",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "prätentiös",
+    "ar": "مدّعٍ للفخامة",
+    "en": "pretentious",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "profan",
+    "ar": "دنيوي؛ عادي",
+    "en": "profane; mundane",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "profund",
+    "ar": "عميق المعرفة",
+    "en": "profound",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "prosaisch",
+    "ar": "نثري؛ خالٍ من الخيال",
+    "en": "prosaic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "prototypisch",
+    "ar": "نموذجي أصلي",
+    "en": "prototypical",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "psychologisierend",
+    "ar": "مفسّر كلّ شيء نفسيًا",
+    "en": "psychologising",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "querköpfig",
+    "ar": "عنيد مخالف",
+    "en": "contrarian",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "räsonabel",
+    "ar": "معقول",
+    "en": "reasonable",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "renitent",
+    "ar": "معاند ومتمرّد",
+    "en": "recalcitrant",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "reserviert",
+    "ar": "متحفّظ",
+    "en": "reserved",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "resigniert",
+    "ar": "مستسلم لفقدان الأمل",
+    "en": "resigned",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "rüde",
+    "ar": "فظّ",
+    "en": "rude",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "rührselig",
+    "ar": "عاطفي بصورة مبتذلة",
+    "en": "sentimental",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "sarkastisch",
+    "ar": "لاذع السخرية",
+    "en": "sarcastic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "sardonisch",
+    "ar": "ساخر بمرارة",
+    "en": "sardonic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "schablonenhaft",
+    "ar": "نمطي كالقالب",
+    "en": "stereotyped",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "schemenhaft",
+    "ar": "شَبَحي غير واضح",
+    "en": "shadowy",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "schillernd",
+    "ar": "متعدّد الوجوه والدلالات",
+    "en": "multifaceted; dazzling",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "schmallippig",
+    "ar": "مقتضب ببرود",
+    "en": "tight-lipped",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "schroff",
+    "ar": "حادّ وجافّ",
+    "en": "abrupt; rugged",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "schwülstig",
+    "ar": "متكلّف متضخّم الأسلوب",
+    "en": "bombastic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "selbstherrlich",
+    "ar": "مستبدّ برأيه",
+    "en": "autocratic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "sentenziös",
+    "ar": "كثير الأقوال الحكمية",
+    "en": "sententious",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "seraphisch",
+    "ar": "ملائكي صافٍ",
+    "en": "seraphic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "sibyllinisch",
+    "ar": "غامض كالنبوءة",
+    "en": "sibylline",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "sinnfällig",
+    "ar": "واضح بالحسّ",
+    "en": "readily apparent",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "skeptizistisch",
+    "ar": "قائم على مذهب الشكّ",
+    "en": "scepticist",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "souverän",
+    "ar": "واثق متمكّن؛ سيادي",
+    "en": "self-assured; sovereign",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "spröde",
+    "ar": "جافّ أو صعب المنال",
+    "en": "brittle; aloof",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "stoisch",
+    "ar": "رواقي ثابت أمام الألم",
+    "en": "stoic",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "süffisant",
+    "ar": "ساخر برضا متعالٍ",
+    "en": "smug",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "suggestiv",
+    "ar": "موحٍ ومؤثّر",
+    "en": "suggestive",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "tadelnswert",
+    "ar": "جدير باللوم",
+    "en": "reprehensible",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "temperamentvoll",
+    "ar": "حيويّ العاطفة",
+    "en": "spirited",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "treffsicher",
+    "ar": "مصيب بدقّة",
+    "en": "unerring",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "trivial",
+    "ar": "مبتذل أو بديهي",
+    "en": "trivial",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "unbotmäßig",
+    "ar": "متمرّد على السلطة",
+    "en": "insubordinate",
+    "topic": "صفات متقدّمة للشخصية والتقييم"
+  },
+  {
+    "de": "abschweifen",
+    "ar": "يستطرد خارج الموضوع",
+    "en": "to digress",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "akklamieren",
+    "ar": "يهلّل تأييدًا",
+    "en": "to acclaim",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "akkumulieren",
+    "ar": "يراكم",
+    "en": "to accumulate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "allegorisieren",
+    "ar": "يصوغ في صورة رمزية",
+    "en": "to allegorise",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "amalgamieren",
+    "ar": "يمزج في وحدة",
+    "en": "to amalgamate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich anbiedern",
+    "ar": "يتملّق لكسب القبول",
+    "en": "to ingratiate oneself",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "andichten",
+    "ar": "ينسب زورًا",
+    "en": "to falsely attribute",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "anempfehlen",
+    "ar": "يوصي بشدّة",
+    "en": "to commend",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "anheimfallen",
+    "ar": "يقع فريسة لشيء",
+    "en": "to fall prey to",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "anheimstellen",
+    "ar": "يترك لتقدير شخص",
+    "en": "to leave to someone's discretion",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich anheischig machen",
+    "ar": "يتعهّد",
+    "en": "to undertake",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "anklingen",
+    "ar": "يظهر كتلميح",
+    "en": "to be hinted at",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ankreiden",
+    "ar": "يأخذ خطأً على شخص",
+    "en": "to hold against someone",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "anraten",
+    "ar": "ينصح",
+    "en": "to advise",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ansinnen",
+    "ar": "يطلب أمرًا مرهقًا من شخص",
+    "en": "to expect something unreasonable",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "applaudieren",
+    "ar": "يصفّق",
+    "en": "to applaud",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "apostrophieren",
+    "ar": "ينعت؛ يخاطب بلاغيًا",
+    "en": "to characterise; to address rhetorically",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "approbieren",
+    "ar": "يجيز رسميًا",
+    "en": "to approve officially",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "artikulieren",
+    "ar": "يعبّر بوضوح",
+    "en": "to articulate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "attestieren",
+    "ar": "يشهد بصفة",
+    "en": "to attest",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "aufbegehren",
+    "ar": "يتمرّد",
+    "en": "to rebel",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "aufoktroyieren",
+    "ar": "يفرض قسرًا",
+    "en": "to impose",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "aufsagen",
+    "ar": "يلقي من الذاكرة؛ ينهي اتفاقًا",
+    "en": "to recite; to terminate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "aufschneiden",
+    "ar": "يفاخر كذبًا؛ يفتح بالقطع",
+    "en": "to boast; to cut open",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "auftrumpfen",
+    "ar": "يتباهى بتفوّق",
+    "en": "to show off triumphantly",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich sich ausbedingen",
+    "ar": "يشترط لنفسه",
+    "en": "to stipulate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich sich ausbitten",
+    "ar": "يطلب لنفسه",
+    "en": "to request for oneself",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausborgen",
+    "ar": "يستعير؛ يُعير",
+    "en": "to borrow; to lend",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausbremsen",
+    "ar": "يعرقل التقدّم",
+    "en": "to hold back",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausbuchstabieren",
+    "ar": "يتهجّى؛ يفصّل بوضوح",
+    "en": "to spell out",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausfasern",
+    "ar": "يتفكّك إلى خيوط؛ يفقد تماسكه",
+    "en": "to fray",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausfechten",
+    "ar": "يحسم نزاعًا بالصراع",
+    "en": "to fight out",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausformen",
+    "ar": "يشكّل بدقّة",
+    "en": "to shape fully",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausfransen",
+    "ar": "يتنسّل؛ يتفكّك عند الأطراف",
+    "en": "to fray at the edges",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "aushecken",
+    "ar": "يدبّر سرًا",
+    "en": "to hatch a scheme",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausmalen",
+    "ar": "يصف بخيال وتفصيل",
+    "en": "to depict vividly",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "ausstaffieren",
+    "ar": "يزيّن ويجهّز",
+    "en": "to deck out",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "auswalzen",
+    "ar": "يطيل الحديث بصورة مملّة",
+    "en": "to belabour",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "beäugen",
+    "ar": "يراقب بريبة أو اهتمام",
+    "en": "to eye",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "behelligen",
+    "ar": "يزعج بالمطالب",
+    "en": "to bother",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "beichten",
+    "ar": "يعترف بسرّ أو ذنب",
+    "en": "to confess",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "bekritteln",
+    "ar": "ينتقد بتصيّد التفاصيل",
+    "en": "to nitpick",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "belobigen",
+    "ar": "يمدح رسميًا",
+    "en": "to commend",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "bemänteln",
+    "ar": "يغطّي الحقيقة بتبرير",
+    "en": "to cloak",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich bemüßigt fühlen",
+    "ar": "يشعر بأن عليه فعل شيء؛ غالبًا بسخرية",
+    "en": "to feel called upon to do something",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "berätseln",
+    "ar": "يحاول حلّ لغز",
+    "en": "to puzzle over",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "bereden",
+    "ar": "يناقش؛ يقنع بالكلام",
+    "en": "to discuss; to persuade",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "beschwören",
+    "ar": "يناشد؛ يستحضر بقوّة",
+    "en": "to implore; to evoke",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich bespiegeln",
+    "ar": "يتأمّل ذاته بإعجاب",
+    "en": "to admire oneself",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "bestallten",
+    "ar": "يعيّن في منصب رسمي",
+    "en": "to appoint officially",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "beteuern",
+    "ar": "يؤكّد بإلحاح",
+    "en": "to protest one's sincerity",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "beweihräuchern",
+    "ar": "يمدح بإفراط",
+    "en": "to lavish praise on",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "beziffern",
+    "ar": "يحدّد بالأرقام",
+    "en": "to quantify",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "bramarbasieren",
+    "ar": "يفاخر بصخب",
+    "en": "to swagger",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "brüskieren",
+    "ar": "يصدم بفظاظة",
+    "en": "to affront",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "chiffrieren",
+    "ar": "يشفّر",
+    "en": "to encode",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "deuten",
+    "ar": "يؤوّل؛ يشير",
+    "en": "to interpret; to point",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "dechiffrieren",
+    "ar": "يفكّ الرموز",
+    "en": "to decipher",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "deduzieren",
+    "ar": "يستنبط",
+    "en": "to deduce",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "deklamieren",
+    "ar": "يلقي بخطابة",
+    "en": "to declaim",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "dekonstruieren",
+    "ar": "يفكّك البنية المفاهيمية",
+    "en": "to deconstruct",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "demystifizieren",
+    "ar": "يزيل الهالة الغامضة",
+    "en": "to demystify",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "denunzieren",
+    "ar": "يشي بشخص؛ يشهّر به",
+    "en": "to denounce maliciously",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "desavouieren",
+    "ar": "يتبرّأ علنًا من موقف",
+    "en": "to disavow",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "desillusionieren",
+    "ar": "يبدّد الأوهام",
+    "en": "to disillusion",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "diffamieren",
+    "ar": "يشهّر",
+    "en": "to defame",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "diskreditieren",
+    "ar": "يشوّه المصداقية",
+    "en": "to discredit",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "dispensieren",
+    "ar": "يعفي من التزام",
+    "en": "to dispense from an obligation",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "disputieren",
+    "ar": "يتناظر",
+    "en": "to dispute formally",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "dozieren",
+    "ar": "يحاضر؛ يتكلّم بتعالٍ",
+    "en": "to lecture",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "dramatisieren",
+    "ar": "يهوّل؛ يحوّل إلى دراما",
+    "en": "to dramatise",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "düpieren",
+    "ar": "يخدع؛ يحرج",
+    "en": "to dupe; to embarrass",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich echauffieren",
+    "ar": "ينفعل",
+    "en": "to get worked up",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einbläuen",
+    "ar": "يلقّن بإلحاح",
+    "en": "to drum into someone",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "eindreschen",
+    "ar": "ينهال بالضرب أو النقد",
+    "en": "to hammer away at",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einflechten",
+    "ar": "يدمج ملاحظة في الكلام",
+    "en": "to weave in",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einimpfen",
+    "ar": "يغرس فكرة بإلحاح",
+    "en": "to instil",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einklagen",
+    "ar": "يطالب قضائيًا",
+    "en": "to sue for",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einreden",
+    "ar": "يوهم أو يقنع بإلحاح",
+    "en": "to talk someone into believing",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einschärfen",
+    "ar": "يوصي بإلحاح شديد",
+    "en": "to impress upon",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "sich einschmeicheln",
+    "ar": "يتقرّب بالتملّق",
+    "en": "to ingratiate oneself",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einschwören",
+    "ar": "يوحّد على التزام",
+    "en": "to rally to a cause",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "einverleiben",
+    "ar": "يضمّ إلى نفسه",
+    "en": "to incorporate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "evozieren",
+    "ar": "يستحضر شعورًا أو صورة",
+    "en": "to evoke",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "extrapolieren",
+    "ar": "يستقرئ خارج البيانات",
+    "en": "to extrapolate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "fabulieren",
+    "ar": "يسرد بخيال",
+    "en": "to spin a tale",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "fingieren",
+    "ar": "يختلق واقعًا",
+    "en": "to fabricate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "flankieren",
+    "ar": "يدعم بإجراءات مكمّلة",
+    "en": "to support with accompanying measures",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "formalisieren",
+    "ar": "يصوغ بصورة رسمية",
+    "en": "to formalise",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "fragmentieren",
+    "ar": "يجزّئ",
+    "en": "to fragment",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "glorifizieren",
+    "ar": "يمجّد",
+    "en": "to glorify",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "glossieren",
+    "ar": "يعلّق بسخرية",
+    "en": "to comment satirically",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "goutieren",
+    "ar": "يستحسن ويتذوّق",
+    "en": "to appreciate",
+    "topic": "أفعال الكتابة والتفكير الدقيق"
+  },
+  {
+    "de": "herabwürdigen",
+    "ar": "يحطّ من الكرامة",
+    "en": "to demean",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "heraufbeschwören",
+    "ar": "يتسبّب في خطر؛ يستحضر",
+    "en": "to conjure up",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "sich herauskristallisieren",
+    "ar": "يتبلور",
+    "en": "to crystallise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "herausposaunen",
+    "ar": "يعلن بصخب",
+    "en": "to trumpet",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "herausstreichen",
+    "ar": "يشدّد على إبراز",
+    "en": "to emphasise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "herumlavieren",
+    "ar": "يناور دون موقف واضح",
+    "en": "to manoeuvre evasively",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "hinwegfegen",
+    "ar": "يزيح بعنف",
+    "en": "to sweep away",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "hinwegtrösten",
+    "ar": "يواسي على خسارة",
+    "en": "to console over",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "hinwegtäuschen",
+    "ar": "يخفي حقيقة بإيهام",
+    "en": "to conceal a truth",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "hochspielen",
+    "ar": "يضخّم الأهمية",
+    "en": "to play up",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "hochstilisieren",
+    "ar": "يرفع شأن شيء بأسلوب مبالغ",
+    "en": "to exaggerate the status of",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "huldigen",
+    "ar": "يبجّل؛ يعتنق نهجًا",
+    "en": "to pay homage to",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "idealisieren",
+    "ar": "يصوّر بصورة مثالية",
+    "en": "to idealise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "imaginieren",
+    "ar": "يتخيّل",
+    "en": "to imagine",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "improvisieren",
+    "ar": "يرتجل",
+    "en": "to improvise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "indoktrinieren",
+    "ar": "يلقّن عقائديًا",
+    "en": "to indoctrinate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "insinuieren",
+    "ar": "يلمّح باتّهام",
+    "en": "to insinuate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "instrumentalisieren",
+    "ar": "يستغلّ كأداة لهدف",
+    "en": "to instrumentalise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "ironisieren",
+    "ar": "يعرض بصورة ساخرة",
+    "en": "to treat ironically",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "kanonisieren",
+    "ar": "يدخل في مجموعة الأعمال المعتمدة",
+    "en": "to canonise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "kaschieren",
+    "ar": "يخفي بطريقة تجميلية",
+    "en": "to conceal",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "kategorisieren",
+    "ar": "يصنّف",
+    "en": "to categorise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "kolportieren",
+    "ar": "يردّد إشاعة",
+    "en": "to circulate a rumour",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "kompilieren",
+    "ar": "يجمع من مصادر",
+    "en": "to compile",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "konterkarieren",
+    "ar": "يعاكس ويقوّض",
+    "en": "to counteract",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "konterfeien",
+    "ar": "يرسم ملامح شخص",
+    "en": "to portray",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "konzedieren",
+    "ar": "يقرّ بحجّة الخصم",
+    "en": "to concede",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "korrumpieren",
+    "ar": "يفسد بالرشوة أو الإغراء",
+    "en": "to corrupt",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "kultivieren",
+    "ar": "ينمّي ويهذّب",
+    "en": "to cultivate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "lamentieren",
+    "ar": "يتذمّر بأسى",
+    "en": "to lament",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "lavieren",
+    "ar": "يناور بين المواقف",
+    "en": "to manoeuvre",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "legiferieren",
+    "ar": "يسنّ القوانين",
+    "en": "to legislate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "leugnen",
+    "ar": "ينكر",
+    "en": "to deny",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "lobbyieren",
+    "ar": "يمارس ضغطًا سياسيًا",
+    "en": "to lobby",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "mäandrieren",
+    "ar": "يتعرّج كالنهر أو الأفكار",
+    "en": "to meander",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "marginalisieren",
+    "ar": "يهمّش",
+    "en": "to marginalise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "maßregeln",
+    "ar": "يوبّخ ويؤدّب",
+    "en": "to reprimand",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "meditieren",
+    "ar": "يتأمّل",
+    "en": "to meditate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "sich mokieren",
+    "ar": "يسخر",
+    "en": "to mock",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "monieren",
+    "ar": "يعترض على خلل",
+    "en": "to object to",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "moralisieren",
+    "ar": "يعظ أخلاقيًا بتعالٍ",
+    "en": "to moralise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "mutmaßen",
+    "ar": "يتكهّن",
+    "en": "to conjecture",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "mystifizieren",
+    "ar": "يحيط بالغموض",
+    "en": "to mystify",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "nachhallen",
+    "ar": "يتردّد صداه",
+    "en": "to reverberate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "nachkarten",
+    "ar": "يعود إلى خلاف محسوم",
+    "en": "to rehash a settled dispute",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "nachsinnen",
+    "ar": "يتأمّل مطوّلًا",
+    "en": "to ponder",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "nachtragen",
+    "ar": "يحقد بسبب إساءة؛ يضيف لاحقًا",
+    "en": "to hold a grudge; to add later",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "nobilitieren",
+    "ar": "يرفع المكانة",
+    "en": "to ennoble",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "objektivieren",
+    "ar": "يصوغ بصورة موضوعية",
+    "en": "to objectify",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "orakeln",
+    "ar": "يتنبّأ بكلام غامض",
+    "en": "to speak oracularly",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "orchestrieren",
+    "ar": "ينسّق بعناية",
+    "en": "to orchestrate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "paraphrasieren",
+    "ar": "يعيد الصياغة",
+    "en": "to paraphrase",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "parodieren",
+    "ar": "يحاكي ساخرًا",
+    "en": "to parody",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "patronisieren",
+    "ar": "يتعامل بفوقية",
+    "en": "to patronise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "perpetuieren",
+    "ar": "يديم",
+    "en": "to perpetuate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "persiflieren",
+    "ar": "يقلّد ساخرًا",
+    "en": "to satirise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "personifizieren",
+    "ar": "يجسّد في شخص",
+    "en": "to personify",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "plädieren",
+    "ar": "يدافع بحجج",
+    "en": "to plead in favour",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "polemisieren",
+    "ar": "يساجل بهجوم",
+    "en": "to polemicise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "postulieren",
+    "ar": "يفترض كمبدأ",
+    "en": "to postulate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "präjudizieren",
+    "ar": "يؤثّر مسبقًا في الحكم",
+    "en": "to prejudge",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "präludieren",
+    "ar": "يمهّد موسيقيًا أو مجازيًا",
+    "en": "to prelude",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "prätendieren",
+    "ar": "يدّعي",
+    "en": "to pretend; to claim",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "proklamieren",
+    "ar": "يعلن رسميًا",
+    "en": "to proclaim",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "protegieren",
+    "ar": "يحمي ويدعم بالنفوذ",
+    "en": "to patronise; to protect",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "provozieren",
+    "ar": "يستفزّ",
+    "en": "to provoke",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "psychologisieren",
+    "ar": "يفسّر نفسيًا",
+    "en": "to psychologise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "räsonieren",
+    "ar": "يجادل مطوّلًا",
+    "en": "to reason at length",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "reüssieren",
+    "ar": "يحقّق نجاحًا",
+    "en": "to succeed",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "reklamieren",
+    "ar": "يطالب بحقّ؛ يشكو من عيب",
+    "en": "to claim; to complain",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "rekapitulieren",
+    "ar": "يعيد عرض النقاط بإيجاز",
+    "en": "to recapitulate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "replizieren",
+    "ar": "يردّ؛ يعيد تجربة",
+    "en": "to reply; to replicate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "restringieren",
+    "ar": "يقيّد",
+    "en": "to restrict",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "retardieren",
+    "ar": "يؤخّر التطوّر",
+    "en": "to retard",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "revozieren",
+    "ar": "يلغي قرارًا",
+    "en": "to revoke",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "rezensieren",
+    "ar": "يكتب مراجعة نقدية",
+    "en": "to review",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "rezipieren",
+    "ar": "يتلقّى عملًا فكريًا",
+    "en": "to receive and interpret",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "rügen",
+    "ar": "يلوم رسميًا",
+    "en": "to reprimand",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "sakralisieren",
+    "ar": "يضفي قداسة",
+    "en": "to sacralise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "schmähen",
+    "ar": "يهجو ويهين",
+    "en": "to vilify",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "schwadronieren",
+    "ar": "يهذر باستعراض",
+    "en": "to hold forth",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "sekundieren",
+    "ar": "يؤيّد ويساند",
+    "en": "to second",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "sinnieren",
+    "ar": "يتأمّل مستغرقًا",
+    "en": "to muse",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "skandalisieren",
+    "ar": "يحوّل أمرًا إلى فضيحة",
+    "en": "to scandalise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "skizzieren",
+    "ar": "يرسم خطوطًا أولية",
+    "en": "to sketch",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "spekulieren",
+    "ar": "يتكهّن؛ يضارب",
+    "en": "to speculate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "stilisieren",
+    "ar": "يصوّر بأسلوب نمطي أو فنّي",
+    "en": "to stylise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "subtilisieren",
+    "ar": "يدقّق حتى الفروق الصغيرة",
+    "en": "to make subtle distinctions",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "sublimieren",
+    "ar": "يرتقي بدافع إلى تعبير أسمى",
+    "en": "to sublimate",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "symbolisieren",
+    "ar": "يرمز",
+    "en": "to symbolise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "systematisieren",
+    "ar": "ينظّم منهجيًا",
+    "en": "to systematise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "taxieren",
+    "ar": "يقدّر قيمة",
+    "en": "to appraise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "torpedieren",
+    "ar": "يحبط عمدًا",
+    "en": "to torpedo",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "transzendieren",
+    "ar": "يتجاوز الحدود",
+    "en": "to transcend",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "trivialisieren",
+    "ar": "يختزل إلى أمر تافه",
+    "en": "to trivialise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "verabsolutieren",
+    "ar": "يجعل الحكم مطلقًا",
+    "en": "to absolutise",
+    "topic": "أفعال النقد والتفاعل"
+  },
+  {
+    "de": "auf den Punkt bringen",
+    "ar": "يعبّر عن الجوهر بدقّة",
+    "en": "to get to the point",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Kern treffen",
+    "ar": "يصيب لبّ الموضوع",
+    "en": "to hit the core issue",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "ins Gewicht fallen",
+    "ar": "يكون ذا تأثير معتبر",
+    "en": "to carry weight",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "zu Buche schlagen",
+    "ar": "يؤثّر بوضوح في الحصيلة",
+    "en": "to make a noticeable difference",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "in Rechnung stellen",
+    "ar": "يأخذ في الحسبان",
+    "en": "to take into account",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Rechnung tragen",
+    "ar": "يراعي",
+    "en": "to take due account of",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "zur Debatte stehen",
+    "ar": "يكون مطروحًا للنقاش",
+    "en": "to be under discussion",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "zur Disposition stehen",
+    "ar": "يكون قابلًا لإعادة النظر",
+    "en": "to be open to reconsideration",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "außer Frage stehen",
+    "ar": "يكون غير محلّ شكّ",
+    "en": "to be beyond doubt",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "infrage kommen",
+    "ar": "يكون خيارًا واردًا",
+    "en": "to be a possible option",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "außer Betracht bleiben",
+    "ar": "يُستبعد من الاعتبار",
+    "en": "to be left out of consideration",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "in Betracht ziehen",
+    "ar": "يضع ضمن الاحتمالات",
+    "en": "to consider",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "in Abrede stellen",
+    "ar": "ينكر صحّة",
+    "en": "to deny",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Abstriche machen",
+    "ar": "يتنازل عن بعض المتطلّبات",
+    "en": "to make concessions",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Abhilfe schaffen",
+    "ar": "يعالج الخلل",
+    "en": "to remedy a problem",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Anklang finden",
+    "ar": "يلقى استحسانًا",
+    "en": "to be well received",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Anstoß nehmen",
+    "ar": "يشعر بالإساءة",
+    "en": "to take offence",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Anstoß erregen",
+    "ar": "يثير الاستياء",
+    "en": "to cause offence",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Aufschluss geben",
+    "ar": "يقدّم تفسيرًا كاشفًا",
+    "en": "to provide insight",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Auskunft erteilen",
+    "ar": "يقدّم معلومات",
+    "en": "to provide information",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Bedenken anmelden",
+    "ar": "يبدي تحفّظات",
+    "en": "to voice reservations",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Bezug nehmen",
+    "ar": "يشير إلى موضوع سابق",
+    "en": "to refer to",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Bilanz ziehen",
+    "ar": "يقيّم الحصيلة",
+    "en": "to take stock",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Einwände erheben",
+    "ar": "يقدّم اعتراضات",
+    "en": "to raise objections",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Einspruch erheben",
+    "ar": "يعترض رسميًا",
+    "en": "to lodge an objection",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Einvernehmen erzielen",
+    "ar": "يتوصّل إلى تفاهم",
+    "en": "to reach agreement",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Geltung beanspruchen",
+    "ar": "يدّعي الصلاحية أو الاعتبار",
+    "en": "to claim validity",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Gewicht verleihen",
+    "ar": "يضفي أهمية",
+    "en": "to lend weight",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Glauben schenken",
+    "ar": "يصدّق",
+    "en": "to give credence",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Kritik üben",
+    "ar": "يوجّه نقدًا",
+    "en": "to criticise",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Partei ergreifen",
+    "ar": "ينحاز إلى طرف",
+    "en": "to take sides",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Position beziehen",
+    "ar": "يتّخذ موقفًا",
+    "en": "to take a position",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Stellung beziehen",
+    "ar": "يعلن موقفًا",
+    "en": "to take a stand",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Stellung nehmen",
+    "ar": "يبدي رأيه",
+    "en": "to comment on an issue",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Widerspruch einlegen",
+    "ar": "يقدّم اعتراضًا رسميًا",
+    "en": "to lodge an objection",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Zweifel anmelden",
+    "ar": "يبدي شكوكًا",
+    "en": "to express doubts",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Zweifel ausräumen",
+    "ar": "يزيل الشكوك",
+    "en": "to dispel doubts",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Zweifel hegen",
+    "ar": "يضمر شكوكًا",
+    "en": "to harbour doubts",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "einen Schluss ziehen",
+    "ar": "يستخلص نتيجة",
+    "en": "to draw a conclusion",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "eine These aufstellen",
+    "ar": "يطرح أطروحة",
+    "en": "to formulate a thesis",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "eine Behauptung aufstellen",
+    "ar": "يطرح ادّعاءً",
+    "en": "to make an assertion",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "eine Lanze brechen",
+    "ar": "يدافع عن شخص أو فكرة",
+    "en": "to champion someone or something",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "eine Bresche schlagen",
+    "ar": "يفتح مجالًا رغم المقاومة",
+    "en": "to make a breakthrough",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "ins Feld führen",
+    "ar": "يقدّم كحجّة",
+    "en": "to bring forward as an argument",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "ins Treffen führen",
+    "ar": "يسوق كحجّة",
+    "en": "to cite in support",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "auf der Hand liegen",
+    "ar": "يكون واضحًا",
+    "en": "to be obvious",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "auf tönernen Füßen stehen",
+    "ar": "يستند إلى أساس ضعيف",
+    "en": "to rest on shaky foundations",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "auf Sand gebaut sein",
+    "ar": "يستند إلى أساس غير ثابت",
+    "en": "to be built on sand",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "auf wackligen Beinen stehen",
+    "ar": "يكون ضعيف الأساس",
+    "en": "to be on shaky ground",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "aus der Luft gegriffen sein",
+    "ar": "يكون مختلقًا بلا دليل",
+    "en": "to be pulled out of thin air",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "aus dem Zusammenhang reißen",
+    "ar": "ينتزع من السياق",
+    "en": "to take out of context",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "zwischen den Zeilen lesen",
+    "ar": "يفهم المعنى الضمني",
+    "en": "to read between the lines",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "hinter die Fassade blicken",
+    "ar": "يرى ما وراء المظهر",
+    "en": "to look behind the facade",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Schleier lüften",
+    "ar": "يكشف الغموض",
+    "en": "to lift the veil",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Licht ins Dunkel bringen",
+    "ar": "يوضّح أمرًا غامضًا",
+    "en": "to shed light on a mystery",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Licht auf etwas werfen",
+    "ar": "يسلّط الضوء على أمر",
+    "en": "to shed light on something",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas unter die Lupe nehmen",
+    "ar": "يفحص بدقّة",
+    "en": "to examine closely",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas auf den Prüfstand stellen",
+    "ar": "يخضع شيئًا للفحص",
+    "en": "to put something to the test",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas auf Herz und Nieren prüfen",
+    "ar": "يفحص فحصًا شاملًا",
+    "en": "to examine thoroughly",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas gegen den Strich lesen",
+    "ar": "يقرأ قراءة مخالفة للمألوف",
+    "en": "to read against the grain",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas beim Namen nennen",
+    "ar": "يسمّي الأمور بصراحة",
+    "en": "to call things by their name",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Klartext reden",
+    "ar": "يتكلّم بصراحة",
+    "en": "to speak plainly",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "kein Blatt vor den Mund nehmen",
+    "ar": "يتكلّم دون مجاملة",
+    "en": "to speak one's mind",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "um den heißen Brei herumreden",
+    "ar": "يلفّ حول الموضوع",
+    "en": "to beat around the bush",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "vom Hundertsten ins Tausendste kommen",
+    "ar": "ينتقل بين تفاصيل لا تنتهي",
+    "en": "to go off on endless tangents",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Faden verlieren",
+    "ar": "يفقد تسلسل الأفكار",
+    "en": "to lose the thread",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Faden wieder aufnehmen",
+    "ar": "يستعيد مسار الحديث",
+    "en": "to pick up the thread",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "sich im Kreis drehen",
+    "ar": "يدور دون تقدّم",
+    "en": "to go round in circles",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "sich in Widersprüche verstricken",
+    "ar": "يتورّط في تناقضات",
+    "en": "to get tangled in contradictions",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "sich auf dünnes Eis begeben",
+    "ar": "يدخل موقفًا محفوفًا بالمخاطر",
+    "en": "to venture onto thin ice",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "sich weit aus dem Fenster lehnen",
+    "ar": "يجازف بتصريح جريء",
+    "en": "to stick one's neck out",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Bogen überspannen",
+    "ar": "يتجاوز الحدّ",
+    "en": "to go too far",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "übers Ziel hinausschießen",
+    "ar": "يبالغ متجاوزًا الهدف",
+    "en": "to overshoot the mark",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "das Kind mit dem Bade ausschütten",
+    "ar": "يفقد الجيّد مع التخلّص من السيّئ",
+    "en": "to throw the baby out with the bathwater",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Äpfel mit Birnen vergleichen",
+    "ar": "يقارن أشياء غير متكافئة",
+    "en": "to compare apples and oranges",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "mit zweierlei Maß messen",
+    "ar": "يكيل بمكيالين",
+    "en": "to apply double standards",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Haare spalten",
+    "ar": "يدقّق في فروق تافهة",
+    "en": "to split hairs",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Wortklauberei betreiben",
+    "ar": "يتشبّث بتفاصيل الألفاظ",
+    "en": "to quibble over words",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Spieß umdrehen",
+    "ar": "يقلب الموقف على الخصم",
+    "en": "to turn the tables",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "jemandem den Wind aus den Segeln nehmen",
+    "ar": "يبطل قوّة حجّة شخص",
+    "en": "to take the wind out of someone's sails",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "jemandem den Boden unter den Füßen entziehen",
+    "ar": "يسلب شخصًا أساس موقفه",
+    "en": "to pull the ground from under someone",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "ein Argument entkräften",
+    "ar": "يدحض حجّة",
+    "en": "to refute an argument",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "eine Behauptung widerlegen",
+    "ar": "يثبت خطأ ادّعاء",
+    "en": "to disprove a claim",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "ein Fass aufmachen",
+    "ar": "يفتح موضوعًا يثير متاعب",
+    "en": "to open a can of worms",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Öl ins Feuer gießen",
+    "ar": "يزيد حدّة النزاع",
+    "en": "to add fuel to the fire",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "Wogen glätten",
+    "ar": "يهدّئ التوتّر",
+    "en": "to smooth things over",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "die Gemüter beruhigen",
+    "ar": "يهدّئ النفوس",
+    "en": "to calm tempers",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "eine Brücke schlagen",
+    "ar": "يربط بين موقفين",
+    "en": "to build a bridge",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "einen gemeinsamen Nenner finden",
+    "ar": "يجد أرضية مشتركة",
+    "en": "to find common ground",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "auf einen Nenner bringen",
+    "ar": "يوحّد وجهات النظر",
+    "en": "to reconcile viewpoints",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "auf Augenhöhe sprechen",
+    "ar": "يتحدّث على قدم المساواة",
+    "en": "to speak as equals",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "über den eigenen Schatten springen",
+    "ar": "يتجاوز تردّده أو كبرياءه",
+    "en": "to overcome one's reservations",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "über den Tellerrand schauen",
+    "ar": "ينظر إلى ما وراء مجاله",
+    "en": "to look beyond one's own horizons",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Horizont erweitern",
+    "ar": "يوسّع آفاقه",
+    "en": "to broaden one's horizons",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "sich ein Bild machen",
+    "ar": "يكون تصوّرًا",
+    "en": "to form an impression",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "sich ein Urteil bilden",
+    "ar": "يكون حكمًا",
+    "en": "to form a judgement",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas in ein anderes Licht rücken",
+    "ar": "يعرض الأمر من زاوية مختلفة",
+    "en": "to cast something in a different light",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas ins rechte Licht rücken",
+    "ar": "يوضح الأمر على نحو منصف",
+    "en": "to put something in proper perspective",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "etwas auf sich beruhen lassen",
+    "ar": "يترك الأمر دون متابعة",
+    "en": "to let a matter rest",
+    "topic": "تعبيرات الحجاج والنقاش"
+  },
+  {
+    "de": "den Ausschlag geben",
+    "ar": "يحسم النتيجة",
+    "en": "to tip the balance",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "zum Tragen kommen",
+    "ar": "يظهر أثره",
+    "en": "to come into play",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "zum Zuge kommen",
+    "ar": "تتاح له الفرصة",
+    "en": "to get a chance",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "zum Vorschein kommen",
+    "ar": "ينكشف أو يظهر",
+    "en": "to come to light",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "zutage treten",
+    "ar": "يظهر جليًا",
+    "en": "to become apparent",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "zutage fördern",
+    "ar": "يكشف ما كان خفيًا",
+    "en": "to bring to light",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in Kraft treten",
+    "ar": "يدخل حيّز التنفيذ",
+    "en": "to come into force",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "außer Kraft setzen",
+    "ar": "يبطل المفعول",
+    "en": "to repeal; to suspend",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in die Wege leiten",
+    "ar": "يبدأ الإجراءات",
+    "en": "to set in motion",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Weichen stellen",
+    "ar": "يحدّد الاتّجاه المستقبلي",
+    "en": "to set the course",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Kurs halten",
+    "ar": "يحافظ على الاتّجاه",
+    "en": "to stay the course",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "einen Kurswechsel vollziehen",
+    "ar": "يغيّر النهج",
+    "en": "to change course",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "das Ruder herumreißen",
+    "ar": "يغيّر المسار جذريًا لإنقاذ الموقف",
+    "en": "to turn things around",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Zügel in die Hand nehmen",
+    "ar": "يتولّى زمام الأمور",
+    "en": "to take the reins",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "das Heft in die Hand nehmen",
+    "ar": "يتولّى القيادة",
+    "en": "to take charge",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "das Zepter schwingen",
+    "ar": "يسيطر على الإدارة",
+    "en": "to wield authority",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Fäden ziehen",
+    "ar": "يدير الأمور من وراء الستار",
+    "en": "to pull strings",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Strippen ziehen",
+    "ar": "يتحكّم من الخلف",
+    "en": "to pull the strings",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "hinter den Kulissen wirken",
+    "ar": "يعمل خلف الكواليس",
+    "en": "to work behind the scenes",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "am längeren Hebel sitzen",
+    "ar": "يمتلك موقف القوّة",
+    "en": "to have greater leverage",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "einen Hebel ansetzen",
+    "ar": "يستخدم نقطة تأثير",
+    "en": "to apply leverage",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "alle Hebel in Bewegung setzen",
+    "ar": "يبذل كلّ الوسائل الممكنة",
+    "en": "to pull out all the stops",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Nägel mit Köpfen machen",
+    "ar": "يتّخذ إجراءً حاسمًا",
+    "en": "to get down to decisive action",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "reinen Tisch machen",
+    "ar": "يصفّي الأمور بصراحة",
+    "en": "to make a clean sweep",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "einen Schlussstrich ziehen",
+    "ar": "يضع نهاية نهائية",
+    "en": "to draw a line under something",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "einen Riegel vorschieben",
+    "ar": "يمنع حدوث أمر",
+    "en": "to put a stop to something",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "einen Strich durch die Rechnung machen",
+    "ar": "يفسد الخطة",
+    "en": "to upset someone's plans",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "einen Stein ins Rollen bringen",
+    "ar": "يبدأ سلسلة من الأحداث",
+    "en": "to set things in motion",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas auf den Weg bringen",
+    "ar": "يبدأ تنفيذ شيء",
+    "en": "to get something underway",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas auf die Beine stellen",
+    "ar": "ينظّم وينجز شيئًا",
+    "en": "to get something off the ground",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas aus dem Boden stampfen",
+    "ar": "ينشئ شيئًا بسرعة من العدم",
+    "en": "to build something from scratch rapidly",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas aus der Taufe heben",
+    "ar": "يطلق مشروعًا جديدًا",
+    "en": "to launch something",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas über die Bühne bringen",
+    "ar": "ينجز أمرًا",
+    "en": "to get something done",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas unter Dach und Fach bringen",
+    "ar": "يُتمّ أمرًا بنجاح",
+    "en": "to wrap something up successfully",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas in trockene Tücher bringen",
+    "ar": "يضمن اكتمال الاتفاق",
+    "en": "to secure a deal",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas auf Eis legen",
+    "ar": "يجمّد مشروعًا مؤقّتًا",
+    "en": "to put something on ice",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas auf die lange Bank schieben",
+    "ar": "يؤجّل باستمرار",
+    "en": "to put something off indefinitely",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas ad acta legen",
+    "ar": "يغلق ملفّ الأمر",
+    "en": "to shelve a matter",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas im Keim ersticken",
+    "ar": "يقضي على أمر في بدايته",
+    "en": "to nip something in the bud",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas im Sande verlaufen lassen",
+    "ar": "يترك الأمر ينتهي بلا نتيجة",
+    "en": "to let something peter out",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas gegen die Wand fahren",
+    "ar": "يتسبّب في فشل كامل",
+    "en": "to run something into the ground",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "etwas aufs Spiel setzen",
+    "ar": "يعرّض شيئًا للخطر",
+    "en": "to put something at stake",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "alles auf eine Karte setzen",
+    "ar": "يراهن بكلّ شيء على خيار واحد",
+    "en": "to put all one's eggs in one basket",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "auf Nummer sicher gehen",
+    "ar": "يتصرّف بحذر لضمان النتيجة",
+    "en": "to play it safe",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "auf volles Risiko gehen",
+    "ar": "يجازف دون تحفّظ",
+    "en": "to take a full risk",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Reißleine ziehen",
+    "ar": "يوقف المسار قبل تفاقم الضرر",
+    "en": "to pull the emergency brake",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Notbremse ziehen",
+    "ar": "يتدخّل لإيقاف كارثة",
+    "en": "to apply the emergency brake",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Kurve kriegen",
+    "ar": "ينجح في تدارك الوضع",
+    "en": "to turn things around in time",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "den Karren aus dem Dreck ziehen",
+    "ar": "ينقذ وضعًا متعثّرًا",
+    "en": "to rescue a difficult situation",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Kohlen aus dem Feuer holen",
+    "ar": "يتحمّل مهمة إنقاذ الآخرين",
+    "en": "to pull others out of trouble",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "über die Runden kommen",
+    "ar": "يدبّر معيشته",
+    "en": "to make ends meet",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich über Wasser halten",
+    "ar": "يحافظ على الحدّ الأدنى من الاستمرار",
+    "en": "to keep afloat",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "auf keinen grünen Zweig kommen",
+    "ar": "لا يحقّق نجاحًا",
+    "en": "to get nowhere",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "auf der Stelle treten",
+    "ar": "يبقى دون تقدّم",
+    "en": "to mark time",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "auf dem Holzweg sein",
+    "ar": "يسلك طريقًا خاطئًا في التفكير",
+    "en": "to be on the wrong track",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in eine Sackgasse geraten",
+    "ar": "يصل إلى طريق مسدود",
+    "en": "to reach a dead end",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "zwischen die Fronten geraten",
+    "ar": "يقع بين طرفين متنازعين",
+    "en": "to get caught between opposing sides",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "zwischen zwei Stühlen sitzen",
+    "ar": "يكون بين خيارين لا يرضي أيًا منهما",
+    "en": "to be caught between two stools",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in der Zwickmühle stecken",
+    "ar": "يقع في مأزق بين بديلين صعبين",
+    "en": "to be in a dilemma",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in die Bredouille geraten",
+    "ar": "يقع في ورطة",
+    "en": "to get into a predicament",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in Bedrängnis geraten",
+    "ar": "يقع تحت ضغط شديد",
+    "en": "to come under pressure",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in Zugzwang geraten",
+    "ar": "يضطرّ إلى اتّخاذ إجراء",
+    "en": "to be forced to act",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in Erklärungsnot geraten",
+    "ar": "يعجز عن تبرير موقفه",
+    "en": "to struggle to explain oneself",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in Verlegenheit bringen",
+    "ar": "يحرج شخصًا",
+    "en": "to embarrass someone",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in Mitleidenschaft ziehen",
+    "ar": "يلحق ضررًا جانبيًا",
+    "en": "to adversely affect",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in Kauf nehmen",
+    "ar": "يقبل أثرًا سلبيًا مقابل هدف",
+    "en": "to accept as a trade-off",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "in den sauren Apfel beißen",
+    "ar": "يقبل أمرًا غير مرغوب",
+    "en": "to bite the bullet",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Kröte schlucken",
+    "ar": "يتقبّل شرطًا مزعجًا",
+    "en": "to swallow a bitter pill",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Zähne zusammenbeißen",
+    "ar": "يتحمّل الصعوبة بعزم",
+    "en": "to grit one's teeth",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "die Stirn bieten",
+    "ar": "يواجه بتحدٍّ",
+    "en": "to stand up to",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Rückgrat zeigen",
+    "ar": "يظهر ثباتًا أخلاقيًا",
+    "en": "to show backbone",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Flagge zeigen",
+    "ar": "يعلن موقفه بوضوح",
+    "en": "to show one's colours",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Farbe bekennen",
+    "ar": "يصرّح بانحيازه",
+    "en": "to declare one's position",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "Kante zeigen",
+    "ar": "يتّخذ موقفًا واضحًا وحازمًا",
+    "en": "to take a firm stand",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "seinen Mann stehen",
+    "ar": "يثبت كفاءته في موقف صعب",
+    "en": "to hold one's own",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich nicht unterkriegen lassen",
+    "ar": "لا يستسلم للإحباط",
+    "en": "to refuse to be beaten down",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "den Kopf nicht in den Sand stecken",
+    "ar": "لا يتجاهل المشكلة",
+    "en": "to refuse to bury one's head in the sand",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "einen langen Atem haben",
+    "ar": "يمتلك صبرًا ومثابرة",
+    "en": "to have staying power",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "am Ball bleiben",
+    "ar": "يواصل المتابعة",
+    "en": "to stay on the ball",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "bei der Stange bleiben",
+    "ar": "يظلّ ملتزمًا",
+    "en": "to stick with it",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich durchbeißen",
+    "ar": "يشقّ طريقه رغم الصعوبة",
+    "en": "to persevere through hardship",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich etwas abringen",
+    "ar": "يبذل جهدًا نفسيًا لفعل شيء",
+    "en": "to force oneself to do something",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich ein Herz fassen",
+    "ar": "يجمع شجاعته",
+    "en": "to pluck up courage",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich einen Ruck geben",
+    "ar": "يدفع نفسه أخيرًا إلى الفعل",
+    "en": "to make oneself take action",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "den inneren Schweinehund überwinden",
+    "ar": "يتغلّب على الكسل الداخلي",
+    "en": "to overcome one's inner resistance",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "über sich hinauswachsen",
+    "ar": "يتجاوز قدراته المتوقّعة",
+    "en": "to rise above oneself",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "an seine Grenzen stoßen",
+    "ar": "يصطدم بحدود قدرته",
+    "en": "to reach one's limits",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich verausgaben",
+    "ar": "يستنزف طاقته",
+    "en": "to exhaust oneself",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich übernehmen",
+    "ar": "يتحمّل فوق طاقته",
+    "en": "to overextend oneself",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich verzetteln",
+    "ar": "يشتّت جهده في التفاصيل",
+    "en": "to spread oneself too thin",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich aufreiben",
+    "ar": "يستنزف نفسه بالجهد",
+    "en": "to wear oneself out",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich festbeißen",
+    "ar": "يتمسّك بمسألة بإصرار شديد",
+    "en": "to get one's teeth into something",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich festfahren",
+    "ar": "يعلق في مسار لا يتقدّم",
+    "en": "to get stuck",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich verrennen",
+    "ar": "يصرّ على طريق خاطئ",
+    "en": "to persist in a mistaken course",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich von etwas lossagen",
+    "ar": "يتبرّأ من شيء",
+    "en": "to renounce something",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich von etwas freimachen",
+    "ar": "يتحرّر من قيد",
+    "en": "to free oneself from something",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich etwas zu eigen machen",
+    "ar": "يتبنّى فكرة أو أسلوبًا",
+    "en": "to make something one's own",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich etwas zu Herzen nehmen",
+    "ar": "يأخذ شيئًا مأخذ الجدّ عاطفيًا",
+    "en": "to take something to heart",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "sich etwas hinter die Ohren schreiben",
+    "ar": "يتذكّر درسًا مهمًا جيدًا",
+    "en": "to take careful note of a lesson",
+    "topic": "تعبيرات القرار والعمل والنتائج"
+  },
+  {
+    "de": "auf Tuchfühlung gehen",
+    "ar": "يقترب للتواصل المباشر",
+    "en": "to make close contact",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf Abstand gehen",
+    "ar": "يبتعد تحفظًا",
+    "en": "to distance oneself",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf Distanz halten",
+    "ar": "يبقي على مسافة",
+    "en": "to keep at a distance",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf Konfrontationskurs gehen",
+    "ar": "يتّجه إلى المواجهة",
+    "en": "to head for confrontation",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf Granit beißen",
+    "ar": "يصطدم برفض عنيد",
+    "en": "to meet with stubborn resistance",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf taube Ohren stoßen",
+    "ar": "لا يلقى استجابة",
+    "en": "to fall on deaf ears",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf offene Ohren stoßen",
+    "ar": "يلقى تفهّمًا",
+    "en": "to find a receptive audience",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf Gegenliebe stoßen",
+    "ar": "يلقى قبولًا",
+    "en": "to meet with approval",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf fruchtbaren Boden fallen",
+    "ar": "يلقى بيئة تستجيب له",
+    "en": "to fall on fertile ground",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "den Nerv treffen",
+    "ar": "يمسّ موضوعًا حسّاسًا",
+    "en": "to strike a nerve",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "den wunden Punkt treffen",
+    "ar": "يصيب نقطة الضعف",
+    "en": "to touch a sore spot",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem auf den Zahn fühlen",
+    "ar": "يستجوب شخصًا بدقّة",
+    "en": "to probe someone closely",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem auf den Schlips treten",
+    "ar": "يسيء لشخص دون قصد غالبًا",
+    "en": "to tread on someone's toes",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem in die Parade fahren",
+    "ar": "يقاطع ويعترض بقوّة",
+    "en": "to cut someone off forcefully",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem über den Mund fahren",
+    "ar": "يقاطع كلام شخص بحدّة",
+    "en": "to snap at someone mid-speech",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem die Leviten lesen",
+    "ar": "يوبّخ شخصًا بشدّة",
+    "en": "to give someone a stern lecture",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem den Kopf waschen",
+    "ar": "يوبّخ شخصًا",
+    "en": "to give someone a dressing-down",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem den Spiegel vorhalten",
+    "ar": "يواجه شخصًا بحقيقة سلوكه",
+    "en": "to hold up a mirror to someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem die Augen öffnen",
+    "ar": "يجعل شخصًا يرى الحقيقة",
+    "en": "to open someone's eyes",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem Sand in die Augen streuen",
+    "ar": "يخدع شخصًا بإخفاء الحقيقة",
+    "en": "to pull the wool over someone's eyes",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden hinters Licht führen",
+    "ar": "يضلّل شخصًا",
+    "en": "to deceive someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden an der Nase herumführen",
+    "ar": "يتلاعب بشخص",
+    "en": "to lead someone by the nose",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden aufs Glatteis führen",
+    "ar": "يستدرج شخصًا إلى خطأ",
+    "en": "to lure someone into a trap",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden aufs Korn nehmen",
+    "ar": "يستهدف شخصًا بالسخرية",
+    "en": "to make someone a target",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden in die Schranken weisen",
+    "ar": "يوقف شخصًا عند حدّه",
+    "en": "to put someone in their place",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem Paroli bieten",
+    "ar": "يواجه شخصًا بندّية",
+    "en": "to stand up to someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem den Rang ablaufen",
+    "ar": "يتفوّق على شخص كان متقدّمًا",
+    "en": "to outstrip someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem das Wasser reichen",
+    "ar": "يكون بمستوى شخص",
+    "en": "to match someone's ability",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem nicht das Wasser reichen können",
+    "ar": "لا يبلغ مستوى شخص",
+    "en": "to be no match for someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem den Rücken stärken",
+    "ar": "يدعم شخصًا",
+    "en": "to back someone up",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem den Rücken freihalten",
+    "ar": "يحمي شخصًا من الأعباء الجانبية",
+    "en": "to keep distractions off someone's back",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem in den Rücken fallen",
+    "ar": "يخذل شخصًا من جماعته",
+    "en": "to stab someone in the back",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem in die Karten spielen",
+    "ar": "يخدم مصلحة شخص دون قصد",
+    "en": "to play into someone's hands",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem einen Bärendienst erweisen",
+    "ar": "يضرّ شخصًا وهو يقصد مساعدته",
+    "en": "to do someone a disservice",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem Steine in den Weg legen",
+    "ar": "يضع العراقيل أمام شخص",
+    "en": "to put obstacles in someone's way",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem den Weg ebnen",
+    "ar": "يمهّد الطريق لشخص",
+    "en": "to pave the way for someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem eine Brücke bauen",
+    "ar": "يسهّل لشخص الرجوع عن موقفه",
+    "en": "to offer someone a way to reconcile",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem goldene Brücken bauen",
+    "ar": "يقدّم لشخص مخرجًا مريحًا",
+    "en": "to offer someone an easy way out",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem einen Strick daraus drehen",
+    "ar": "يستخدم أمرًا ضدّ شخص",
+    "en": "to use something against someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem etwas in die Schuhe schieben",
+    "ar": "يلصق الذنب بشخص",
+    "en": "to pin the blame on someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem den Schwarzen Peter zuschieben",
+    "ar": "يلقي المسؤولية على شخص",
+    "en": "to pass the buck to someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem einen Denkzettel verpassen",
+    "ar": "يلقّن شخصًا درسًا",
+    "en": "to teach someone a lesson",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden zur Räson bringen",
+    "ar": "يجعل شخصًا يعود إلى العقل",
+    "en": "to bring someone to their senses",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden vor den Kopf stoßen",
+    "ar": "يجرح مشاعر شخص بفظاظة",
+    "en": "to offend someone bluntly",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden vor vollendete Tatsachen stellen",
+    "ar": "يفرض على شخص أمرًا واقعًا",
+    "en": "to present someone with a fait accompli",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden ins Boot holen",
+    "ar": "يشرك شخصًا في الخطة",
+    "en": "to bring someone on board",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden an Bord halten",
+    "ar": "يبقي شخصًا مشاركًا",
+    "en": "to keep someone on board",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "mit offenen Karten spielen",
+    "ar": "يتصرّف بشفافية",
+    "en": "to put one's cards on the table",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "mit verdeckten Karten spielen",
+    "ar": "يخفي نواياه",
+    "en": "to keep one's cards close to one's chest",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "die Karten auf den Tisch legen",
+    "ar": "يكشف موقفه ونواياه",
+    "en": "to lay one's cards on the table",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich nicht in die Karten schauen lassen",
+    "ar": "لا يكشف خططه",
+    "en": "to keep one's plans hidden",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "den Schein wahren",
+    "ar": "يحافظ على المظهر",
+    "en": "to keep up appearances",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "das Gesicht wahren",
+    "ar": "يحفظ ماء الوجه",
+    "en": "to save face",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "das Gesicht verlieren",
+    "ar": "يفقد احترام الآخرين",
+    "en": "to lose face",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "Haltung bewahren",
+    "ar": "يحافظ على تماسكه",
+    "en": "to keep one's composure",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "Fassung bewahren",
+    "ar": "يحافظ على رباطة جأشه",
+    "en": "to remain composed",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich keine Blöße geben",
+    "ar": "لا يُظهر نقطة ضعف",
+    "en": "to avoid exposing a weakness",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich bedeckt halten",
+    "ar": "يتحفّظ ولا يفصح",
+    "en": "to keep a low profile",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich in Schweigen hüllen",
+    "ar": "يلوذ بالصمت",
+    "en": "to shroud oneself in silence",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich in Unschuld waschen",
+    "ar": "يدّعي البراءة",
+    "en": "to protest one's innocence",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich aus der Affäre ziehen",
+    "ar": "يخرج من ورطة بمهارة",
+    "en": "to extricate oneself from trouble",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich aus der Verantwortung stehlen",
+    "ar": "يتهرّب من المسؤولية",
+    "en": "to shirk responsibility",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich die Hände in Unschuld waschen",
+    "ar": "يتنصّل من المسؤولية",
+    "en": "to wash one's hands of responsibility",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich einen Namen machen",
+    "ar": "يبني سمعة",
+    "en": "to make a name for oneself",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich Lorbeeren verdienen",
+    "ar": "يكسب تقديرًا بإنجاز",
+    "en": "to earn laurels",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich auf seinen Lorbeeren ausruhen",
+    "ar": "يكتفي بإنجازاته الماضية",
+    "en": "to rest on one's laurels",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich mit fremden Federn schmücken",
+    "ar": "ينسب إنجاز الآخرين إلى نفسه",
+    "en": "to take credit for others' work",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich ins rechte Licht setzen",
+    "ar": "يظهر نفسه بصورة حسنة",
+    "en": "to present oneself favourably",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich in den Vordergrund drängen",
+    "ar": "يفرض نفسه في المقدّمة",
+    "en": "to push oneself into the spotlight",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich wichtigmachen",
+    "ar": "يحاول الظهور بمظهر المهمّ",
+    "en": "to make oneself seem important",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich über jemanden erheben",
+    "ar": "يتعالى على شخص",
+    "en": "to place oneself above someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "von oben herab behandeln",
+    "ar": "يعامل بتعالٍ",
+    "en": "to treat condescendingly",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf jemanden herabsehen",
+    "ar": "يحتقر شخصًا",
+    "en": "to look down on someone",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden auf ein Podest stellen",
+    "ar": "يبالغ في تمجيد شخص",
+    "en": "to put someone on a pedestal",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemanden über den grünen Klee loben",
+    "ar": "يمدح شخصًا بإفراط",
+    "en": "to praise someone to the skies",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem Honig ums Maul schmieren",
+    "ar": "يتملّق شخصًا",
+    "en": "to butter someone up",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "jemandem nach dem Mund reden",
+    "ar": "يقول ما يحبّ شخص سماعه",
+    "en": "to tell someone what they want to hear",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "mit den Wölfen heulen",
+    "ar": "يساير الجماعة رغم رأيه",
+    "en": "to go along with the crowd",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sein Fähnchen nach dem Wind drehen",
+    "ar": "يغيّر موقفه حسب المصلحة",
+    "en": "to change sides with the wind",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "gegen den Strom schwimmen",
+    "ar": "يخالف التيّار السائد",
+    "en": "to swim against the current",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "aus der Reihe tanzen",
+    "ar": "يخالف المألوف",
+    "en": "to step out of line",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "nicht aus seiner Haut können",
+    "ar": "لا يستطيع تغيير طبعه",
+    "en": "to be unable to change one's nature",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "über den Dingen stehen",
+    "ar": "لا يتأثّر بالتفاصيل الصغيرة",
+    "en": "to rise above petty matters",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich die Hörner abstoßen",
+    "ar": "يهدأ بعد تجارب الشباب المتهوّرة",
+    "en": "to get youthful recklessness out of one's system",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "Fünfe gerade sein lassen",
+    "ar": "يتسامح في التفاصيل",
+    "en": "to overlook minor faults",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "ein Auge zudrücken",
+    "ar": "يتغاضى عن مخالفة",
+    "en": "to turn a blind eye",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "etwas auf die Goldwaage legen",
+    "ar": "يدقّق في كلّ كلمة بإفراط",
+    "en": "to weigh every word excessively",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "kein gutes Haar an jemandem lassen",
+    "ar": "ينتقد شخصًا من كلّ وجه",
+    "en": "to tear someone apart verbally",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "ein Haar in der Suppe finden",
+    "ar": "يجد عيبًا في كلّ شيء",
+    "en": "to find fault with everything",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "eine Mücke zum Elefanten machen",
+    "ar": "يضخّم أمرًا صغيرًا",
+    "en": "to make a mountain out of a molehill",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "klein beigeben",
+    "ar": "يتراجع مستسلمًا",
+    "en": "to back down",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "sich geschlagen geben",
+    "ar": "يعترف بالهزيمة",
+    "en": "to admit defeat",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "die Segel streichen",
+    "ar": "يستسلم",
+    "en": "to throw in the towel",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "die die Flinte ins Korn werfen",
+    "ar": "يستسلم ويترك المحاولة",
+    "en": "to give up",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "Wasser auf jemandes Mühlen sein",
+    "ar": "يعزّز حجج طرف",
+    "en": "to be grist to someone's mill",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "ein zweischneidiges Schwert sein",
+    "ar": "تكون له فوائد ومخاطر",
+    "en": "to be a double-edged sword",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "ein Tropfen auf den heißen Stein sein",
+    "ar": "يكون أثره ضئيلًا أمام الحاجة",
+    "en": "to be a drop in the ocean",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "das Zünglein an der Waage sein",
+    "ar": "يكون العامل الصغير الحاسم",
+    "en": "to tip the scales",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "auf Messers Schneide stehen",
+    "ar": "يكون في وضع شديد الحرج",
+    "en": "to hang in the balance",
+    "topic": "تعبيرات العلاقات والمواقف"
+  },
+  {
+    "de": "unverblümt",
+    "ar": "صريح دون تلطيف",
+    "en": "blunt",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "unverfroren",
+    "ar": "وقح بلا خجل",
+    "en": "brazen",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "unverfänglich",
+    "ar": "لا يثير حرجًا أو شبهة",
+    "en": "innocuous",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "ungebührlich",
+    "ar": "غير لائق",
+    "en": "improper",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "ungeschminkt",
+    "ar": "صريح دون تجميل",
+    "en": "unvarnished",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "ungerührt",
+    "ar": "غير متأثّر",
+    "en": "unmoved",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "ungehalten",
+    "ar": "مستاء ومنفعل",
+    "en": "irritated",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "ungestüm",
+    "ar": "مندفع بقوّة",
+    "en": "impetuous",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "unheilschwanger",
+    "ar": "منذر بالشرّ",
+    "en": "ominous",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "unnahbar",
+    "ar": "صعب التقرّب منه",
+    "en": "unapproachable",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "untrüglich",
+    "ar": "لا يخطئ في الدلالة",
+    "en": "unmistakable",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "vertrackt",
+    "ar": "معقّد يصعب حلّه",
+    "en": "tricky",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "verschroben",
+    "ar": "غريب الأطوار",
+    "en": "eccentric",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "versiert",
+    "ar": "متمرّس",
+    "en": "well-versed",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "verwegen",
+    "ar": "جريء إلى حدّ التهوّر",
+    "en": "audacious",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "versonnen",
+    "ar": "شارد في التأمّل",
+    "en": "dreamily thoughtful",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "verhalten",
+    "ar": "متحفّظ وخافت",
+    "en": "restrained",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "verzagt",
+    "ar": "فاقد للشجاعة",
+    "en": "despondent",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "wortgewandt",
+    "ar": "فصيح ولبق",
+    "en": "eloquent",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "wortkarg",
+    "ar": "قليل الكلام",
+    "en": "taciturn",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "weitschweifig",
+    "ar": "مطوّل ومسترسل",
+    "en": "long-winded",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "wankelmütig",
+    "ar": "متقلّب الرأي",
+    "en": "fickle",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "wehleidig",
+    "ar": "كثير الشكوى من الألم",
+    "en": "self-pitying",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "zimperlich",
+    "ar": "مفرط الحساسية",
+    "en": "squeamish",
+    "topic": "صفات الأسلوب والانطباع"
+  },
+  {
+    "de": "zynisch",
+    "ar": "ساخر بازدراء للقيم",
+    "en": "cynical",
+    "topic": "صفات الأسلوب والانطباع"
+  }
+]

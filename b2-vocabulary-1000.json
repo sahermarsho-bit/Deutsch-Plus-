@@ -1,0 +1,6002 @@
+[
+  {
+    "de": "die Öffentlichkeit",
+    "ar": "الرأي العام؛ الجمهور",
+    "en": "the public",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Zivilgesellschaft",
+    "ar": "المجتمع المدني",
+    "en": "civil society",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Gesellschaftsordnung",
+    "ar": "النظام الاجتماعي",
+    "en": "social order",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Gesellschaftsschicht",
+    "ar": "الطبقة الاجتماعية",
+    "en": "social class",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Mittelschicht",
+    "ar": "الطبقة الوسطى",
+    "en": "middle class",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Oberschicht",
+    "ar": "الطبقة العليا",
+    "en": "upper class",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Unterschicht",
+    "ar": "الطبقة الدنيا",
+    "en": "lower class",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Ungleichheit",
+    "ar": "عدم المساواة",
+    "en": "inequality",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Benachteiligung",
+    "ar": "الإجحاف؛ وضع غير مؤاتٍ",
+    "en": "disadvantage",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Ausgrenzung",
+    "ar": "الإقصاء",
+    "en": "exclusion",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Zugehörigkeit",
+    "ar": "الانتماء",
+    "en": "belonging",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Teilhabe",
+    "ar": "المشاركة في المجتمع",
+    "en": "participation in society",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Solidarität",
+    "ar": "التضامن",
+    "en": "solidarity",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Vielfalt",
+    "ar": "التنوّع",
+    "en": "diversity",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Weltanschauung",
+    "ar": "النظرة إلى العالم",
+    "en": "worldview",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Werte",
+    "ar": "القيم",
+    "en": "values",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Norm",
+    "ar": "المعيار؛ القاعدة",
+    "en": "norm",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Moral",
+    "ar": "الأخلاق",
+    "en": "morality",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Ethik",
+    "ar": "علم الأخلاق",
+    "en": "ethics",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Verantwortung",
+    "ar": "المسؤولية",
+    "en": "responsibility",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "das Verantwortungsbewusstsein",
+    "ar": "الشعور بالمسؤولية",
+    "en": "sense of responsibility",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Eigenverantwortung",
+    "ar": "المسؤولية الذاتية",
+    "en": "personal responsibility",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Gleichstellung",
+    "ar": "المساواة في المكانة والحقوق",
+    "en": "equality of status",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Emanzipation",
+    "ar": "التحرّر من التبعية",
+    "en": "emancipation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Minderheitenrechte",
+    "ar": "حقوق الأقليات",
+    "en": "minority rights",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "das Menschenrecht",
+    "ar": "حق من حقوق الإنسان",
+    "en": "human right",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Menschenwürde",
+    "ar": "الكرامة الإنسانية",
+    "en": "human dignity",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Meinungsfreiheit",
+    "ar": "حرية الرأي",
+    "en": "freedom of expression",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Pressefreiheit",
+    "ar": "حرية الصحافة",
+    "en": "freedom of the press",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Religionsfreiheit",
+    "ar": "حرية الدين",
+    "en": "freedom of religion",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Versammlungsfreiheit",
+    "ar": "حرية التجمّع",
+    "en": "freedom of assembly",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Verfassung",
+    "ar": "الدستور",
+    "en": "constitution",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Rechtsstaat",
+    "ar": "دولة القانون",
+    "en": "state governed by the rule of law",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Gewaltenteilung",
+    "ar": "فصل السلطات",
+    "en": "separation of powers",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Gesetzgebung",
+    "ar": "التشريع",
+    "en": "legislation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Opposition",
+    "ar": "المعارضة",
+    "en": "opposition",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Koalition",
+    "ar": "الائتلاف",
+    "en": "coalition",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Fraktion",
+    "ar": "الكتلة البرلمانية",
+    "en": "parliamentary group",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Abgeordnete",
+    "ar": "النائب",
+    "en": "member of parliament",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Abgeordnete",
+    "ar": "النائبة",
+    "en": "female member of parliament",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Wahlkampf",
+    "ar": "الحملة الانتخابية",
+    "en": "election campaign",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "das Wahlrecht",
+    "ar": "حق الانتخاب؛ قانون الانتخابات",
+    "en": "voting rights; electoral law",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Wahlbeteiligung",
+    "ar": "نسبة المشاركة في الانتخابات",
+    "en": "voter turnout",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Wahlkreis",
+    "ar": "الدائرة الانتخابية",
+    "en": "constituency",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Abstimmung",
+    "ar": "التصويت؛ التنسيق",
+    "en": "vote; coordination",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Volksentscheid",
+    "ar": "الاستفتاء الشعبي",
+    "en": "referendum",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Reform",
+    "ar": "الإصلاح",
+    "en": "reform",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Subvention",
+    "ar": "الإعانة الحكومية",
+    "en": "subsidy",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Kürzung",
+    "ar": "التخفيض",
+    "en": "cut; reduction",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Haushalt",
+    "ar": "الميزانية؛ الأسرة المنزلية",
+    "en": "budget; household",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Staatsausgabe",
+    "ar": "النفقات الحكومية",
+    "en": "government expenditure",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Steuereinnahme",
+    "ar": "الإيراد الضريبي",
+    "en": "tax revenue",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Staatsverschuldung",
+    "ar": "الدين العام",
+    "en": "national debt",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Außenpolitik",
+    "ar": "السياسة الخارجية",
+    "en": "foreign policy",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Innenpolitik",
+    "ar": "السياسة الداخلية",
+    "en": "domestic policy",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Sicherheitspolitik",
+    "ar": "السياسة الأمنية",
+    "en": "security policy",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Diplomatie",
+    "ar": "الدبلوماسية",
+    "en": "diplomacy",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Verhandlung",
+    "ar": "المفاوضات",
+    "en": "negotiation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "das Abkommen",
+    "ar": "الاتفاقية",
+    "en": "agreement",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "das Bündnis",
+    "ar": "التحالف",
+    "en": "alliance",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Sanktion",
+    "ar": "العقوبة؛ الإجراء العقابي",
+    "en": "sanction",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Friedensverhandlung",
+    "ar": "مفاوضات السلام",
+    "en": "peace negotiation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Waffenstillstand",
+    "ar": "وقف إطلاق النار",
+    "en": "ceasefire",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Vermittlung",
+    "ar": "الوساطة",
+    "en": "mediation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Eskalation",
+    "ar": "التصعيد",
+    "en": "escalation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Bedrohung",
+    "ar": "التهديد",
+    "en": "threat",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Fluchtursache",
+    "ar": "سبب اللجوء أو الفرار",
+    "en": "cause of displacement",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Vertreibung",
+    "ar": "التهجير القسري",
+    "en": "expulsion; displacement",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Verfolgung",
+    "ar": "الاضطهاد؛ الملاحقة",
+    "en": "persecution; pursuit",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Einbürgerung",
+    "ar": "التجنيس",
+    "en": "naturalisation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Niederlassungserlaubnis",
+    "ar": "تصريح الإقامة الدائمة",
+    "en": "permanent residence permit",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Zuwanderung",
+    "ar": "الهجرة الوافدة",
+    "en": "immigration",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Abwanderung",
+    "ar": "الهجرة إلى خارج المنطقة",
+    "en": "outward migration",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Auswanderung",
+    "ar": "الهجرة من البلد",
+    "en": "emigration",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Willkommenskultur",
+    "ar": "ثقافة الترحيب",
+    "en": "welcoming culture",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Einwanderungsgesellschaft",
+    "ar": "مجتمع يتشكّل بالهجرة",
+    "en": "immigration society",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Bevölkerungsschicht",
+    "ar": "فئة من السكان",
+    "en": "section of the population",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Bevölkerungsentwicklung",
+    "ar": "التغيّر السكاني",
+    "en": "population development",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Geburtenrückgang",
+    "ar": "تراجع المواليد",
+    "en": "decline in births",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Lebenserwartung",
+    "ar": "متوسّط العمر المتوقع",
+    "en": "life expectancy",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Überalterung",
+    "ar": "ارتفاع نسبة كبار السن",
+    "en": "population ageing",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "der Generationenvertrag",
+    "ar": "التكافل المالي بين الأجيال",
+    "en": "intergenerational social contract",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Bürgerinitiative",
+    "ar": "المبادرة المدنية",
+    "en": "citizens' initiative",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "das Bürgerbegehren",
+    "ar": "طلب شعبي لإجراء استفتاء",
+    "en": "citizens' petition",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "das Engagement",
+    "ar": "الانخراط؛ الالتزام",
+    "en": "commitment; involvement",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Beteiligung",
+    "ar": "المشاركة",
+    "en": "participation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Mitbestimmung",
+    "ar": "المشاركة في اتخاذ القرار",
+    "en": "participation in decision-making",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Interessenvertretung",
+    "ar": "تمثيل المصالح",
+    "en": "representation of interests",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Gewerkschaft",
+    "ar": "النقابة",
+    "en": "trade union",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Stiftung",
+    "ar": "المؤسسة الوقفية",
+    "en": "foundation",
+    "topic": "المجتمع والسياسة"
+  },
+  {
+    "de": "die Wirtschaft",
+    "ar": "الاقتصاد",
+    "en": "economy",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Wirtschaftswachstum",
+    "ar": "النمو الاقتصادي",
+    "en": "economic growth",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Konjunktur",
+    "ar": "الوضع الدوري للاقتصاد",
+    "en": "economic cycle",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Aufschwung",
+    "ar": "الانتعاش",
+    "en": "upswing",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Abschwung",
+    "ar": "التراجع الاقتصادي",
+    "en": "downturn",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Rezession",
+    "ar": "الركود",
+    "en": "recession",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Inflation",
+    "ar": "التضخّم",
+    "en": "inflation",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kaufkraft",
+    "ar": "القوة الشرائية",
+    "en": "purchasing power",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Überangebot",
+    "ar": "فائض العرض",
+    "en": "oversupply",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Konkurrenz",
+    "ar": "المنافسون؛ المنافسة",
+    "en": "competition; rivals",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Wettbewerbsfähigkeit",
+    "ar": "القدرة التنافسية",
+    "en": "competitiveness",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Marktanteil",
+    "ar": "الحصة السوقية",
+    "en": "market share",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Marktlücke",
+    "ar": "الحاجة غير الملبّاة في السوق",
+    "en": "gap in the market",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Branche",
+    "ar": "القطاع الاقتصادي",
+    "en": "industry sector",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Sektor",
+    "ar": "القطاع",
+    "en": "sector",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Einzelhandel",
+    "ar": "تجارة التجزئة",
+    "en": "retail trade",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Großhandel",
+    "ar": "تجارة الجملة",
+    "en": "wholesale trade",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Außenhandel",
+    "ar": "التجارة الخارجية",
+    "en": "foreign trade",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Export",
+    "ar": "التصدير",
+    "en": "export",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Import",
+    "ar": "الاستيراد",
+    "en": "import",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Lieferkette",
+    "ar": "سلسلة التوريد",
+    "en": "supply chain",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Lieferant",
+    "ar": "المورّد",
+    "en": "supplier",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Lieferantin",
+    "ar": "المورّدة",
+    "en": "female supplier",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Rohstoff",
+    "ar": "المادة الخام",
+    "en": "raw material",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Ressource",
+    "ar": "المورد",
+    "en": "resource",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Engpass",
+    "ar": "الاختناق؛ النقص المؤقّت",
+    "en": "bottleneck; shortage",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Knappheit",
+    "ar": "الندرة",
+    "en": "scarcity",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Überschuss",
+    "ar": "الفائض",
+    "en": "surplus",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Defizit",
+    "ar": "العجز",
+    "en": "deficit",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Bilanz",
+    "ar": "الميزانية العمومية؛ الحصيلة",
+    "en": "balance sheet; overall result",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Buchhaltung",
+    "ar": "المحاسبة",
+    "en": "accounting",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Jahresabschluss",
+    "ar": "الحسابات السنوية الختامية",
+    "en": "annual financial statements",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Betriebskosten",
+    "ar": "تكاليف التشغيل",
+    "en": "operating costs",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Personalkosten",
+    "ar": "تكاليف الموظفين",
+    "en": "personnel costs",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Rentabilität",
+    "ar": "الربحية",
+    "en": "profitability",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Rendite",
+    "ar": "العائد المالي",
+    "en": "return on investment",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Liquidität",
+    "ar": "السيولة المالية",
+    "en": "liquidity",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Insolvenz",
+    "ar": "الإعسار المالي",
+    "en": "insolvency",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Gläubiger",
+    "ar": "الدائن",
+    "en": "creditor",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Schuldner",
+    "ar": "المدين",
+    "en": "debtor",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Finanzierung",
+    "ar": "التمويل",
+    "en": "financing",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Eigenkapital",
+    "ar": "رأس المال الخاص",
+    "en": "equity capital",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Fremdkapital",
+    "ar": "رأس المال المقترض",
+    "en": "borrowed capital",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Zinssatz",
+    "ar": "سعر الفائدة",
+    "en": "interest rate",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Tilgung",
+    "ar": "سداد أصل الدين",
+    "en": "repayment of principal",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Sicherheit",
+    "ar": "الأمان؛ الضمان",
+    "en": "security; collateral",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Bürgschaft",
+    "ar": "الكفالة",
+    "en": "guarantee; surety",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Geschäftseröffnung",
+    "ar": "افتتاح مشروع تجاري",
+    "en": "business opening",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Aktie",
+    "ar": "السهم المالي",
+    "en": "share; stock",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Börse",
+    "ar": "البورصة",
+    "en": "stock exchange",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Geldanlage",
+    "ar": "الاستثمار المالي",
+    "en": "financial investment",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Ausschüttung",
+    "ar": "توزيع الأرباح",
+    "en": "distribution of profits",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Dividende",
+    "ar": "ربح السهم",
+    "en": "dividend",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Unternehmensgründung",
+    "ar": "تأسيس شركة",
+    "en": "business start-up",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Geschäftsmodell",
+    "ar": "نموذج العمل التجاري",
+    "en": "business model",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kundschaft",
+    "ar": "العملاء",
+    "en": "clientele",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kundenbindung",
+    "ar": "الحفاظ على العملاء",
+    "en": "customer retention",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kundenbetreuung",
+    "ar": "خدمة العملاء",
+    "en": "customer care",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kundenzufriedenheit",
+    "ar": "رضا العملاء",
+    "en": "customer satisfaction",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Vermarktung",
+    "ar": "التسويق",
+    "en": "marketing",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Werbekampagne",
+    "ar": "الحملة الإعلانية",
+    "en": "advertising campaign",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Alleinstellungsmerkmal",
+    "ar": "الميزة الفريدة",
+    "en": "unique selling point",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Nachfrageentwicklung",
+    "ar": "تطوّر الطلب",
+    "en": "development of demand",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Preisgestaltung",
+    "ar": "تحديد الأسعار",
+    "en": "pricing",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Preis-Leistungs-Verhältnis",
+    "ar": "العلاقة بين السعر والجودة",
+    "en": "value for money",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kostensteigerung",
+    "ar": "ارتفاع التكاليف",
+    "en": "increase in costs",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kostensenkung",
+    "ar": "خفض التكاليف",
+    "en": "cost reduction",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Einsparung",
+    "ar": "التوفير",
+    "en": "saving; economy",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Rationalisierung",
+    "ar": "ترشيد العمليات",
+    "en": "rationalisation",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Automatisierung",
+    "ar": "الأتمتة",
+    "en": "automation",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Produktivität",
+    "ar": "الإنتاجية",
+    "en": "productivity",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Effizienz",
+    "ar": "الكفاءة في استخدام الموارد",
+    "en": "efficiency",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Effektivität",
+    "ar": "الفعالية",
+    "en": "effectiveness",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Auslastung",
+    "ar": "نسبة الاستغلال",
+    "en": "capacity utilisation",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kapazität",
+    "ar": "القدرة الاستيعابية",
+    "en": "capacity",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Fertigung",
+    "ar": "التصنيع",
+    "en": "manufacturing",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Serienproduktion",
+    "ar": "الإنتاج المتسلسل",
+    "en": "mass production",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Qualitätskontrolle",
+    "ar": "مراقبة الجودة",
+    "en": "quality control",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Qualitätssicherung",
+    "ar": "ضمان الجودة",
+    "en": "quality assurance",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Beschaffung",
+    "ar": "التزوّد بالمستلزمات",
+    "en": "procurement",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Lagerhaltung",
+    "ar": "إدارة المخزون",
+    "en": "inventory management",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Logistik",
+    "ar": "الخدمات اللوجستية",
+    "en": "logistics",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Zulieferung",
+    "ar": "توريد المكوّنات",
+    "en": "supply of components",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Lieferfähigkeit",
+    "ar": "القدرة على التوريد",
+    "en": "ability to deliver",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Lieferschwierigkeit",
+    "ar": "صعوبة التوريد",
+    "en": "delivery difficulty",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Lieferfrist",
+    "ar": "مهلة التسليم",
+    "en": "delivery deadline",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Abwicklung",
+    "ar": "إنجاز المعاملة",
+    "en": "processing; settlement",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Auftragslage",
+    "ar": "حالة الطلبات التجارية",
+    "en": "order situation",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "das Auftragsvolumen",
+    "ar": "حجم الطلبات",
+    "en": "order volume",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Ausschreibung",
+    "ar": "المناقصة؛ الإعلان عن فرصة",
+    "en": "call for tenders",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "der Kostenvoranschlag",
+    "ar": "التقدير المبدئي للتكاليف",
+    "en": "cost estimate",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Kalkulation",
+    "ar": "حساب التكلفة",
+    "en": "cost calculation",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Geschäftsbeziehung",
+    "ar": "العلاقة التجارية",
+    "en": "business relationship",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Geschäftsbedingung",
+    "ar": "شرط تجاري",
+    "en": "business term",
+    "topic": "الاقتصاد والعمل والإدارة"
+  },
+  {
+    "de": "die Erwerbstätigkeit",
+    "ar": "العمل المأجور أو الحر",
+    "en": "gainful employment",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Erwerbslosigkeit",
+    "ar": "عدم وجود عمل",
+    "en": "joblessness",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Arbeitsmarkt",
+    "ar": "سوق العمل",
+    "en": "labour market",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Fachkräftemangel",
+    "ar": "نقص العمالة الماهرة",
+    "en": "shortage of skilled workers",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Fachkraft",
+    "ar": "العامل المتخصّص",
+    "en": "skilled worker",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Belegschaft",
+    "ar": "العاملون في المؤسسة",
+    "en": "workforce",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Führungskraft",
+    "ar": "الشخص ذو منصب قيادي",
+    "en": "executive; manager",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Führungsebene",
+    "ar": "المستوى الإداري القيادي",
+    "en": "management level",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Hierarchie",
+    "ar": "التسلسل الهرمي",
+    "en": "hierarchy",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Zuständigkeit",
+    "ar": "الاختصاص؛ المسؤولية",
+    "en": "area of responsibility",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Befugnis",
+    "ar": "الصلاحية",
+    "en": "authority; power",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Aufgabenbereich",
+    "ar": "نطاق المهام",
+    "en": "scope of duties",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Aufgabenverteilung",
+    "ar": "توزيع المهام",
+    "en": "allocation of tasks",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Arbeitsaufteilung",
+    "ar": "تقسيم العمل",
+    "en": "division of work",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Arbeitsablauf",
+    "ar": "سير العمل",
+    "en": "workflow",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Arbeitsorganisation",
+    "ar": "تنظيم العمل",
+    "en": "work organisation",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Arbeitsweise",
+    "ar": "أسلوب العمل",
+    "en": "working method",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Arbeitsleistung",
+    "ar": "أداء العمل",
+    "en": "work performance",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Leistungsbereitschaft",
+    "ar": "الاستعداد لبذل الجهد",
+    "en": "willingness to perform",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Belastbarkeit",
+    "ar": "القدرة على تحمّل الضغط",
+    "en": "resilience under pressure",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Teamfähigkeit",
+    "ar": "القدرة على العمل الجماعي",
+    "en": "teamwork skills",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Kommunikationsfähigkeit",
+    "ar": "القدرة على التواصل",
+    "en": "communication skills",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Durchsetzungsfähigkeit",
+    "ar": "القدرة على فرض الرأي بثبات",
+    "en": "assertiveness",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Eigeninitiative",
+    "ar": "المبادرة الذاتية",
+    "en": "initiative",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Zuverlässigkeit",
+    "ar": "الموثوقية",
+    "en": "reliability",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Sorgfalt",
+    "ar": "الدقّة والعناية",
+    "en": "care; diligence",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Flexibilität",
+    "ar": "المرونة",
+    "en": "flexibility",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Mobilität",
+    "ar": "القدرة على التنقّل",
+    "en": "mobility",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Einsatzbereitschaft",
+    "ar": "الاستعداد للعمل والمساعدة",
+    "en": "readiness to contribute",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Berufspraxis",
+    "ar": "الممارسة المهنية",
+    "en": "practical work experience",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Qualifizierung",
+    "ar": "التأهيل",
+    "en": "qualification training",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Einarbeitung",
+    "ar": "التدريب عند بدء العمل",
+    "en": "onboarding; induction",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Stellenausschreibung",
+    "ar": "إعلان الوظيفة",
+    "en": "job advertisement",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Anforderungsprofil",
+    "ar": "المؤهّلات المطلوبة",
+    "en": "requirements profile",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Auswahlverfahren",
+    "ar": "إجراءات الاختيار",
+    "en": "selection process",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Bewerbungsfrist",
+    "ar": "مهلة تقديم الطلب",
+    "en": "application deadline",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Bewerbungsunterlage",
+    "ar": "مستند التقديم",
+    "en": "application document",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Gehaltsvorstellung",
+    "ar": "الراتب المتوقّع",
+    "en": "salary expectation",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Gehaltsverhandlung",
+    "ar": "التفاوض على الراتب",
+    "en": "salary negotiation",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Einstiegsgehalt",
+    "ar": "الراتب الابتدائي",
+    "en": "starting salary",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Vergütung",
+    "ar": "الأجر؛ التعويض",
+    "en": "remuneration",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Tarifvertrag",
+    "ar": "اتفاقية العمل الجماعية",
+    "en": "collective agreement",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Tarifverhandlung",
+    "ar": "التفاوض الجماعي على الأجور",
+    "en": "collective bargaining",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Lohnfortzahlung",
+    "ar": "استمرار دفع الأجر",
+    "en": "continued wage payment",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Sonderzahlung",
+    "ar": "دفعة إضافية",
+    "en": "special payment",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Weihnachtsgeld",
+    "ar": "مكافأة عيد الميلاد",
+    "en": "Christmas bonus",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Urlaubsgeld",
+    "ar": "بدل الإجازة",
+    "en": "holiday bonus",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Mehrarbeit",
+    "ar": "العمل الإضافي",
+    "en": "extra work",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Gleitzeit",
+    "ar": "الدوام المرن",
+    "en": "flexitime",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Kernarbeitszeit",
+    "ar": "ساعات الحضور الإلزامية",
+    "en": "core working hours",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Schichtarbeit",
+    "ar": "العمل بنظام الورديات",
+    "en": "shift work",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Rufbereitschaft",
+    "ar": "الاستعداد للعمل عند الطلب",
+    "en": "on-call duty",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Bereitschaft",
+    "ar": "الاستعداد",
+    "en": "readiness",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Teilzeitbeschäftigung",
+    "ar": "العمل بدوام جزئي",
+    "en": "part-time employment",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Vollzeitbeschäftigung",
+    "ar": "العمل بدوام كامل",
+    "en": "full-time employment",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Befristung",
+    "ar": "تحديد مدة العقد",
+    "en": "fixed-term limitation",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Kündigungsschutz",
+    "ar": "الحماية من الفصل",
+    "en": "protection against dismissal",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Abmahnung",
+    "ar": "الإنذار الرسمي",
+    "en": "formal warning",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Abfindung",
+    "ar": "تعويض إنهاء العمل",
+    "en": "severance pay",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Aufhebungsvertrag",
+    "ar": "اتفاق إنهاء العقد",
+    "en": "termination agreement",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Betriebsrat",
+    "ar": "مجلس العاملين",
+    "en": "works council",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Betriebsvereinbarung",
+    "ar": "اتفاق داخل المؤسسة",
+    "en": "works agreement",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Betriebsversammlung",
+    "ar": "اجتماع العاملين",
+    "en": "staff assembly",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Arbeitsschutz",
+    "ar": "حماية العاملين",
+    "en": "occupational safety",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Arbeitssicherheit",
+    "ar": "السلامة المهنية",
+    "en": "workplace safety",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Unfallverhütung",
+    "ar": "الوقاية من الحوادث",
+    "en": "accident prevention",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Gefährdung",
+    "ar": "التعريض للخطر",
+    "en": "endangerment",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Unterweisung",
+    "ar": "التوجيه والتدريب على التعليمات",
+    "en": "instruction; briefing",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Dienstanweisung",
+    "ar": "التعليمات الوظيفية",
+    "en": "work directive",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Reisekostenabrechnung",
+    "ar": "كشف مصاريف السفر",
+    "en": "travel expense claim",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Tagesordnung",
+    "ar": "جدول الأعمال",
+    "en": "agenda",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Protokoll",
+    "ar": "محضر الاجتماع",
+    "en": "minutes; record",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Rückmeldung",
+    "ar": "التعقيب؛ الرد",
+    "en": "feedback",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Zielvereinbarung",
+    "ar": "اتفاق على الأهداف",
+    "en": "target agreement",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Mitarbeitergespräch",
+    "ar": "مقابلة تقييم الموظف",
+    "en": "employee appraisal meeting",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Personalentwicklung",
+    "ar": "تطوير الموظفين",
+    "en": "staff development",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Personalplanung",
+    "ar": "تخطيط الموارد البشرية",
+    "en": "workforce planning",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Personalbeschaffung",
+    "ar": "استقطاب الموظفين",
+    "en": "recruitment",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Stellenbesetzung",
+    "ar": "شغل الوظيفة",
+    "en": "filling a vacancy",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Übergabe",
+    "ar": "التسليم",
+    "en": "handover",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "die Freistellung",
+    "ar": "الإعفاء المؤقّت من العمل",
+    "en": "release from duties",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "der Ruhestand",
+    "ar": "التقاعد",
+    "en": "retirement",
+    "topic": "الحياة المهنية والتنظيم"
+  },
+  {
+    "de": "das Bildungswesen",
+    "ar": "نظام التعليم",
+    "en": "education system",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Bildungspolitik",
+    "ar": "سياسة التعليم",
+    "en": "education policy",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Bildungsreform",
+    "ar": "إصلاح التعليم",
+    "en": "education reform",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Bildungschance",
+    "ar": "فرصة التعليم",
+    "en": "educational opportunity",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Bildungsgerechtigkeit",
+    "ar": "العدالة في التعليم",
+    "en": "educational equity",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Schulpflicht",
+    "ar": "إلزامية التعليم المدرسي",
+    "en": "compulsory schooling",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Hochschulreife",
+    "ar": "أهلية الالتحاق بالجامعة",
+    "en": "university entrance qualification",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Hochschulbildung",
+    "ar": "التعليم العالي",
+    "en": "higher education",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Studiengebühr",
+    "ar": "الرسوم الدراسية الجامعية",
+    "en": "tuition fee",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Stipendium",
+    "ar": "المنحة الدراسية",
+    "en": "scholarship",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Studienförderung",
+    "ar": "دعم الدراسة",
+    "en": "student funding",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Zulassungsvoraussetzung",
+    "ar": "شرط القبول",
+    "en": "admission requirement",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Zulassungsbeschränkung",
+    "ar": "تقييد القبول",
+    "en": "admission restriction",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Studienordnung",
+    "ar": "لائحة الدراسة",
+    "en": "study regulations",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Prüfungsordnung",
+    "ar": "لائحة الامتحانات",
+    "en": "examination regulations",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Regelstudienzeit",
+    "ar": "المدة النظامية للدراسة",
+    "en": "standard study period",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Studienrichtung",
+    "ar": "التخصّص الدراسي",
+    "en": "field of study",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Studienfach",
+    "ar": "المادة الجامعية",
+    "en": "university subject",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Studiengang",
+    "ar": "البرنامج الدراسي",
+    "en": "degree programme",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Lehrveranstaltung",
+    "ar": "فعالية تعليمية جامعية",
+    "en": "university course",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Tutorium",
+    "ar": "حلقة الدعم الدراسي",
+    "en": "tutorial",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Hausarbeit",
+    "ar": "البحث الدراسي؛ العمل المنزلي",
+    "en": "term paper; housework",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Abschlussarbeit",
+    "ar": "بحث التخرّج",
+    "en": "final dissertation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Dissertation",
+    "ar": "أطروحة الدكتوراه",
+    "en": "doctoral dissertation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Promotion",
+    "ar": "الحصول على الدكتوراه",
+    "en": "doctoral qualification",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Gleichwertigkeit",
+    "ar": "التكافؤ",
+    "en": "equivalence",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Anrechnung",
+    "ar": "احتساب دراسة سابقة",
+    "en": "credit recognition",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Leistungskontrolle",
+    "ar": "تقييم الأداء",
+    "en": "performance assessment",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Benotung",
+    "ar": "إعطاء الدرجات",
+    "en": "grading",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Notendurchschnitt",
+    "ar": "متوسّط الدرجات",
+    "en": "grade average",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Leistungsbewertung",
+    "ar": "تقييم الإنجاز",
+    "en": "performance evaluation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Lernstrategie",
+    "ar": "استراتيجية التعلّم",
+    "en": "learning strategy",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Lerngewohnheit",
+    "ar": "عادة التعلّم",
+    "en": "study habit",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Selbstdisziplin",
+    "ar": "الانضباط الذاتي",
+    "en": "self-discipline",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Auffassungsgabe",
+    "ar": "سرعة الفهم",
+    "en": "power of comprehension",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Merkfähigkeit",
+    "ar": "القدرة على التذكّر",
+    "en": "ability to retain information",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Vorwissen",
+    "ar": "المعرفة السابقة",
+    "en": "prior knowledge",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Allgemeinbildung",
+    "ar": "الثقافة العامة",
+    "en": "general knowledge",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Fachwissen",
+    "ar": "المعرفة التخصّصية",
+    "en": "specialist knowledge",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Wissenslücke",
+    "ar": "نقص في المعرفة",
+    "en": "gap in knowledge",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Wissensvermittlung",
+    "ar": "نقل المعرفة",
+    "en": "knowledge transfer",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Wissenserwerb",
+    "ar": "اكتساب المعرفة",
+    "en": "acquisition of knowledge",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Kompetenzentwicklung",
+    "ar": "تطوير الكفاءات",
+    "en": "development of skills",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Didaktik",
+    "ar": "علم أساليب التدريس",
+    "en": "didactics",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Pädagogik",
+    "ar": "علم التربية",
+    "en": "pedagogy",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Lernumgebung",
+    "ar": "بيئة التعلّم",
+    "en": "learning environment",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Lernplattform",
+    "ar": "منصّة التعلّم",
+    "en": "learning platform",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Fernunterricht",
+    "ar": "التعليم عن بعد",
+    "en": "distance teaching",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Fernstudium",
+    "ar": "الدراسة الجامعية عن بعد",
+    "en": "distance degree study",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Selbststudium",
+    "ar": "الدراسة الذاتية",
+    "en": "self-study",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Anwesenheitspflicht",
+    "ar": "إلزامية الحضور",
+    "en": "attendance requirement",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Projektarbeit",
+    "ar": "العمل على مشروع",
+    "en": "project work",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Referat",
+    "ar": "العرض الشفهي",
+    "en": "oral presentation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Gliederung",
+    "ar": "التقسيم المنهجي",
+    "en": "structure; outline",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Einleitung",
+    "ar": "المقدّمة",
+    "en": "introduction",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Hauptteil",
+    "ar": "القسم الرئيسي",
+    "en": "main section",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Schluss",
+    "ar": "الخاتمة؛ النهاية",
+    "en": "conclusion; end",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Fazit",
+    "ar": "الخلاصة",
+    "en": "conclusion",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Quellenangabe",
+    "ar": "ذكر المصدر",
+    "en": "source citation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Literaturverzeichnis",
+    "ar": "قائمة المراجع",
+    "en": "bibliography",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Zitat",
+    "ar": "الاقتباس",
+    "en": "quotation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Plagiat",
+    "ar": "السرقة الأدبية",
+    "en": "plagiarism",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Urheberschaft",
+    "ar": "نسبة التأليف",
+    "en": "authorship",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Urheberrecht",
+    "ar": "حقوق المؤلّف",
+    "en": "copyright",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Studie",
+    "ar": "الدراسة العلمية",
+    "en": "study",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Erhebung",
+    "ar": "جمع البيانات",
+    "en": "survey; data collection",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Befragung",
+    "ar": "الاستبيان؛ الاستجواب",
+    "en": "survey; questioning",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Fragebogen",
+    "ar": "الاستبيان",
+    "en": "questionnaire",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Stichprobe",
+    "ar": "العيّنة",
+    "en": "sample",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Erkenntnis",
+    "ar": "المعرفة المستخلصة",
+    "en": "insight; finding",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "der Befund",
+    "ar": "نتيجة الفحص",
+    "en": "finding",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Hypothese",
+    "ar": "الفرضية",
+    "en": "hypothesis",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Annahme",
+    "ar": "الافتراض؛ القبول",
+    "en": "assumption; acceptance",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die These",
+    "ar": "الأطروحة؛ الفكرة المطروحة",
+    "en": "thesis; claim",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Gegenthese",
+    "ar": "الأطروحة المضادة",
+    "en": "counterthesis",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Methode",
+    "ar": "الطريقة المنهجية",
+    "en": "method",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Verfahren",
+    "ar": "الإجراء؛ الطريقة",
+    "en": "procedure",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "das Experiment",
+    "ar": "التجربة العلمية",
+    "en": "experiment",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Beobachtung",
+    "ar": "الملاحظة",
+    "en": "observation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Messung",
+    "ar": "القياس",
+    "en": "measurement",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Abweichung",
+    "ar": "الانحراف؛ الاختلاف",
+    "en": "deviation",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Wahrscheinlichkeit",
+    "ar": "الاحتمال",
+    "en": "probability",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Aussagekraft",
+    "ar": "قوة الدلالة",
+    "en": "informative value",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Nachweisbarkeit",
+    "ar": "إمكانية الإثبات",
+    "en": "verifiability",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Objektivität",
+    "ar": "الموضوعية",
+    "en": "objectivity",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Subjektivität",
+    "ar": "الذاتية",
+    "en": "subjectivity",
+    "topic": "التعليم والبحث والثقافة"
+  },
+  {
+    "de": "die Umweltbelastung",
+    "ar": "الضرر الواقع على البيئة",
+    "en": "environmental burden",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Umweltverträglichkeit",
+    "ar": "التوافق مع حماية البيئة",
+    "en": "environmental compatibility",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Umweltbewusstsein",
+    "ar": "الوعي البيئي",
+    "en": "environmental awareness",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Umweltschutz",
+    "ar": "حماية البيئة",
+    "en": "environmental protection",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Klimapolitik",
+    "ar": "سياسة المناخ",
+    "en": "climate policy",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Klimaziel",
+    "ar": "الهدف المناخي",
+    "en": "climate target",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Erderwärmung",
+    "ar": "الاحترار العالمي",
+    "en": "global warming",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Treibhauseffekt",
+    "ar": "تأثير الاحتباس الحراري",
+    "en": "greenhouse effect",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Treibhausgas",
+    "ar": "غاز الدفيئة",
+    "en": "greenhouse gas",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Ausstoß",
+    "ar": "الانبعاث؛ الإنتاج",
+    "en": "emission; output",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Emission",
+    "ar": "الانبعاث",
+    "en": "emission",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Schadstoff",
+    "ar": "المادّة الملوّثة",
+    "en": "pollutant",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Feinstaub",
+    "ar": "الجسيمات الدقيقة",
+    "en": "fine particulate matter",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Luftqualität",
+    "ar": "جودة الهواء",
+    "en": "air quality",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Grenzwert",
+    "ar": "الحدّ المسموح",
+    "en": "limit value",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Überschreitung",
+    "ar": "تجاوز الحدّ",
+    "en": "exceedance",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Verringerung",
+    "ar": "التقليل",
+    "en": "reduction",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Reduzierung",
+    "ar": "التخفيض",
+    "en": "reduction",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Vermeidung",
+    "ar": "التجنّب",
+    "en": "avoidance",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Kompensation",
+    "ar": "التعويض",
+    "en": "compensation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Energiewende",
+    "ar": "التحوّل في نظام الطاقة",
+    "en": "energy transition",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Energieversorgung",
+    "ar": "إمداد الطاقة",
+    "en": "energy supply",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Versorgungssicherheit",
+    "ar": "أمن الإمدادات",
+    "en": "security of supply",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Energiequelle",
+    "ar": "مصدر الطاقة",
+    "en": "energy source",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Energieträger",
+    "ar": "حامل الطاقة؛ الوقود",
+    "en": "energy carrier",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Brennstoff",
+    "ar": "الوقود",
+    "en": "fuel",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Kernenergie",
+    "ar": "الطاقة النووية",
+    "en": "nuclear energy",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Atomkraftwerk",
+    "ar": "محطّة الطاقة النووية",
+    "en": "nuclear power plant",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Atommüll",
+    "ar": "النفايات النووية",
+    "en": "nuclear waste",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Endlagerung",
+    "ar": "التخزين النهائي للنفايات",
+    "en": "permanent waste storage",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Windkraft",
+    "ar": "طاقة الرياح",
+    "en": "wind power",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Sonnenenergie",
+    "ar": "الطاقة الشمسية",
+    "en": "solar energy",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Wasserkraft",
+    "ar": "الطاقة الكهرومائية",
+    "en": "hydropower",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Biomasse",
+    "ar": "الكتلة الحيوية",
+    "en": "biomass",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Erdwärme",
+    "ar": "الطاقة الحرارية الأرضية",
+    "en": "geothermal energy",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Stromerzeugung",
+    "ar": "توليد الكهرباء",
+    "en": "electricity generation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Stromnetz",
+    "ar": "شبكة الكهرباء",
+    "en": "electricity grid",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Stromanbieter",
+    "ar": "مزوّد الكهرباء",
+    "en": "electricity supplier",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Stromversorgung",
+    "ar": "إمداد الكهرباء",
+    "en": "electricity supply",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Stromausfall",
+    "ar": "انقطاع الكهرباء",
+    "en": "power outage",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Energiespeicher",
+    "ar": "وحدة تخزين الطاقة",
+    "en": "energy storage unit",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Speicherfähigkeit",
+    "ar": "القدرة على التخزين",
+    "en": "storage capacity",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Wirkungsgrad",
+    "ar": "كفاءة تحويل الطاقة",
+    "en": "energy conversion efficiency",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Energieeffizienz",
+    "ar": "كفاءة الطاقة",
+    "en": "energy efficiency",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Wärmedämmung",
+    "ar": "العزل الحراري",
+    "en": "thermal insulation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Gebäudesanierung",
+    "ar": "ترميم المباني",
+    "en": "building renovation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Wärmepumpe",
+    "ar": "المضخّة الحرارية",
+    "en": "heat pump",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Wärmeverlust",
+    "ar": "فقد الحرارة",
+    "en": "heat loss",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Kreislaufwirtschaft",
+    "ar": "الاقتصاد الدائري",
+    "en": "circular economy",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Wiederverwertung",
+    "ar": "إعادة التدوير",
+    "en": "recycling",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Abfallvermeidung",
+    "ar": "تقليل إنتاج النفايات",
+    "en": "waste prevention",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Abfallentsorgung",
+    "ar": "التخلّص من النفايات",
+    "en": "waste disposal",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Müllverbrennung",
+    "ar": "حرق النفايات",
+    "en": "waste incineration",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Deponie",
+    "ar": "مكبّ النفايات",
+    "en": "landfill",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Mikroplastik",
+    "ar": "الجزيئات البلاستيكية الدقيقة",
+    "en": "microplastics",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Verpackungsverordnung",
+    "ar": "لائحة التغليف",
+    "en": "packaging regulation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Mehrwegverpackung",
+    "ar": "عبوة قابلة لإعادة الاستخدام",
+    "en": "reusable packaging",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Wiederaufforstung",
+    "ar": "إعادة التشجير",
+    "en": "reforestation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Abholzung",
+    "ar": "قطع الأشجار",
+    "en": "deforestation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Waldsterben",
+    "ar": "موت الغابات",
+    "en": "forest dieback",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Artenvielfalt",
+    "ar": "التنوّع الحيوي",
+    "en": "biodiversity",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Artensterben",
+    "ar": "انقراض الأنواع",
+    "en": "species extinction",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Lebensraum",
+    "ar": "الموطن الطبيعي",
+    "en": "habitat",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Ökosystem",
+    "ar": "النظام البيئي",
+    "en": "ecosystem",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Gleichgewicht",
+    "ar": "التوازن",
+    "en": "balance",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Nahrungskette",
+    "ar": "السلسلة الغذائية",
+    "en": "food chain",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Bodenqualität",
+    "ar": "جودة التربة",
+    "en": "soil quality",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Bodenverschmutzung",
+    "ar": "تلوّث التربة",
+    "en": "soil pollution",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Grundwasser",
+    "ar": "المياه الجوفية",
+    "en": "groundwater",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Wasserknappheit",
+    "ar": "شحّ المياه",
+    "en": "water scarcity",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Wasseraufbereitung",
+    "ar": "معالجة المياه",
+    "en": "water treatment",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Kläranlage",
+    "ar": "محطّة معالجة الصرف",
+    "en": "sewage treatment plant",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Abwasser",
+    "ar": "مياه الصرف",
+    "en": "wastewater",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Bewässerung",
+    "ar": "الريّ",
+    "en": "irrigation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Überflutung",
+    "ar": "الغمر بالمياه",
+    "en": "flooding",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Meeresspiegel",
+    "ar": "مستوى سطح البحر",
+    "en": "sea level",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Gletscherschmelze",
+    "ar": "ذوبان الأنهار الجليدية",
+    "en": "glacial melting",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Bodenerosion",
+    "ar": "تآكل التربة",
+    "en": "soil erosion",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Dürreperiode",
+    "ar": "فترة الجفاف",
+    "en": "period of drought",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Extremwetterlage",
+    "ar": "حالة طقس متطرّفة",
+    "en": "extreme weather conditions",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Anpassung",
+    "ar": "التكيّف؛ التعديل",
+    "en": "adaptation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Widerstandsfähigkeit",
+    "ar": "القدرة على المقاومة",
+    "en": "resilience",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Vorsorgemaßnahme",
+    "ar": "الإجراء الوقائي",
+    "en": "precautionary measure",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Katastrophenhilfe",
+    "ar": "الإغاثة في الكوارث",
+    "en": "disaster relief",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Katastrophenschutz",
+    "ar": "الحماية من الكوارث",
+    "en": "disaster protection",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Evakuierung",
+    "ar": "الإجلاء",
+    "en": "evacuation",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Infrastruktur",
+    "ar": "البنية التحتية",
+    "en": "infrastructure",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Ausbau",
+    "ar": "التوسعة",
+    "en": "expansion",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Erschließung",
+    "ar": "تهيئة منطقة؛ استغلال مورد",
+    "en": "development; opening up",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Stadtentwicklung",
+    "ar": "التطوير العمراني",
+    "en": "urban development",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Stadtplanung",
+    "ar": "التخطيط العمراني",
+    "en": "urban planning",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Verkehrswende",
+    "ar": "التحوّل نحو نقل مستدام",
+    "en": "transport transition",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Nahverkehr",
+    "ar": "النقل المحلّي",
+    "en": "local transport",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "der Fernverkehr",
+    "ar": "النقل لمسافات بعيدة",
+    "en": "long-distance transport",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Verkehrsbelastung",
+    "ar": "ضغط حركة المرور",
+    "en": "traffic burden",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Verkehrsberuhigung",
+    "ar": "تهدئة حركة المرور",
+    "en": "traffic calming",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Lärmbelästigung",
+    "ar": "الإزعاج بسبب الضجيج",
+    "en": "noise nuisance",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Lärmschutzwand",
+    "ar": "حاجز الحماية من الضجيج",
+    "en": "noise barrier",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "die Lebensgrundlage",
+    "ar": "أساس المعيشة",
+    "en": "basis of livelihood",
+    "topic": "البيئة والطاقة والتطوّر"
+  },
+  {
+    "de": "das Gesundheitswesen",
+    "ar": "النظام الصحّي",
+    "en": "healthcare system",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Gesundheitsversorgung",
+    "ar": "الرعاية الصحّية",
+    "en": "healthcare provision",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Pflegeversicherung",
+    "ar": "تأمين الرعاية الطويلة الأمد",
+    "en": "long-term care insurance",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Pflegebedürftigkeit",
+    "ar": "الحاجة إلى الرعاية",
+    "en": "need for nursing care",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Pflegegrad",
+    "ar": "درجة الحاجة إلى الرعاية",
+    "en": "care dependency grade",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Pflegeeinrichtung",
+    "ar": "مؤسسة الرعاية",
+    "en": "care facility",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Langzeitpflege",
+    "ar": "الرعاية الطويلة الأمد",
+    "en": "long-term care",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Rehabilitation",
+    "ar": "إعادة التأهيل",
+    "en": "rehabilitation",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Prävention",
+    "ar": "الوقاية",
+    "en": "prevention",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Früherkennung",
+    "ar": "الكشف المبكّر",
+    "en": "early detection",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Vorsorgeuntersuchung",
+    "ar": "الفحص الوقائي",
+    "en": "preventive medical examination",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Diagnose",
+    "ar": "التشخيص",
+    "en": "diagnosis",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Fehldiagnose",
+    "ar": "التشخيص الخاطئ",
+    "en": "misdiagnosis",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "das Krankheitsbild",
+    "ar": "مجموعة أعراض المرض",
+    "en": "clinical picture",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Krankheitsverlauf",
+    "ar": "مسار المرض",
+    "en": "course of a disease",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Beschwerde",
+    "ar": "الشكوى؛ المشكلة الصحّية",
+    "en": "complaint; ailment",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Wechselwirkung",
+    "ar": "التفاعل المتبادل",
+    "en": "interaction",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Wirkstoff",
+    "ar": "المادّة الفعّالة",
+    "en": "active ingredient",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Einnahmeempfehlung",
+    "ar": "توصية تناول الدواء",
+    "en": "recommended intake",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Verträglichkeit",
+    "ar": "قابلية التحمّل",
+    "en": "tolerability",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Unverträglichkeit",
+    "ar": "عدم تحمّل مادّة",
+    "en": "intolerance",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Verschreibung",
+    "ar": "وصف الدواء",
+    "en": "prescription",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Rezeptpflicht",
+    "ar": "وجوب الوصفة الطبية",
+    "en": "prescription requirement",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "das Heilmittel",
+    "ar": "وسيلة العلاج",
+    "en": "remedy",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Heilung",
+    "ar": "الشفاء",
+    "en": "healing",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Linderung",
+    "ar": "التخفيف",
+    "en": "relief",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Genesung",
+    "ar": "التعافي",
+    "en": "recovery",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Behandlungsmethode",
+    "ar": "طريقة العلاج",
+    "en": "treatment method",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Therapie",
+    "ar": "العلاج",
+    "en": "therapy",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Physiotherapie",
+    "ar": "العلاج الطبيعي",
+    "en": "physiotherapy",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Psychotherapie",
+    "ar": "العلاج النفسي",
+    "en": "psychotherapy",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Ergotherapie",
+    "ar": "العلاج الوظيفي",
+    "en": "occupational therapy",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Eingriff",
+    "ar": "التدخّل الطبي",
+    "en": "medical intervention",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Narkose",
+    "ar": "التخدير العام",
+    "en": "general anaesthesia",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Betäubung",
+    "ar": "التخدير؛ فقد الإحساس",
+    "en": "anaesthesia; numbing",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Nachsorge",
+    "ar": "الرعاية اللاحقة",
+    "en": "aftercare",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Komplikation",
+    "ar": "المضاعفة؛ التعقيد",
+    "en": "complication",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Ansteckung",
+    "ar": "انتقال العدوى",
+    "en": "contagion",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Erreger",
+    "ar": "العامل المسبّب للمرض",
+    "en": "pathogen",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Abwehrkraft",
+    "ar": "قدرة الجسم على الدفاع",
+    "en": "immune defence",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Impfstoff",
+    "ar": "اللقاح",
+    "en": "vaccine",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Immunität",
+    "ar": "المناعة",
+    "en": "immunity",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Blutzucker",
+    "ar": "سكّر الدم",
+    "en": "blood sugar",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Kreislauf",
+    "ar": "الدورة الدموية؛ الدورة",
+    "en": "circulation; cycle",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Stoffwechsel",
+    "ar": "الأيض",
+    "en": "metabolism",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Nährstoff",
+    "ar": "المادّة المغذّية",
+    "en": "nutrient",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Mangelernährung",
+    "ar": "سوء التغذية",
+    "en": "malnutrition",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Nährstoffmangel",
+    "ar": "نقص العناصر الغذائية",
+    "en": "nutrient deficiency",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Ernährungsweise",
+    "ar": "نمط التغذية",
+    "en": "dietary pattern",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Ernährungsumstellung",
+    "ar": "تغيير النظام الغذائي",
+    "en": "change of diet",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Essgewohnheit",
+    "ar": "العادة الغذائية",
+    "en": "eating habit",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Essstörung",
+    "ar": "اضطراب الأكل",
+    "en": "eating disorder",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Fettleibigkeit",
+    "ar": "السمنة",
+    "en": "obesity",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Beweglichkeit",
+    "ar": "مرونة الحركة",
+    "en": "mobility",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Bewegungsmangel",
+    "ar": "قلّة الحركة",
+    "en": "lack of exercise",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Muskelkraft",
+    "ar": "قوّة العضلات",
+    "en": "muscular strength",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Verspannung",
+    "ar": "تشنّج العضلات",
+    "en": "muscle tension",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Fehlhaltung",
+    "ar": "الوضعية الجسدية الخاطئة",
+    "en": "poor posture",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Wirbelsäule",
+    "ar": "العمود الفقري",
+    "en": "spine",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "das Gelenk",
+    "ar": "المفصل",
+    "en": "joint",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Sehne",
+    "ar": "الوتر",
+    "en": "tendon",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "das Gewebe",
+    "ar": "النسيج",
+    "en": "tissue",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "das Organ",
+    "ar": "العضو",
+    "en": "organ",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Durchblutung",
+    "ar": "تدفّق الدم",
+    "en": "blood supply",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Erschöpfung",
+    "ar": "الإنهاك",
+    "en": "exhaustion",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Überforderung",
+    "ar": "تحميل ما يفوق القدرة",
+    "en": "excessive demands",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Unterforderung",
+    "ar": "قلّة التحدّي",
+    "en": "insufficient challenge",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Anspannung",
+    "ar": "التوتّر",
+    "en": "tension",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Stressbewältigung",
+    "ar": "التعامل مع الضغط النفسي",
+    "en": "stress management",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Belastungsgrenze",
+    "ar": "حدّ التحمّل",
+    "en": "limit of endurance",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Schlafstörung",
+    "ar": "اضطراب النوم",
+    "en": "sleep disorder",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Schlaflosigkeit",
+    "ar": "الأرق",
+    "en": "insomnia",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Konzentrationsstörung",
+    "ar": "اضطراب التركيز",
+    "en": "concentration difficulty",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Angststörung",
+    "ar": "اضطراب القلق",
+    "en": "anxiety disorder",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Depression",
+    "ar": "الاكتئاب",
+    "en": "depression",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Stimmungsschwankung",
+    "ar": "تقلّب المزاج",
+    "en": "mood swing",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "das Selbstwertgefühl",
+    "ar": "تقدير الذات",
+    "en": "self-esteem",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Selbstwahrnehmung",
+    "ar": "إدراك الذات",
+    "en": "self-perception",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Achtsamkeit",
+    "ar": "الانتباه الواعي",
+    "en": "mindfulness",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Gelassenheit",
+    "ar": "الهدوء ورباطة الجأش",
+    "en": "composure",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Resilienz",
+    "ar": "المرونة النفسية",
+    "en": "psychological resilience",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Bewältigung",
+    "ar": "التغلّب على الصعوبات",
+    "en": "coping",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Suchtgefahr",
+    "ar": "خطر الإدمان",
+    "en": "risk of addiction",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "das Suchtmittel",
+    "ar": "مادّة مسبّبة للإدمان",
+    "en": "addictive substance",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Entzug",
+    "ar": "الانسحاب من مادّة؛ الحرمان",
+    "en": "withdrawal; deprivation",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "der Rückfall",
+    "ar": "الانتكاس",
+    "en": "relapse",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Selbsthilfegruppe",
+    "ar": "مجموعة المساعدة الذاتية",
+    "en": "self-help group",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Schweigepflicht",
+    "ar": "واجب كتمان السرّ",
+    "en": "duty of confidentiality",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Patientenverfügung",
+    "ar": "التوجيهات الطبية المسبقة",
+    "en": "advance healthcare directive",
+    "topic": "الصحة والحياة النفسية"
+  },
+  {
+    "de": "die Berichterstattung",
+    "ar": "التغطية الإعلامية",
+    "en": "news coverage",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Informationsquelle",
+    "ar": "مصدر المعلومات",
+    "en": "information source",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Glaubwürdigkeit",
+    "ar": "المصداقية",
+    "en": "credibility",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Zuverlässigkeitsprüfung",
+    "ar": "فحص الموثوقية",
+    "en": "reliability check",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Falschmeldung",
+    "ar": "الخبر الكاذب",
+    "en": "false report",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Fehlinformation",
+    "ar": "المعلومة الخاطئة",
+    "en": "misinformation",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Desinformation",
+    "ar": "التضليل المتعمّد",
+    "en": "disinformation",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Manipulation",
+    "ar": "التلاعب",
+    "en": "manipulation",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Propaganda",
+    "ar": "الدعاية الموجّهة",
+    "en": "propaganda",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Zensur",
+    "ar": "الرقابة على المحتوى",
+    "en": "censorship",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Medienkompetenz",
+    "ar": "الوعي بوسائل الإعلام",
+    "en": "media literacy",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Mediennutzung",
+    "ar": "استخدام وسائل الإعلام",
+    "en": "media use",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Meinungsbildung",
+    "ar": "تكوين الرأي",
+    "en": "opinion formation",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Meinungsvielfalt",
+    "ar": "تنوّع الآراء",
+    "en": "diversity of opinions",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Darstellung",
+    "ar": "العرض؛ التصوير",
+    "en": "presentation; portrayal",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Perspektive",
+    "ar": "المنظور؛ الأفق",
+    "en": "perspective",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Blickwinkel",
+    "ar": "زاوية النظر",
+    "en": "point of view",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Sichtweise",
+    "ar": "طريقة النظر",
+    "en": "viewpoint",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Stellungnahme",
+    "ar": "بيان الموقف",
+    "en": "statement of position",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Kommentar",
+    "ar": "التعليق",
+    "en": "commentary",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Kolumne",
+    "ar": "العمود الصحفي",
+    "en": "column",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Leitartikel",
+    "ar": "المقال الافتتاحي",
+    "en": "editorial",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Rezension",
+    "ar": "المراجعة النقدية",
+    "en": "review",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Kritik",
+    "ar": "النقد",
+    "en": "criticism",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Kritikfähigkeit",
+    "ar": "القدرة على تقبّل النقد",
+    "en": "ability to accept criticism",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Satire",
+    "ar": "السخرية النقدية",
+    "en": "satire",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Ironie",
+    "ar": "المفارقة الساخرة",
+    "en": "irony",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Anspielung",
+    "ar": "التلميح",
+    "en": "allusion",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Übertreibung",
+    "ar": "المبالغة",
+    "en": "exaggeration",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Verallgemeinerung",
+    "ar": "التعميم",
+    "en": "generalisation",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "das Klischee",
+    "ar": "الصورة النمطية",
+    "en": "stereotype; cliché",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "das Vorbild",
+    "ar": "القدوة",
+    "en": "role model",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "das Leitbild",
+    "ar": "الرؤية الموجّهة",
+    "en": "guiding vision",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "das Image",
+    "ar": "الصورة العامة",
+    "en": "public image",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Ruf",
+    "ar": "السمعة؛ النداء",
+    "en": "reputation; call",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "das Ansehen",
+    "ar": "المكانة والاحترام",
+    "en": "reputation; prestige",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Bekanntheit",
+    "ar": "مدى الشهرة",
+    "en": "public awareness",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Reichweite",
+    "ar": "مدى الوصول",
+    "en": "reach",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Einschaltquote",
+    "ar": "نسبة المشاهدة",
+    "en": "audience rating",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Zielgruppenanalyse",
+    "ar": "تحليل الجمهور المستهدف",
+    "en": "target audience analysis",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Verbreitung",
+    "ar": "الانتشار",
+    "en": "dissemination",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Weitergabe",
+    "ar": "نقل شيء إلى الآخرين",
+    "en": "passing on",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Übermittlung",
+    "ar": "الإرسال",
+    "en": "transmission",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Verschlüsselung",
+    "ar": "التشفير",
+    "en": "encryption",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Entschlüsselung",
+    "ar": "فكّ التشفير",
+    "en": "decryption",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Digitalisierung",
+    "ar": "التحوّل الرقمي",
+    "en": "digitalisation",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Datenverarbeitung",
+    "ar": "معالجة البيانات",
+    "en": "data processing",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Datenspeicherung",
+    "ar": "تخزين البيانات",
+    "en": "data storage",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Datensicherung",
+    "ar": "النسخ الاحتياطي للبيانات",
+    "en": "data backup",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Datenverlust",
+    "ar": "فقدان البيانات",
+    "en": "data loss",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Datensicherheit",
+    "ar": "أمن البيانات",
+    "en": "data security",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "das Datenleck",
+    "ar": "تسرّب البيانات",
+    "en": "data leak",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Datenmissbrauch",
+    "ar": "إساءة استخدام البيانات",
+    "en": "misuse of data",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Privatsphäre",
+    "ar": "الخصوصية",
+    "en": "privacy",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Anonymität",
+    "ar": "إخفاء الهوية",
+    "en": "anonymity",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Einwilligung",
+    "ar": "الموافقة المسبقة",
+    "en": "consent",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Zugriffsberechtigung",
+    "ar": "صلاحية الوصول",
+    "en": "access permission",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Zugriff",
+    "ar": "الوصول إلى البيانات",
+    "en": "access",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Zugriffsbeschränkung",
+    "ar": "تقييد الوصول",
+    "en": "access restriction",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Authentifizierung",
+    "ar": "التحقّق من الهوية",
+    "en": "authentication",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Identität",
+    "ar": "الهوية",
+    "en": "identity",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Identitätsdiebstahl",
+    "ar": "سرقة الهوية",
+    "en": "identity theft",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Sicherheitslücke",
+    "ar": "الثغرة الأمنية",
+    "en": "security vulnerability",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Schadsoftware",
+    "ar": "البرمجيات الضارّة",
+    "en": "malware",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Computervirus",
+    "ar": "فيروس الحاسوب",
+    "en": "computer virus",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Cyberkriminalität",
+    "ar": "الجريمة الإلكترونية",
+    "en": "cybercrime",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Internetbetrug",
+    "ar": "الاحتيال عبر الإنترنت",
+    "en": "online fraud",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Benutzeroberfläche",
+    "ar": "واجهة المستخدم",
+    "en": "user interface",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Benutzerfreundlichkeit",
+    "ar": "سهولة الاستخدام",
+    "en": "user-friendliness",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Barrierefreiheit",
+    "ar": "إمكانية الاستخدام دون عوائق",
+    "en": "accessibility",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Bedienungsanleitung",
+    "ar": "دليل الاستخدام",
+    "en": "operating instructions",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Anwendung",
+    "ar": "التطبيق؛ الاستخدام",
+    "en": "application",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Softwareentwicklung",
+    "ar": "تطوير البرمجيات",
+    "en": "software development",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Programmierung",
+    "ar": "البرمجة",
+    "en": "programming",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Quellcode",
+    "ar": "الشيفرة المصدرية",
+    "en": "source code",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "der Algorithmus",
+    "ar": "الخوارزمية",
+    "en": "algorithm",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Datenbank",
+    "ar": "قاعدة البيانات",
+    "en": "database",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "das Betriebssystem",
+    "ar": "نظام التشغيل",
+    "en": "operating system",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Schnittstelle",
+    "ar": "الواجهة بين الأنظمة",
+    "en": "interface",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Kompatibilität",
+    "ar": "التوافق",
+    "en": "compatibility",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Aktualisierung",
+    "ar": "التحديث",
+    "en": "update",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Fehlerbehebung",
+    "ar": "إصلاح الأخطاء",
+    "en": "troubleshooting",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Fehlermeldung",
+    "ar": "رسالة الخطأ",
+    "en": "error message",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Störung",
+    "ar": "العطل؛ الاضطراب",
+    "en": "malfunction; disturbance",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Wartung",
+    "ar": "الصيانة",
+    "en": "maintenance",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Instandhaltung",
+    "ar": "الحفاظ على صلاحية التشغيل",
+    "en": "upkeep; maintenance",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Installation",
+    "ar": "التثبيت",
+    "en": "installation",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Konfiguration",
+    "ar": "التهيئة",
+    "en": "configuration",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Werkseinstellung",
+    "ar": "إعداد المصنع",
+    "en": "factory setting",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Speicherkapazität",
+    "ar": "سعة التخزين",
+    "en": "storage capacity",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Bandbreite",
+    "ar": "عرض النطاق",
+    "en": "bandwidth",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Übertragungsgeschwindigkeit",
+    "ar": "سرعة النقل",
+    "en": "transmission speed",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Unterbrechung",
+    "ar": "الانقطاع",
+    "en": "interruption",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Vernetzung",
+    "ar": "الربط بين الأطراف أو الأنظمة",
+    "en": "networking",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Fernsteuerung",
+    "ar": "التحكّم عن بعد",
+    "en": "remote control",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "die Spracherkennung",
+    "ar": "التعرّف على الكلام",
+    "en": "speech recognition",
+    "topic": "الإعلام والتقنية والتواصل"
+  },
+  {
+    "de": "abwägen",
+    "ar": "يوازن بين الخيارات",
+    "en": "to weigh up",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "ableiten",
+    "ar": "يستنتج؛ يشتقّ",
+    "en": "to derive",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "abgrenzen",
+    "ar": "يحدّد الفروق والحدود",
+    "en": "to distinguish; to delimit",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "abstrahieren",
+    "ar": "يجرّد الفكرة",
+    "en": "to abstract",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "argumentieren",
+    "ar": "يسوق الحجج",
+    "en": "to argue a case",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "anführen",
+    "ar": "يذكر مثالًا أو دليلًا",
+    "en": "to cite",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "anmerken",
+    "ar": "يضيف ملاحظة",
+    "en": "to remark",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "anzweifeln",
+    "ar": "يشكّك في",
+    "en": "to question",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "aufgreifen",
+    "ar": "يتناول فكرة",
+    "en": "to take up an idea",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "aufzeigen",
+    "ar": "يبيّن",
+    "en": "to demonstrate",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "belegen",
+    "ar": "يثبت بدليل؛ يشغل",
+    "en": "to substantiate; to occupy",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "bestreiten",
+    "ar": "ينكر؛ يعارض صحّة",
+    "en": "to deny; to dispute",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "betiteln",
+    "ar": "يعطي عنوانًا",
+    "en": "to title",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "sich bewähren",
+    "ar": "يثبت جدارته",
+    "en": "to prove effective",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "charakterisieren",
+    "ar": "يصف السمات",
+    "en": "to characterise",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "definieren",
+    "ar": "يعرّف",
+    "en": "to define",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "differenzieren",
+    "ar": "يميّز بدقّة",
+    "en": "to differentiate",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "dokumentieren",
+    "ar": "يوثّق",
+    "en": "to document",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "einordnen",
+    "ar": "يصنّف؛ يضع في سياق",
+    "en": "to classify; to contextualise",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "einwenden",
+    "ar": "يعترض بحجّة",
+    "en": "to object",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "entgegnen",
+    "ar": "يردّ معارضًا",
+    "en": "to reply; to counter",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "entkräften",
+    "ar": "يدحض",
+    "en": "to refute",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "entschlüsseln",
+    "ar": "يفكّ رموز",
+    "en": "to decode",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "erläutern",
+    "ar": "يوضّح بالتفصيل",
+    "en": "to explain in detail",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "erörtern",
+    "ar": "يناقش جوانب الموضوع",
+    "en": "to discuss thoroughly",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "erschließen",
+    "ar": "يستنتج من السياق؛ يهيّئ",
+    "en": "to infer; to develop",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "gegenüberstellen",
+    "ar": "يقارن بوضع شيئين مقابل بعضهما",
+    "en": "to contrast",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "hervorheben",
+    "ar": "يبرز؛ يشدّد على",
+    "en": "to highlight",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "hinterfragen",
+    "ar": "يفحص نقديًا",
+    "en": "to question critically",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "illustrieren",
+    "ar": "يوضّح بمثال أو صورة",
+    "en": "to illustrate",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "interpretieren",
+    "ar": "يفسّر",
+    "en": "to interpret",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "kennzeichnen",
+    "ar": "يميّز بعلامة",
+    "en": "to mark; to characterise",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "kommentieren",
+    "ar": "يعلّق",
+    "en": "to comment",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "konkretisieren",
+    "ar": "يحدّد بشكل ملموس",
+    "en": "to make concrete",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "nachvollziehen",
+    "ar": "يفهم تسلسل التفكير",
+    "en": "to follow; to understand",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "präzisieren",
+    "ar": "يوضّح بدقّة",
+    "en": "to specify",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "rechtfertigen",
+    "ar": "يبرّر",
+    "en": "to justify",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "relativieren",
+    "ar": "يضع في سياق يخفّف الحكم",
+    "en": "to put into perspective",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "schildern",
+    "ar": "يصف بتفصيل",
+    "en": "to describe",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "schlussfolgern",
+    "ar": "يستنتج",
+    "en": "to conclude",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "strukturieren",
+    "ar": "ينظّم هيكليًا",
+    "en": "to structure",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "untermauern",
+    "ar": "يدعم بالدليل",
+    "en": "to substantiate",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "verdeutlichen",
+    "ar": "يوضّح",
+    "en": "to clarify",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "veranschaulichen",
+    "ar": "يوضّح بمثال محسوس",
+    "en": "to illustrate",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "verallgemeinern",
+    "ar": "يعمّم",
+    "en": "to generalise",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "verknüpfen",
+    "ar": "يربط بين",
+    "en": "to link",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "verweisen",
+    "ar": "يحيل إلى؛ يشير",
+    "en": "to refer",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "widerlegen",
+    "ar": "يدحض",
+    "en": "to disprove",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "zitieren",
+    "ar": "يقتبس",
+    "en": "to quote",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "zuordnen",
+    "ar": "ينسب إلى فئة",
+    "en": "to assign",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "zugrunde liegen",
+    "ar": "يكون أساسًا لشيء",
+    "en": "to underlie",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "zuspitzen",
+    "ar": "يحدّد بحدّة؛ يصعّد",
+    "en": "to sharpen; to intensify",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "abwerten",
+    "ar": "يقلّل من القيمة",
+    "en": "to devalue",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "appellieren",
+    "ar": "يناشد",
+    "en": "to appeal",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "bejahen",
+    "ar": "يجيب بالإيجاب",
+    "en": "to affirm",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "bemängeln",
+    "ar": "ينتقد نقصًا",
+    "en": "to find fault with",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "beschwichtigen",
+    "ar": "يهدّئ",
+    "en": "to appease",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "bezweifeln",
+    "ar": "يشكّ في",
+    "en": "to doubt",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "billigen",
+    "ar": "يوافق على",
+    "en": "to approve",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "dementieren",
+    "ar": "ينفي رسميًا",
+    "en": "to deny officially",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "diskutieren",
+    "ar": "يناقش",
+    "en": "to discuss",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "sich distanzieren",
+    "ar": "ينأى بنفسه",
+    "en": "to distance oneself",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "einräumen",
+    "ar": "يقرّ؛ يتيح",
+    "en": "to concede; to grant",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "einwilligen",
+    "ar": "يوافق",
+    "en": "to consent",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "entlarven",
+    "ar": "يكشف حقيقة خفيّة",
+    "en": "to expose",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "entwerten",
+    "ar": "يفقد الشيء قيمته",
+    "en": "to devalue",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "hindeuten",
+    "ar": "يشير إلى",
+    "en": "to indicate",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "klarstellen",
+    "ar": "يوضّح الموقف",
+    "en": "to make clear",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "missverstehen",
+    "ar": "يسيء الفهم",
+    "en": "to misunderstand",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "nachhaken",
+    "ar": "يتابع بسؤال إضافي",
+    "en": "to follow up with a question",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "prägen",
+    "ar": "يؤثّر في التكوين",
+    "en": "to shape",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "protestieren",
+    "ar": "يحتجّ",
+    "en": "to protest",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "schlichten",
+    "ar": "يحلّ نزاعًا",
+    "en": "to mediate a dispute",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "signalisieren",
+    "ar": "يشير؛ يبعث إشارة",
+    "en": "to signal",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "überdenken",
+    "ar": "يعيد التفكير في",
+    "en": "to reconsider",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "unterstellen",
+    "ar": "ينسب إلى شخص أمرًا دون دليل",
+    "en": "to insinuate",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "vermitteln",
+    "ar": "يتوسّط؛ ينقل معرفة",
+    "en": "to mediate; to convey",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "versachlichen",
+    "ar": "يجعل النقاش موضوعيًا",
+    "en": "to make a discussion more objective",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "verurteilen",
+    "ar": "يدين؛ يحكم قضائيًا",
+    "en": "to condemn; to sentence",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "widerspiegeln",
+    "ar": "يعكس",
+    "en": "to reflect",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "wiedergeben",
+    "ar": "ينقل المحتوى؛ يعيد إنتاج",
+    "en": "to reproduce; to report",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "zurückweisen",
+    "ar": "يرفض",
+    "en": "to reject",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "zugestehen",
+    "ar": "يقرّ بحقّ؛ يمنح",
+    "en": "to concede",
+    "topic": "أفعال التحليل والنقاش"
+  },
+  {
+    "de": "abfertigen",
+    "ar": "ينجز إجراءات؛ يصرف شخصًا بسرعة",
+    "en": "to process; to dismiss curtly",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "abgleichen",
+    "ar": "يطابق ويقارن",
+    "en": "to cross-check",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "abkommen",
+    "ar": "ينحرف عن",
+    "en": "to deviate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ablagern",
+    "ar": "يودع؛ يراكم رواسب",
+    "en": "to deposit",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ablegen",
+    "ar": "يضع جانبًا؛ يجتاز امتحانًا",
+    "en": "to put down; to take an exam",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ablösen",
+    "ar": "يحلّ محلّ؛ يفصل",
+    "en": "to replace; to detach",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "absenken",
+    "ar": "يخفّض",
+    "en": "to lower",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "absetzen",
+    "ar": "يخصم؛ ينزل؛ يعزل",
+    "en": "to deduct; to put down; to remove",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "abwickeln",
+    "ar": "ينجز معاملة",
+    "en": "to process a transaction",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "sich aneignen",
+    "ar": "يكتسب معرفة أو مهارة",
+    "en": "to acquire knowledge or skills",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "anfordern",
+    "ar": "يطلب رسميًا",
+    "en": "to request",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "angleichen",
+    "ar": "يجعل متوافقًا",
+    "en": "to align",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "anrechnen",
+    "ar": "يحتسب",
+    "en": "to credit",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ansammeln",
+    "ar": "يجمع؛ يراكم",
+    "en": "to accumulate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ansiedeln",
+    "ar": "يوطّن؛ يقيم في مكان",
+    "en": "to settle; to locate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ansparen",
+    "ar": "يدّخر تدريجيًا",
+    "en": "to save up",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ansteigen",
+    "ar": "يرتفع",
+    "en": "to rise",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "anstreben",
+    "ar": "يسعى إلى",
+    "en": "to strive for",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "antreten",
+    "ar": "يبدأ منصبًا؛ يتقدّم لمنافسة",
+    "en": "to take up; to compete",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "anvertrauen",
+    "ar": "يأتمن على",
+    "en": "to entrust",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufbewahren",
+    "ar": "يحفظ ويخزّن",
+    "en": "to keep; to store",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufbringen",
+    "ar": "يوفّر مالًا أو جهدًا",
+    "en": "to raise funds; to muster",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufdecken",
+    "ar": "يكشف أمرًا مخفيًا",
+    "en": "to uncover",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufeinanderprallen",
+    "ar": "يصطدم بعضه ببعض",
+    "en": "to collide",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "auffangen",
+    "ar": "يلتقط؛ يخفّف أثر",
+    "en": "to catch; to absorb",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "auffrischen",
+    "ar": "ينعش؛ يجدّد المعرفة",
+    "en": "to refresh",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufrechterhalten",
+    "ar": "يحافظ على استمرار",
+    "en": "to maintain",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufschieben",
+    "ar": "يؤجّل",
+    "en": "to postpone",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufstocken",
+    "ar": "يزيد الموارد",
+    "en": "to increase resources",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufwenden",
+    "ar": "يبذل وقتًا أو مالًا",
+    "en": "to expend",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aufwerten",
+    "ar": "يرفع القيمة",
+    "en": "to enhance; to revalue",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausgleichen",
+    "ar": "يعوّض؛ يوازن",
+    "en": "to compensate; to balance",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausgrenzen",
+    "ar": "يقصي",
+    "en": "to exclude",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "auslagern",
+    "ar": "ينقل العمل إلى جهة خارجية",
+    "en": "to outsource",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "auslasten",
+    "ar": "يستغلّ القدرة بالكامل",
+    "en": "to use to capacity",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausräumen",
+    "ar": "يفرغ؛ يزيل الشكوك",
+    "en": "to clear out; to dispel",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausrüsten",
+    "ar": "يجهّز",
+    "en": "to equip",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausschöpfen",
+    "ar": "يستغلّ كامل الإمكانات",
+    "en": "to exploit fully",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "aussetzen",
+    "ar": "يعلّق؛ يعرّض",
+    "en": "to suspend; to expose",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausstrahlen",
+    "ar": "يبثّ؛ يشعّ",
+    "en": "to broadcast; to radiate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausüben",
+    "ar": "يمارس",
+    "en": "to exercise; to practise",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ausweiten",
+    "ar": "يوسّع النطاق",
+    "en": "to expand",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "beanspruchen",
+    "ar": "يطالب بحقّ؛ يتطلّب",
+    "en": "to claim; to require",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "beeinträchtigen",
+    "ar": "يؤثّر سلبًا على",
+    "en": "to impair",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "beheben",
+    "ar": "يصلح خللًا",
+    "en": "to rectify",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "beilegen",
+    "ar": "يرفق؛ يحلّ نزاعًا",
+    "en": "to enclose; to settle",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "belasten",
+    "ar": "يثقل؛ يحمّل عبئًا",
+    "en": "to burden",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "benachteiligen",
+    "ar": "يضع في وضع أقلّ حظًا",
+    "en": "to disadvantage",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "berechtigen",
+    "ar": "يخوّل",
+    "en": "to entitle",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "bereitstellen",
+    "ar": "يوفّر",
+    "en": "to provide",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "bereuen",
+    "ar": "يندم على",
+    "en": "to regret",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "beschleunigen",
+    "ar": "يسرّع",
+    "en": "to accelerate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "beseitigen",
+    "ar": "يزيل",
+    "en": "to eliminate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "bestärken",
+    "ar": "يعزّز؛ يشجّع",
+    "en": "to reinforce",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "bewältigen",
+    "ar": "يتغلّب على صعوبة",
+    "en": "to cope with",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "bezuschussen",
+    "ar": "يدعم ماليًا",
+    "en": "to subsidise",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "durchsetzen",
+    "ar": "يفرض؛ ينفّذ رغم المعارضة",
+    "en": "to enforce",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "sich durchsetzen",
+    "ar": "يثبت نفسه؛ ينجح رغم المعارضة",
+    "en": "to prevail",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "durchziehen",
+    "ar": "ينفّذ حتى النهاية؛ يخترق",
+    "en": "to see through; to traverse",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "einarbeiten",
+    "ar": "يدرّب موظفًا جديدًا؛ يدمج",
+    "en": "to induct; to incorporate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "einbeziehen",
+    "ar": "يشمل؛ يأخذ في الاعتبار",
+    "en": "to include",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "eindämmen",
+    "ar": "يحدّ من الانتشار",
+    "en": "to contain",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "eingreifen",
+    "ar": "يتدخّل",
+    "en": "to intervene",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "einleiten",
+    "ar": "يبدأ إجراءً",
+    "en": "to initiate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "einschätzen",
+    "ar": "يقدّر",
+    "en": "to assess",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "einsparen",
+    "ar": "يوفّر الموارد",
+    "en": "to save resources",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "einstufen",
+    "ar": "يصنّف حسب الدرجة",
+    "en": "to classify",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "entfallen",
+    "ar": "يسقط؛ لا يعود مطلوبًا",
+    "en": "to be omitted; to cease to apply",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "entgegenkommen",
+    "ar": "يتساهل؛ يأتي من الاتجاه المقابل",
+    "en": "to accommodate; to come towards",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "entlasten",
+    "ar": "يخفّف العبء",
+    "en": "to relieve",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "entsorgen",
+    "ar": "يتخلّص من النفايات",
+    "en": "to dispose of",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "entziehen",
+    "ar": "يسحب؛ يحرم من",
+    "en": "to withdraw; to deprive",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "erarbeiten",
+    "ar": "يعدّ بالعمل والجهد",
+    "en": "to work out",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "erbringen",
+    "ar": "يقدّم خدمة أو دليلًا",
+    "en": "to provide; to produce",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "erfassen",
+    "ar": "يسجّل؛ يدرك",
+    "en": "to record; to grasp",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ergreifen",
+    "ar": "يتّخذ إجراءً؛ يمسك",
+    "en": "to take action; to seize",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "erlangen",
+    "ar": "ينال",
+    "en": "to attain",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ermitteln",
+    "ar": "يحدّد بالتحقيق",
+    "en": "to determine; to investigate",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "ermöglichen",
+    "ar": "يجعل ممكنًا",
+    "en": "to enable",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "erschweren",
+    "ar": "يصعّب",
+    "en": "to make harder",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "erwerben",
+    "ar": "يكتسب؛ يشتري",
+    "en": "to acquire",
+    "topic": "أفعال العمل والتغيير"
+  },
+  {
+    "de": "absehbar",
+    "ar": "يمكن توقّعه",
+    "en": "foreseeable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "abwechslungsreich",
+    "ar": "متنوّع وغير مملّ",
+    "en": "varied",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "abwegig",
+    "ar": "بعيد عن المنطق",
+    "en": "far-fetched",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "allgegenwärtig",
+    "ar": "موجود في كلّ مكان",
+    "en": "omnipresent",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "alltagstauglich",
+    "ar": "ملائم للاستعمال اليومي",
+    "en": "suitable for everyday use",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "angreifbar",
+    "ar": "عرضة للنقد أو الهجوم",
+    "en": "vulnerable to criticism",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "anschaulich",
+    "ar": "واضح بمثال محسوس",
+    "en": "vivid; illustrative",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "anpassungsfähig",
+    "ar": "قادر على التكيّف",
+    "en": "adaptable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "arbeitsfähig",
+    "ar": "قادر على العمل",
+    "en": "fit for work",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "arbeitsintensiv",
+    "ar": "يتطلّب جهدًا كبيرًا",
+    "en": "labour-intensive",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "ausdrücklich",
+    "ar": "صريح",
+    "en": "explicit",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "ausgewogen",
+    "ar": "متوازن",
+    "en": "balanced",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "ausschlaggebend",
+    "ar": "حاسم في النتيجة",
+    "en": "decisive",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "aussichtslos",
+    "ar": "ميؤوس منه",
+    "en": "hopeless",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "aussagekräftig",
+    "ar": "ذو دلالة قويّة",
+    "en": "informative; meaningful",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "authentisch",
+    "ar": "أصيل؛ حقيقي",
+    "en": "authentic",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "autonom",
+    "ar": "مستقلّ الإدارة",
+    "en": "autonomous",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "barrierefrei",
+    "ar": "خالٍ من عوائق الاستخدام",
+    "en": "accessible",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "bedenklich",
+    "ar": "مثير للقلق",
+    "en": "concerning",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "bedeutend",
+    "ar": "مهمّ",
+    "en": "significant",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "bedeutungslos",
+    "ar": "بلا أهمية",
+    "en": "insignificant",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "befristet",
+    "ar": "محدّد المدّة",
+    "en": "fixed-term",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "begrenzt",
+    "ar": "محدود",
+    "en": "limited",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "begründet",
+    "ar": "مبرّر",
+    "en": "justified",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "beispielhaft",
+    "ar": "نموذجي؛ على سبيل المثال",
+    "en": "exemplary",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "belastbar",
+    "ar": "قادر على تحمّل الضغط",
+    "en": "resilient",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "beliebig",
+    "ar": "أيّما؛ اعتباطي",
+    "en": "arbitrary",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "bemerkbar",
+    "ar": "ملحوظ",
+    "en": "noticeable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "berechtigt",
+    "ar": "محقّ؛ مخوّل",
+    "en": "justified; entitled",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "beständig",
+    "ar": "ثابت؛ مستمرّ",
+    "en": "consistent; lasting",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "bezahlbar",
+    "ar": "يمكن تحمّل تكلفته",
+    "en": "affordable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "beachtlich",
+    "ar": "ملحوظ وجدير بالاهتمام",
+    "en": "considerable; remarkable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "bundesweit",
+    "ar": "على مستوى الدولة الاتحادية",
+    "en": "nationwide",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "chancenlos",
+    "ar": "عديم الفرص",
+    "en": "without prospects",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "demografisch",
+    "ar": "سكّاني",
+    "en": "demographic",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "differenziert",
+    "ar": "دقيق يراعي الفروق",
+    "en": "nuanced",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "diskret",
+    "ar": "كتوم؛ متحفّظ",
+    "en": "discreet",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "drastisch",
+    "ar": "شديد؛ جذري",
+    "en": "drastic",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "durchdacht",
+    "ar": "مدروس بعناية",
+    "en": "well thought out",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "durchführbar",
+    "ar": "قابل للتنفيذ",
+    "en": "feasible",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "effektiv",
+    "ar": "فعّال",
+    "en": "effective",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "effizient",
+    "ar": "كفؤ في استغلال الموارد",
+    "en": "efficient",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "eigenständig",
+    "ar": "مستقلّ بذاته",
+    "en": "independent",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "eindeutig",
+    "ar": "لا لبس فيه",
+    "en": "unambiguous",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "einseitig",
+    "ar": "أحادي الجانب",
+    "en": "one-sided",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "einsichtig",
+    "ar": "متفهّم؛ قابل للاقتناع",
+    "en": "reasonable; understanding",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "einschlägig",
+    "ar": "ذو صلة مباشرة",
+    "en": "relevant",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "einwandfrei",
+    "ar": "خالٍ من العيوب",
+    "en": "faultless",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "empfehlenswert",
+    "ar": "جدير بالتوصية",
+    "en": "recommendable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "empirisch",
+    "ar": "قائم على الملاحظة والتجربة",
+    "en": "empirical",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "entscheidungsfähig",
+    "ar": "قادر على اتخاذ القرار",
+    "en": "capable of making decisions",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "entbehrlich",
+    "ar": "يمكن الاستغناء عنه",
+    "en": "dispensable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "erheblich",
+    "ar": "كبير؛ ملحوظ",
+    "en": "considerable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "erklärbar",
+    "ar": "قابل للتفسير",
+    "en": "explainable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "erreichbar",
+    "ar": "يمكن الوصول إليه",
+    "en": "reachable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "ertragreich",
+    "ar": "وفير المردود",
+    "en": "profitable; productive",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "fachlich",
+    "ar": "متعلّق بالتخصّص",
+    "en": "technical; professional",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "fachübergreifend",
+    "ar": "متعدّد التخصّصات",
+    "en": "interdisciplinary",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "fehleranfällig",
+    "ar": "معرّض للأخطاء",
+    "en": "error-prone",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "folgenreich",
+    "ar": "ذو عواقب كبيرة",
+    "en": "consequential",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "fortschrittlich",
+    "ar": "تقدّمي؛ متطوّر",
+    "en": "progressive",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "fragwürdig",
+    "ar": "مشكوك في صحّته",
+    "en": "questionable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "fundiert",
+    "ar": "قائم على أساس متين",
+    "en": "well-founded",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "gegensätzlich",
+    "ar": "متناقض",
+    "en": "opposing",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "geringfügig",
+    "ar": "طفيف",
+    "en": "minor",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "glaubhaft",
+    "ar": "قابل للتصديق",
+    "en": "believable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "glaubwürdig",
+    "ar": "ذو مصداقية",
+    "en": "credible",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "gravierend",
+    "ar": "خطير؛ جسيم",
+    "en": "serious",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "grundlegend",
+    "ar": "أساسي",
+    "en": "fundamental",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "gutartig",
+    "ar": "حميد",
+    "en": "benign",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "handlungsfähig",
+    "ar": "قادر على التصرّف",
+    "en": "capable of acting",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "hilfreich",
+    "ar": "مساعد؛ مفيد",
+    "en": "helpful",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "hinreichend",
+    "ar": "كافٍ",
+    "en": "sufficient",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "hinnehmbar",
+    "ar": "مقبول رغم سلبياته",
+    "en": "tolerable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "hochqualifiziert",
+    "ar": "ذو تأهيل عالٍ",
+    "en": "highly qualified",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "inhaltlich",
+    "ar": "من حيث المضمون",
+    "en": "in terms of content",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "innovativ",
+    "ar": "مبتكر",
+    "en": "innovative",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "irreführend",
+    "ar": "مضلّل",
+    "en": "misleading",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "knifflig",
+    "ar": "صعب ويحتاج تفكيرًا",
+    "en": "tricky",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "konkret",
+    "ar": "محدّد؛ ملموس",
+    "en": "concrete",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "konstruktiv",
+    "ar": "بنّاء",
+    "en": "constructive",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "kontrovers",
+    "ar": "مثير للجدل",
+    "en": "controversial",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "kostspielig",
+    "ar": "باهظ التكلفة",
+    "en": "costly",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "kurzfristig",
+    "ar": "قصير الأمد",
+    "en": "short-term",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "langwierig",
+    "ar": "مطوّل ويحتاج وقتًا",
+    "en": "lengthy",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "leistungsorientiert",
+    "ar": "موجّه نحو الإنجاز",
+    "en": "performance-oriented",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "lückenhaft",
+    "ar": "غير مكتمل",
+    "en": "incomplete",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "maßgeblich",
+    "ar": "حاسم؛ رئيسي",
+    "en": "decisive; authoritative",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "messbar",
+    "ar": "قابل للقياس",
+    "en": "measurable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "nachvollziehbar",
+    "ar": "مفهوم المنطق",
+    "en": "understandable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "nachweisbar",
+    "ar": "قابل للإثبات",
+    "en": "verifiable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "objektiv",
+    "ar": "موضوعي",
+    "en": "objective",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "problematisch",
+    "ar": "إشكالي",
+    "en": "problematic",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "rentabel",
+    "ar": "مربح",
+    "en": "profitable",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "repräsentativ",
+    "ar": "ممثّل للمجموعة",
+    "en": "representative",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "ressourcenschonend",
+    "ar": "موفّر للموارد",
+    "en": "resource-efficient",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "sachgerecht",
+    "ar": "مناسب من الناحية الفنية",
+    "en": "appropriate; technically sound",
+    "topic": "صفات التحليل والتقييم"
+  },
+  {
+    "de": "sachkundig",
+    "ar": "ذو معرفة متخصّصة",
+    "en": "knowledgeable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "schlüssig",
+    "ar": "منطقي ومقنع",
+    "en": "coherent; conclusive",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "schwerwiegend",
+    "ar": "جسيم",
+    "en": "serious; grave",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "selbstverständlich",
+    "ar": "بديهي",
+    "en": "self-evident",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "signifikant",
+    "ar": "دالّ؛ ذو أهمية",
+    "en": "significant",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "skeptisch",
+    "ar": "متشكّك",
+    "en": "sceptical",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "stichhaltig",
+    "ar": "متين الحجّة",
+    "en": "sound; valid",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "strittig",
+    "ar": "محلّ خلاف",
+    "en": "disputed",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "subjektiv",
+    "ar": "ذاتي",
+    "en": "subjective",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "tragfähig",
+    "ar": "قابل للاستمرار؛ قادر على التحمّل",
+    "en": "viable; load-bearing",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "transparent",
+    "ar": "شفّاف",
+    "en": "transparent",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "umfassend",
+    "ar": "شامل",
+    "en": "comprehensive",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "umsetzbar",
+    "ar": "قابل للتطبيق",
+    "en": "implementable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "umstritten",
+    "ar": "مثير للخلاف",
+    "en": "controversial",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unabdingbar",
+    "ar": "لا غنى عنه",
+    "en": "indispensable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unangebracht",
+    "ar": "غير مناسب",
+    "en": "inappropriate",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unangemessen",
+    "ar": "غير ملائم",
+    "en": "inappropriate",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unausgewogen",
+    "ar": "غير متوازن",
+    "en": "unbalanced",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unbefristet",
+    "ar": "غير محدّد المدّة",
+    "en": "permanent; indefinite",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unbegründet",
+    "ar": "غير مبرّر",
+    "en": "unfounded",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unbestreitbar",
+    "ar": "لا يمكن إنكاره",
+    "en": "indisputable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unentbehrlich",
+    "ar": "ضروري لا يُستغنى عنه",
+    "en": "indispensable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unerlässlich",
+    "ar": "لا بدّ منه",
+    "en": "essential",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unerheblich",
+    "ar": "غير ذي أهمية",
+    "en": "insignificant",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unhaltbar",
+    "ar": "لا يمكن الدفاع عنه",
+    "en": "untenable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unmittelbar",
+    "ar": "مباشر",
+    "en": "immediate; direct",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unparteiisch",
+    "ar": "محايد",
+    "en": "impartial",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unübersichtlich",
+    "ar": "يصعب الإحاطة به",
+    "en": "confusing; hard to survey",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unverhältnismäßig",
+    "ar": "غير متناسب",
+    "en": "disproportionate",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unvermeidbar",
+    "ar": "لا يمكن تجنّبه",
+    "en": "unavoidable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unwiderlegbar",
+    "ar": "لا يمكن دحضه",
+    "en": "irrefutable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "unzureichend",
+    "ar": "غير كافٍ",
+    "en": "insufficient",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "verantwortungsbewusst",
+    "ar": "واعٍ بالمسؤولية",
+    "en": "responsible",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "verbindlich",
+    "ar": "ملزم",
+    "en": "binding",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "verhältnismäßig",
+    "ar": "متناسب؛ نسبي",
+    "en": "proportionate; relative",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "verlässlich",
+    "ar": "يمكن الاعتماد عليه",
+    "en": "dependable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "vielschichtig",
+    "ar": "متعدّد الجوانب",
+    "en": "multifaceted",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "vorbildlich",
+    "ar": "مثالي يُقتدى به",
+    "en": "exemplary",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "vorhersehbar",
+    "ar": "يمكن التنبّؤ به",
+    "en": "predictable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "widersprüchlich",
+    "ar": "متناقض",
+    "en": "contradictory",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "wirkungslos",
+    "ar": "بلا أثر",
+    "en": "ineffective",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "wirksam",
+    "ar": "فعّال",
+    "en": "effective",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "wissenschaftlich",
+    "ar": "علمي",
+    "en": "scientific",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "zeitgemäß",
+    "ar": "مواكب للعصر",
+    "en": "contemporary",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "zeitaufwendig",
+    "ar": "يستهلك وقتًا",
+    "en": "time-consuming",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "zukunftsfähig",
+    "ar": "قادر على الاستمرار مستقبلًا",
+    "en": "fit for the future",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "zumutbar",
+    "ar": "معقول ويمكن تحمّله",
+    "en": "reasonable; tolerable",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "zweckmäßig",
+    "ar": "عملي ومناسب للغرض",
+    "en": "practical; appropriate",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "zweischneidig",
+    "ar": "ذو جانب إيجابي وآخر سلبي",
+    "en": "double-edged",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "ambitioniert",
+    "ar": "طموح",
+    "en": "ambitious",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "aufgeschlossen",
+    "ar": "متفتّح",
+    "en": "open-minded",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "ausdauernd",
+    "ar": "مثابر",
+    "en": "persevering",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "ausweichend",
+    "ar": "مراوغ",
+    "en": "evasive",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "bedacht",
+    "ar": "متأنٍّ",
+    "en": "deliberate; thoughtful",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "bedürftig",
+    "ar": "محتاج",
+    "en": "needy",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "befangen",
+    "ar": "غير محايد؛ متحرّج",
+    "en": "biased; self-conscious",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "beharrlich",
+    "ar": "مثابر بإصرار",
+    "en": "persistent",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "behutsam",
+    "ar": "حذر بلطف",
+    "en": "gentle; cautious",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "bereitwillig",
+    "ar": "عن طيب خاطر",
+    "en": "willing",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "besonnen",
+    "ar": "رزين",
+    "en": "level-headed",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "beunruhigend",
+    "ar": "مثير للقلق",
+    "en": "disturbing",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "bevorzugt",
+    "ar": "مفضّل",
+    "en": "preferred",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "bodenständig",
+    "ar": "واقعي وبسيط",
+    "en": "down-to-earth",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "charakteristisch",
+    "ar": "مميّز",
+    "en": "characteristic",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "durchsetzungsfähig",
+    "ar": "قادر على الدفاع عن موقفه",
+    "en": "assertive",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "eigensinnig",
+    "ar": "عنيد",
+    "en": "headstrong",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "einfühlsam",
+    "ar": "متعاطف",
+    "en": "empathetic",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "eingeschränkt",
+    "ar": "مقيّد",
+    "en": "restricted",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "entgegenkommend",
+    "ar": "متعاون ومتساهل",
+    "en": "accommodating",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "entsprechend",
+    "ar": "مطابق؛ مناسب",
+    "en": "corresponding",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "entsetzt",
+    "ar": "مصدوم بشدّة",
+    "en": "horrified",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "erblich",
+    "ar": "وراثي",
+    "en": "hereditary",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "erfolglos",
+    "ar": "غير ناجح",
+    "en": "unsuccessful",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "ernstzunehmend",
+    "ar": "جدير بأخذه بجدّية",
+    "en": "to be taken seriously",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "fassungslos",
+    "ar": "مذهول",
+    "en": "stunned",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "feindselig",
+    "ar": "عدائي",
+    "en": "hostile",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "friedlich",
+    "ar": "مسالم",
+    "en": "peaceful",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "fürsorglich",
+    "ar": "حنون ويعتني بالآخرين",
+    "en": "caring",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "gedankenlos",
+    "ar": "غير مبالٍ بعواقب أفعاله",
+    "en": "thoughtless",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "gelassen",
+    "ar": "هادئ ومتّزن",
+    "en": "composed",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "gereizt",
+    "ar": "منفعل؛ سريع الغضب",
+    "en": "irritated",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "gesundheitsbewusst",
+    "ar": "واعٍ بأهميّة الصحّة",
+    "en": "health-conscious",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "gleichberechtigt",
+    "ar": "متساوٍ في الحقوق",
+    "en": "having equal rights",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "hemmungslos",
+    "ar": "دون كوابح",
+    "en": "uninhibited",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "herablassend",
+    "ar": "متعجرف في تعامله",
+    "en": "condescending",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "hilflos",
+    "ar": "عاجز",
+    "en": "helpless",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "konfliktfähig",
+    "ar": "قادر على التعامل مع الخلاف",
+    "en": "able to handle conflict",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "konsequent",
+    "ar": "ثابت على المبدأ",
+    "en": "consistent",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "kontaktfreudig",
+    "ar": "محبّ للتواصل",
+    "en": "outgoing",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "kooperativ",
+    "ar": "متعاون",
+    "en": "cooperative",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "nachlässig",
+    "ar": "مهمل",
+    "en": "careless",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "nachsichtig",
+    "ar": "متسامح مع الأخطاء",
+    "en": "lenient",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "rücksichtslos",
+    "ar": "غير مراعٍ للآخرين",
+    "en": "inconsiderate",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "selbstkritisch",
+    "ar": "ناقد لذاته",
+    "en": "self-critical",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "verunsichert",
+    "ar": "فاقد للثقة",
+    "en": "unsettled",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "voreingenommen",
+    "ar": "منحاز مسبقًا",
+    "en": "biased",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "wertschätzend",
+    "ar": "مقدّر للآخرين",
+    "en": "appreciative",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "zielstrebig",
+    "ar": "مصمّم على بلوغ الهدف",
+    "en": "determined",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "kompromissbereit",
+    "ar": "مستعدّ للتوصّل إلى حلّ وسط",
+    "en": "willing to compromise",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "verhandlungsbereit",
+    "ar": "مستعدّ للتفاوض",
+    "en": "willing to negotiate",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "vorausschauend",
+    "ar": "يخطّط للمستقبل بعناية",
+    "en": "forward-looking",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "eigenverantwortlich",
+    "ar": "مسؤول عن عمله بنفسه",
+    "en": "independently responsible",
+    "topic": "صفات المواقف والتطوّر"
+  },
+  {
+    "de": "verständnisvoll",
+    "ar": "متفهّم",
+    "en": "understanding",
+    "topic": "صفات المواقف والتطوّر"
+  }
+]

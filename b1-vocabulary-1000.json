@@ -1,0 +1,6002 @@
+[
+  {
+    "de": "die Gesellschaft",
+    "ar": "مجتمع",
+    "en": "society",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Gemeinschaft",
+    "ar": "جماعة؛ مجتمع مترابط",
+    "en": "community",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Bevölkerung",
+    "ar": "سكان",
+    "en": "population",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Einwohner",
+    "ar": "ساكن",
+    "en": "inhabitant",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Einwohnerin",
+    "ar": "ساكنة",
+    "en": "female inhabitant",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Bürger",
+    "ar": "مواطن",
+    "en": "citizen",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Bürgerin",
+    "ar": "مواطنة",
+    "en": "female citizen",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Gemeinde",
+    "ar": "بلدية؛ جماعة محلية",
+    "en": "municipality",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Staat",
+    "ar": "دولة",
+    "en": "state",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Regierung",
+    "ar": "حكومة",
+    "en": "government",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Parlament",
+    "ar": "برلمان",
+    "en": "parliament",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Demokratie",
+    "ar": "ديمقراطية",
+    "en": "democracy",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Politik",
+    "ar": "سياسة",
+    "en": "politics",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Politiker",
+    "ar": "سياسي",
+    "en": "politician",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Politikerin",
+    "ar": "سياسية",
+    "en": "female politician",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Partei",
+    "ar": "حزب",
+    "en": "political party",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Wahl",
+    "ar": "انتخاب؛ اختيار",
+    "en": "election; choice",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Wähler",
+    "ar": "ناخب",
+    "en": "voter",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Wählerin",
+    "ar": "ناخبة",
+    "en": "female voter",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Mehrheit",
+    "ar": "أغلبية",
+    "en": "majority",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Minderheit",
+    "ar": "أقلية",
+    "en": "minority",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Bürgermeister",
+    "ar": "رئيس بلدية",
+    "en": "mayor",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Bürgermeisterin",
+    "ar": "رئيسة بلدية",
+    "en": "female mayor",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Minister",
+    "ar": "وزير",
+    "en": "minister",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Ministerin",
+    "ar": "وزيرة",
+    "en": "female minister",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Präsident",
+    "ar": "رئيس",
+    "en": "president",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Präsidentin",
+    "ar": "رئيسة",
+    "en": "female president",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Gesetz",
+    "ar": "قانون",
+    "en": "law",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Recht",
+    "ar": "حق؛ قانون",
+    "en": "right; law",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Pflicht",
+    "ar": "واجب",
+    "en": "duty",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Freiheit",
+    "ar": "حرية",
+    "en": "freedom",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Gleichberechtigung",
+    "ar": "مساواة في الحقوق",
+    "en": "equal rights",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Gerechtigkeit",
+    "ar": "عدالة",
+    "en": "justice",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Frieden",
+    "ar": "سلام",
+    "en": "peace",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Krieg",
+    "ar": "حرب",
+    "en": "war",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Gewalt",
+    "ar": "عنف",
+    "en": "violence",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Konflikt",
+    "ar": "نزاع",
+    "en": "conflict",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Krise",
+    "ar": "أزمة",
+    "en": "crisis",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Demonstration",
+    "ar": "مظاهرة",
+    "en": "demonstration",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Protest",
+    "ar": "احتجاج",
+    "en": "protest",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Organisation",
+    "ar": "منظمة؛ تنظيم",
+    "en": "organisation",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Hilfsorganisation",
+    "ar": "منظمة إغاثة",
+    "en": "aid organisation",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Ehrenamt",
+    "ar": "عمل تطوعي",
+    "en": "voluntary work",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Ehrenamtliche",
+    "ar": "متطوع",
+    "en": "male volunteer",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Ehrenamtliche",
+    "ar": "متطوعة",
+    "en": "female volunteer",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Spende",
+    "ar": "تبرع",
+    "en": "donation",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Armut",
+    "ar": "فقر",
+    "en": "poverty",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Reichtum",
+    "ar": "ثراء",
+    "en": "wealth",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Integration",
+    "ar": "اندماج",
+    "en": "integration",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Migration",
+    "ar": "هجرة",
+    "en": "migration",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Flüchtling",
+    "ar": "لاجئ",
+    "en": "refugee",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Flucht",
+    "ar": "فرار",
+    "en": "flight; escape",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Einwanderer",
+    "ar": "مهاجر إلى بلد",
+    "en": "immigrant",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Einwanderin",
+    "ar": "مهاجرة إلى بلد",
+    "en": "female immigrant",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Einwanderung",
+    "ar": "هجرة إلى بلد",
+    "en": "immigration",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Herkunft",
+    "ar": "أصل؛ منشأ",
+    "en": "origin",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Kultur",
+    "ar": "ثقافة",
+    "en": "culture",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Tradition",
+    "ar": "تقليد",
+    "en": "tradition",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Religion",
+    "ar": "دين",
+    "en": "religion",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Glaube",
+    "ar": "إيمان",
+    "en": "faith",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Kirche",
+    "ar": "كنيسة",
+    "en": "church",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Moschee",
+    "ar": "مسجد",
+    "en": "mosque",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Synagoge",
+    "ar": "كنيس",
+    "en": "synagogue",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Tempel",
+    "ar": "معبد",
+    "en": "temple",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Vorurteil",
+    "ar": "حكم مسبق",
+    "en": "prejudice",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Diskriminierung",
+    "ar": "تمييز مجحف",
+    "en": "discrimination",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Rassismus",
+    "ar": "عنصرية",
+    "en": "racism",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Respekt",
+    "ar": "احترام",
+    "en": "respect",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Toleranz",
+    "ar": "تسامح",
+    "en": "tolerance",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Verhalten",
+    "ar": "سلوك",
+    "en": "behaviour",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Umgang",
+    "ar": "تعامل",
+    "en": "interaction; dealings",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Verwaltung",
+    "ar": "إدارة",
+    "en": "administration",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Beamte",
+    "ar": "موظف حكومي",
+    "en": "civil servant",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Beamtin",
+    "ar": "موظفة حكومية",
+    "en": "female civil servant",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Bürgeramt",
+    "ar": "مكتب خدمات المواطنين",
+    "en": "citizens' office",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Einwohnermeldeamt",
+    "ar": "مكتب تسجيل السكان",
+    "en": "registration office",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Ausländerbehörde",
+    "ar": "دائرة شؤون الأجانب",
+    "en": "immigration authority",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "das Standesamt",
+    "ar": "مكتب الأحوال المدنية",
+    "en": "registry office",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Meldebescheinigung",
+    "ar": "إفادة تسجيل السكن",
+    "en": "registration certificate",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Geburtsurkunde",
+    "ar": "شهادة ميلاد",
+    "en": "birth certificate",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Heiratsurkunde",
+    "ar": "وثيقة زواج",
+    "en": "marriage certificate",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Urkunde",
+    "ar": "وثيقة رسمية",
+    "en": "official certificate",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Übersetzerin",
+    "ar": "مترجمة",
+    "en": "female translator",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Übersetzer",
+    "ar": "مترجم",
+    "en": "translator",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Dolmetscher",
+    "ar": "مترجم شفهي",
+    "en": "interpreter",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Dolmetscherin",
+    "ar": "مترجمة شفهية",
+    "en": "female interpreter",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Bescheid",
+    "ar": "قرار رسمي",
+    "en": "official decision",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Ablehnung",
+    "ar": "رفض",
+    "en": "rejection",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Zustimmung",
+    "ar": "موافقة",
+    "en": "consent",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "der Widerspruch",
+    "ar": "اعتراض؛ تناقض",
+    "en": "objection; contradiction",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Verlängerung",
+    "ar": "تمديد",
+    "en": "extension",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Gültigkeit",
+    "ar": "صلاحية",
+    "en": "validity",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Bearbeitung",
+    "ar": "معالجة طلب أو ملف",
+    "en": "processing",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Wartezeit",
+    "ar": "مدة انتظار",
+    "en": "waiting time",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Beratung",
+    "ar": "استشارة",
+    "en": "advice; counselling",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Beratungsstelle",
+    "ar": "مركز استشارات",
+    "en": "advice centre",
+    "topic": "المجتمع والحقوق والإدارة"
+  },
+  {
+    "de": "die Beschäftigung",
+    "ar": "عمل؛ انشغال",
+    "en": "employment; occupation",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Arbeitsverhältnis",
+    "ar": "علاقة عمل",
+    "en": "employment relationship",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Arbeitsbedingung",
+    "ar": "شرط عمل",
+    "en": "working condition",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Arbeitsbelastung",
+    "ar": "ضغط العمل",
+    "en": "workload",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Arbeitsstelle",
+    "ar": "وظيفة؛ مكان عمل",
+    "en": "job; workplace",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Vorgesetzte",
+    "ar": "مسؤول أعلى",
+    "en": "supervisor",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Vorgesetzte",
+    "ar": "مسؤولة أعلى",
+    "en": "female supervisor",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Geschäftsleitung",
+    "ar": "إدارة الشركة",
+    "en": "company management",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Geschäftsführer",
+    "ar": "مدير تنفيذي",
+    "en": "managing director",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Geschäftsführerin",
+    "ar": "مديرة تنفيذية",
+    "en": "female managing director",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Personalabteilung",
+    "ar": "قسم الموارد البشرية",
+    "en": "human resources department",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Entlassung",
+    "ar": "فصل من العمل؛ إخراج من المستشفى",
+    "en": "dismissal; discharge",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Beförderung",
+    "ar": "ترقية؛ نقل",
+    "en": "promotion; transport",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Aufstieg",
+    "ar": "صعود؛ تقدم مهني",
+    "en": "advancement",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Karriere",
+    "ar": "مسيرة مهنية",
+    "en": "career",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Qualifikation",
+    "ar": "مؤهل",
+    "en": "qualification",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Kompetenz",
+    "ar": "كفاءة",
+    "en": "competence",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Stärke",
+    "ar": "نقطة قوة",
+    "en": "strength",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Schwäche",
+    "ar": "نقطة ضعف",
+    "en": "weakness",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Können",
+    "ar": "مهارة عملية",
+    "en": "ability; skill",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Wissen",
+    "ar": "معرفة",
+    "en": "knowledge",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Leistung",
+    "ar": "أداء؛ إنجاز",
+    "en": "performance; achievement",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Erfolg",
+    "ar": "نجاح",
+    "en": "success",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Misserfolg",
+    "ar": "إخفاق",
+    "en": "failure",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Motivation",
+    "ar": "دافع",
+    "en": "motivation",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Bewerbungsmappe",
+    "ar": "ملف مستندات التقديم",
+    "en": "application folder",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Anschreiben",
+    "ar": "خطاب تقديم",
+    "en": "cover letter",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Referenz",
+    "ar": "مرجع؛ توصية مهنية",
+    "en": "reference",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Arbeitszeugnis",
+    "ar": "شهادة خبرة عمل",
+    "en": "employment reference",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Anerkennung",
+    "ar": "اعتراف؛ تقدير",
+    "en": "recognition",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Berufswahl",
+    "ar": "اختيار المهنة",
+    "en": "career choice",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Berufsausbildung",
+    "ar": "تدريب مهني",
+    "en": "vocational training",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Ausbildungsdauer",
+    "ar": "مدة التدريب المهني",
+    "en": "training duration",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Ausbildungsbetrieb",
+    "ar": "شركة توفر التدريب",
+    "en": "training company",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Ausbilder",
+    "ar": "مدرّب مهني",
+    "en": "trainer",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Ausbilderin",
+    "ar": "مدرّبة مهنية",
+    "en": "female trainer",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Umschulung",
+    "ar": "إعادة تأهيل لمهنة أخرى",
+    "en": "retraining",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Schulung",
+    "ar": "تدريب منظم",
+    "en": "training session",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Lehrgang",
+    "ar": "دورة تدريبية",
+    "en": "training course",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Einschreibung",
+    "ar": "تسجيل رسمي للدراسة",
+    "en": "enrolment",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Zulassung",
+    "ar": "قبول؛ ترخيص",
+    "en": "admission; authorisation",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Aufnahmeprüfung",
+    "ar": "امتحان قبول",
+    "en": "entrance examination",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Abschlussprüfung",
+    "ar": "امتحان نهائي",
+    "en": "final examination",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Prüfungsangst",
+    "ar": "قلق الامتحان",
+    "en": "exam anxiety",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Prüfungsaufgabe",
+    "ar": "سؤال امتحان",
+    "en": "exam task",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Lernstoff",
+    "ar": "مادة الدراسة",
+    "en": "learning material",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Lernmethode",
+    "ar": "طريقة تعلّم",
+    "en": "learning method",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Lerngruppe",
+    "ar": "مجموعة دراسة",
+    "en": "study group",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Lernziel",
+    "ar": "هدف تعلّم",
+    "en": "learning objective",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Lernfortschritt",
+    "ar": "تقدم في التعلّم",
+    "en": "learning progress",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Konzentration",
+    "ar": "تركيز",
+    "en": "concentration",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Aufmerksamkeit",
+    "ar": "انتباه",
+    "en": "attention",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Gedächtnis",
+    "ar": "ذاكرة",
+    "en": "memory",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Wiederholungsprüfung",
+    "ar": "إعادة امتحان",
+    "en": "resit examination",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Theorie",
+    "ar": "نظرية",
+    "en": "theory",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Forschung",
+    "ar": "بحث علمي",
+    "en": "research",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Fach",
+    "ar": "تخصص؛ حجرة صغيرة",
+    "en": "subject; compartment",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Fachgebiet",
+    "ar": "مجال اختصاص",
+    "en": "specialist field",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Selbstständigkeit",
+    "ar": "استقلالية؛ عمل حر",
+    "en": "independence; self-employment",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Selbstständige",
+    "ar": "امرأة تعمل لحسابها",
+    "en": "self-employed woman",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Selbstständige",
+    "ar": "رجل يعمل لحسابه",
+    "en": "self-employed man",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Unternehmen",
+    "ar": "شركة",
+    "en": "enterprise",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Unternehmer",
+    "ar": "صاحب مشروع",
+    "en": "entrepreneur",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Unternehmerin",
+    "ar": "صاحبة مشروع",
+    "en": "female entrepreneur",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Gründung",
+    "ar": "تأسيس",
+    "en": "founding",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Geschäftsidee",
+    "ar": "فكرة مشروع",
+    "en": "business idea",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Geschäftsplan",
+    "ar": "خطة عمل",
+    "en": "business plan",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Zusammenarbeit",
+    "ar": "تعاون",
+    "en": "cooperation",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Partnerschaft",
+    "ar": "شراكة",
+    "en": "partnership",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Produktion",
+    "ar": "إنتاج",
+    "en": "production",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Produkt",
+    "ar": "منتج",
+    "en": "product",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Ware",
+    "ar": "بضاعة",
+    "en": "goods",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Dienstleistung",
+    "ar": "خدمة مقدمة",
+    "en": "service",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Qualität",
+    "ar": "جودة",
+    "en": "quality",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Nachfrage",
+    "ar": "طلب على سلعة",
+    "en": "demand",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Umsatz",
+    "ar": "إيراد المبيعات",
+    "en": "turnover; revenue",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Gewinn",
+    "ar": "ربح",
+    "en": "profit",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "der Verlust",
+    "ar": "خسارة",
+    "en": "loss",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Risiko",
+    "ar": "مخاطرة",
+    "en": "risk",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Investition",
+    "ar": "استثمار",
+    "en": "investment",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "das Budget",
+    "ar": "ميزانية",
+    "en": "budget",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Planung",
+    "ar": "تخطيط",
+    "en": "planning",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Durchführung",
+    "ar": "تنفيذ",
+    "en": "implementation",
+    "topic": "العمل والتعلّم والتخطيط"
+  },
+  {
+    "de": "die Kindheit",
+    "ar": "طفولة",
+    "en": "childhood",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Jugend",
+    "ar": "شباب",
+    "en": "youth",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Erwachsenenalter",
+    "ar": "مرحلة البلوغ",
+    "en": "adulthood",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Generation",
+    "ar": "جيل",
+    "en": "generation",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Lebensabschnitt",
+    "ar": "مرحلة من الحياة",
+    "en": "stage of life",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Lebensweg",
+    "ar": "مسار الحياة",
+    "en": "life path",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Lebensweise",
+    "ar": "أسلوب حياة",
+    "en": "way of life",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Alltag",
+    "ar": "حياة يومية",
+    "en": "everyday life",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Routine",
+    "ar": "روتين",
+    "en": "routine",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Erziehung",
+    "ar": "تربية",
+    "en": "upbringing",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Betreuung",
+    "ar": "رعاية؛ إشراف",
+    "en": "care; supervision",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Kinderbetreuung",
+    "ar": "رعاية أطفال",
+    "en": "childcare",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Tagesmutter",
+    "ar": "حاضنة أطفال منزلية",
+    "en": "childminder",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Tagesvater",
+    "ar": "حاضن أطفال منزلي",
+    "en": "male childminder",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Elternzeit",
+    "ar": "إجازة الوالدين",
+    "en": "parental leave",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Alleinerziehende",
+    "ar": "أم تربي طفلها وحدها",
+    "en": "single mother",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Alleinerziehende",
+    "ar": "أب يربي طفله وحده",
+    "en": "single father",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Stiefvater",
+    "ar": "زوج الأم",
+    "en": "stepfather",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Stiefmutter",
+    "ar": "زوجة الأب",
+    "en": "stepmother",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Stiefbruder",
+    "ar": "أخ من زواج أحد الوالدين",
+    "en": "stepbrother",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Stiefschwester",
+    "ar": "أخت من زواج أحد الوالدين",
+    "en": "stepsister",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Halbbruder",
+    "ar": "أخ غير شقيق",
+    "en": "half-brother",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Halbschwester",
+    "ar": "أخت غير شقيقة",
+    "en": "half-sister",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Schwiegervater",
+    "ar": "والد الزوج أو الزوجة",
+    "en": "father-in-law",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Schwiegermutter",
+    "ar": "والدة الزوج أو الزوجة",
+    "en": "mother-in-law",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Schwager",
+    "ar": "أخو الزوج؛ زوج الأخت",
+    "en": "brother-in-law",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Schwägerin",
+    "ar": "أخت الزوج؛ زوجة الأخ",
+    "en": "sister-in-law",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Verlobung",
+    "ar": "خطوبة",
+    "en": "engagement",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Verlobte",
+    "ar": "خطيب",
+    "en": "fiancé",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Verlobte",
+    "ar": "خطيبة",
+    "en": "fiancée",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Trennung",
+    "ar": "انفصال",
+    "en": "separation",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Versöhnung",
+    "ar": "مصالحة",
+    "en": "reconciliation",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Streit",
+    "ar": "شجار",
+    "en": "argument",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Missverständnis",
+    "ar": "سوء فهم",
+    "en": "misunderstanding",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Verständnis",
+    "ar": "تفهم؛ فهم",
+    "en": "understanding",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Rücksicht",
+    "ar": "مراعاة الآخرين",
+    "en": "consideration",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Geduld",
+    "ar": "صبر",
+    "en": "patience",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Ungeduld",
+    "ar": "نفاد صبر",
+    "en": "impatience",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Ehrlichkeit",
+    "ar": "صدق",
+    "en": "honesty",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Lüge",
+    "ar": "كذبة",
+    "en": "lie",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Wahrheit",
+    "ar": "حقيقة",
+    "en": "truth",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Geheimnis",
+    "ar": "سر",
+    "en": "secret",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Treue",
+    "ar": "وفاء",
+    "en": "loyalty",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Eifersucht",
+    "ar": "غيرة",
+    "en": "jealousy",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Nähe",
+    "ar": "قرب",
+    "en": "closeness",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Distanz",
+    "ar": "مسافة؛ تباعد",
+    "en": "distance",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Zuneigung",
+    "ar": "مودة",
+    "en": "affection",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Mitgefühl",
+    "ar": "تعاطف",
+    "en": "compassion",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Hilfsbereitschaft",
+    "ar": "استعداد للمساعدة",
+    "en": "helpfulness",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Dankbarkeit",
+    "ar": "امتنان",
+    "en": "gratitude",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Enttäuschung",
+    "ar": "خيبة أمل",
+    "en": "disappointment",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Überraschung",
+    "ar": "مفاجأة",
+    "en": "surprise",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Hoffnung",
+    "ar": "أمل",
+    "en": "hope",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Wunsch",
+    "ar": "أمنية؛ رغبة",
+    "en": "wish",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Traum",
+    "ar": "حلم",
+    "en": "dream",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Sehnsucht",
+    "ar": "شوق",
+    "en": "longing",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Heimweh",
+    "ar": "حنين إلى الوطن",
+    "en": "homesickness",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Einsamkeit",
+    "ar": "وحدة",
+    "en": "loneliness",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Trauer",
+    "ar": "حزن على فقد",
+    "en": "grief",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Verzweiflung",
+    "ar": "يأس",
+    "en": "despair",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Begeisterung",
+    "ar": "حماس",
+    "en": "enthusiasm",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Zufriedenheit",
+    "ar": "رضا",
+    "en": "satisfaction",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Unzufriedenheit",
+    "ar": "عدم رضا",
+    "en": "dissatisfaction",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Selbstvertrauen",
+    "ar": "ثقة بالنفس",
+    "en": "self-confidence",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Selbstbewusstsein",
+    "ar": "اعتزاز بالنفس؛ وعي بالذات",
+    "en": "self-confidence; self-awareness",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Nervosität",
+    "ar": "توتر",
+    "en": "nervousness",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Aufregung",
+    "ar": "انفعال",
+    "en": "excitement; agitation",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Überraschungsparty",
+    "ar": "حفلة مفاجئة",
+    "en": "surprise party",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Einladungskarte",
+    "ar": "بطاقة دعوة",
+    "en": "invitation card",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Glückwunsch",
+    "ar": "تهنئة",
+    "en": "congratulation",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Gratulation",
+    "ar": "تهنئة",
+    "en": "congratulation",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Beileid",
+    "ar": "تعزية",
+    "en": "condolences",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Entschuldigung",
+    "ar": "اعتذار",
+    "en": "apology",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Bitte",
+    "ar": "طلب مهذب",
+    "en": "request",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Absage",
+    "ar": "إلغاء؛ رفض",
+    "en": "cancellation; refusal",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Zusage",
+    "ar": "موافقة؛ وعد",
+    "en": "acceptance; promise",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Versprechen",
+    "ar": "وعد",
+    "en": "promise",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Verabredung",
+    "ar": "موعد لقاء",
+    "en": "arrangement to meet",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Treffen",
+    "ar": "لقاء",
+    "en": "meeting",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Begegnung",
+    "ar": "لقاء؛ مصادفة",
+    "en": "encounter",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Erlebnis",
+    "ar": "تجربة معاشة",
+    "en": "experience",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Erinnerung",
+    "ar": "ذكرى",
+    "en": "memory",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Vergangenheit",
+    "ar": "الماضي",
+    "en": "past",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Gegenwart",
+    "ar": "الحاضر",
+    "en": "present",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Zukunft",
+    "ar": "المستقبل",
+    "en": "future",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Zufall",
+    "ar": "صدفة",
+    "en": "coincidence",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Schicksal",
+    "ar": "قدر",
+    "en": "fate",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Chance",
+    "ar": "فرصة",
+    "en": "chance",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Herausforderung",
+    "ar": "تحدٍّ",
+    "en": "challenge",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Abenteuer",
+    "ar": "مغامرة",
+    "en": "adventure",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Gefahr",
+    "ar": "خطر",
+    "en": "danger",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Mut",
+    "ar": "شجاعة",
+    "en": "courage",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Vorsicht",
+    "ar": "حذر",
+    "en": "caution",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Neugier",
+    "ar": "فضول",
+    "en": "curiosity",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "die Meinung",
+    "ar": "رأي",
+    "en": "opinion",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "der Standpunkt",
+    "ar": "وجهة نظر",
+    "en": "point of view",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Argument",
+    "ar": "حجة",
+    "en": "argument; reason",
+    "topic": "العلاقات والتجارب والتواصل"
+  },
+  {
+    "de": "das Klima",
+    "ar": "مناخ",
+    "en": "climate",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Klimawandel",
+    "ar": "تغيّر المناخ",
+    "en": "climate change",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Erwärmung",
+    "ar": "ارتفاع الحرارة",
+    "en": "warming",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Umweltverschmutzung",
+    "ar": "تلوث البيئة",
+    "en": "environmental pollution",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Luftverschmutzung",
+    "ar": "تلوث الهواء",
+    "en": "air pollution",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Wasserverschmutzung",
+    "ar": "تلوث المياه",
+    "en": "water pollution",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Abgas",
+    "ar": "غاز عادم",
+    "en": "exhaust gas",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Kohlendioxid",
+    "ar": "ثاني أكسيد الكربون",
+    "en": "carbon dioxide",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Sauerstoff",
+    "ar": "أكسجين",
+    "en": "oxygen",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Energie",
+    "ar": "طاقة",
+    "en": "energy",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Energieverbrauch",
+    "ar": "استهلاك الطاقة",
+    "en": "energy consumption",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Stromrechnung",
+    "ar": "فاتورة الكهرباء",
+    "en": "electricity bill",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Stromverbrauch",
+    "ar": "استهلاك الكهرباء",
+    "en": "electricity consumption",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Heizungskosten",
+    "ar": "تكاليف التدفئة",
+    "en": "heating costs",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Erdgas",
+    "ar": "غاز طبيعي",
+    "en": "natural gas",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Erdöl",
+    "ar": "نفط",
+    "en": "crude oil",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Kohle",
+    "ar": "فحم",
+    "en": "coal",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Solarenergie",
+    "ar": "طاقة شمسية",
+    "en": "solar energy",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Windenergie",
+    "ar": "طاقة رياح",
+    "en": "wind energy",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Kraftwerk",
+    "ar": "محطة توليد طاقة",
+    "en": "power plant",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Windrad",
+    "ar": "توربين رياح",
+    "en": "wind turbine",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Solaranlage",
+    "ar": "منظومة شمسية",
+    "en": "solar installation",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Mülltrennung",
+    "ar": "فرز النفايات",
+    "en": "waste separation",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Recycling",
+    "ar": "إعادة تدوير",
+    "en": "recycling",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Wiederverwendung",
+    "ar": "إعادة استخدام",
+    "en": "reuse",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Verpackung",
+    "ar": "تغليف؛ عبوة",
+    "en": "packaging",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Plastik",
+    "ar": "بلاستيك",
+    "en": "plastic",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Kunststoff",
+    "ar": "مادة بلاستيكية",
+    "en": "plastic material",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Altpapier",
+    "ar": "ورق مستعمل لإعادة التدوير",
+    "en": "waste paper",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Altglas",
+    "ar": "زجاج مستعمل",
+    "en": "waste glass",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Biomüll",
+    "ar": "نفايات عضوية",
+    "en": "organic waste",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Restmüll",
+    "ar": "نفايات متبقية بعد الفرز",
+    "en": "residual waste",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Sondermüll",
+    "ar": "نفايات خطرة",
+    "en": "hazardous waste",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Müllabfuhr",
+    "ar": "خدمة جمع القمامة",
+    "en": "waste collection",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Wertstoffhof",
+    "ar": "مركز جمع مواد التدوير",
+    "en": "recycling centre",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Müllvermeidung",
+    "ar": "تجنب النفايات",
+    "en": "waste prevention",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Mehrwegflasche",
+    "ar": "زجاجة قابلة لإعادة الاستخدام",
+    "en": "reusable bottle",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Einwegflasche",
+    "ar": "زجاجة للاستخدام مرة واحدة",
+    "en": "single-use bottle",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Pfandflasche",
+    "ar": "زجاجة ذات تأمين مسترد",
+    "en": "deposit bottle",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Einkaufstasche",
+    "ar": "حقيبة تسوق",
+    "en": "shopping bag",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Stofftasche",
+    "ar": "حقيبة قماش",
+    "en": "cloth bag",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Naturschutz",
+    "ar": "حماية الطبيعة",
+    "en": "nature conservation",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Naturschutzgebiet",
+    "ar": "محمية طبيعية",
+    "en": "nature reserve",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Tierschutz",
+    "ar": "حماية الحيوانات",
+    "en": "animal welfare",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Tierheim",
+    "ar": "مأوى حيوانات",
+    "en": "animal shelter",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Tierart",
+    "ar": "نوع حيواني",
+    "en": "animal species",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Landschaft",
+    "ar": "منظر طبيعي؛ منطقة طبيعية",
+    "en": "landscape",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Landwirtschaft",
+    "ar": "زراعة",
+    "en": "agriculture",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Bauernhof",
+    "ar": "مزرعة",
+    "en": "farm",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Ernte",
+    "ar": "حصاد",
+    "en": "harvest",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Getreide",
+    "ar": "حبوب زراعية",
+    "en": "grain",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Weizen",
+    "ar": "قمح",
+    "en": "wheat",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Roggen",
+    "ar": "جاودار",
+    "en": "rye",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Hafer",
+    "ar": "شوفان",
+    "en": "oats",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Dünger",
+    "ar": "سماد",
+    "en": "fertiliser",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Dürre",
+    "ar": "جفاف",
+    "en": "drought",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Überschwemmung",
+    "ar": "فيضان",
+    "en": "flood",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Hochwasser",
+    "ar": "ارتفاع منسوب المياه",
+    "en": "high water; flooding",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Katastrophe",
+    "ar": "كارثة",
+    "en": "disaster",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Erdbeben",
+    "ar": "زلزال",
+    "en": "earthquake",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Waldbrand",
+    "ar": "حريق غابة",
+    "en": "forest fire",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Hitzewelle",
+    "ar": "موجة حر",
+    "en": "heatwave",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Hagel",
+    "ar": "بَرَد",
+    "en": "hail",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Frost",
+    "ar": "صقيع",
+    "en": "frost",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Gewitter",
+    "ar": "عاصفة رعدية",
+    "en": "thunderstorm",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Blitz",
+    "ar": "برق",
+    "en": "lightning",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Donner",
+    "ar": "رعد",
+    "en": "thunder",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "der Nebel",
+    "ar": "ضباب",
+    "en": "fog",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Wettervorhersage",
+    "ar": "توقعات الطقس",
+    "en": "weather forecast",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Wetterwarnung",
+    "ar": "تحذير جوي",
+    "en": "weather warning",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Niederschläge",
+    "ar": "هطول",
+    "en": "precipitation",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Trockenheit",
+    "ar": "جفاف",
+    "en": "dryness",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Feuchtigkeit",
+    "ar": "رطوبة",
+    "en": "moisture",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Lebensqualität",
+    "ar": "جودة الحياة",
+    "en": "quality of life",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Wohlbefinden",
+    "ar": "شعور بالعافية",
+    "en": "well-being",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Ausdauer",
+    "ar": "قدرة على التحمل",
+    "en": "endurance",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Kraft",
+    "ar": "قوة",
+    "en": "strength",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Kondition",
+    "ar": "لياقة بدنية",
+    "en": "fitness; stamina",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Anstrengung",
+    "ar": "جهد",
+    "en": "effort",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Überlastung",
+    "ar": "إجهاد زائد",
+    "en": "overload",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Belastung",
+    "ar": "عبء؛ إجهاد",
+    "en": "strain; burden",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Sucht",
+    "ar": "إدمان",
+    "en": "addiction",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Abhängigkeit",
+    "ar": "اعتماد؛ إدمان",
+    "en": "dependence",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Übergewicht",
+    "ar": "وزن زائد",
+    "en": "excess weight",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Untergewicht",
+    "ar": "نقص وزن",
+    "en": "underweight",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Kalorie",
+    "ar": "سعرة حرارية",
+    "en": "calorie",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Vitamin",
+    "ar": "فيتامين",
+    "en": "vitamin",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Eiweiß",
+    "ar": "بروتين؛ بياض البيض",
+    "en": "protein; egg white",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Fett",
+    "ar": "دهن",
+    "en": "fat",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Kohlenhydrat",
+    "ar": "كربوهيدرات",
+    "en": "carbohydrate",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "das Immunsystem",
+    "ar": "جهاز مناعي",
+    "en": "immune system",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Vorsorge",
+    "ar": "وقاية؛ احتياط",
+    "en": "preventive care; provision",
+    "topic": "البيئة والصحة والمدينة"
+  },
+  {
+    "de": "die Medien",
+    "ar": "وسائل الإعلام",
+    "en": "media",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Presse",
+    "ar": "صحافة",
+    "en": "press",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Journalist",
+    "ar": "صحفي",
+    "en": "journalist",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Journalistin",
+    "ar": "صحفية",
+    "en": "female journalist",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Reporter",
+    "ar": "مراسل",
+    "en": "reporter",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Reporterin",
+    "ar": "مراسلة",
+    "en": "female reporter",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Redaktion",
+    "ar": "هيئة تحرير",
+    "en": "editorial team",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Redakteur",
+    "ar": "محرّر",
+    "en": "editor",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Redakteurin",
+    "ar": "محرّرة",
+    "en": "female editor",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Bericht",
+    "ar": "تقرير",
+    "en": "report",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Artikel",
+    "ar": "مقال؛ أداة تعريف",
+    "en": "article",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Reportage",
+    "ar": "تقرير ميداني",
+    "en": "feature report",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Interview",
+    "ar": "مقابلة",
+    "en": "interview",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Meldung",
+    "ar": "خبر موجز؛ بلاغ",
+    "en": "news item; report",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Schlagzeile",
+    "ar": "عنوان صحفي بارز",
+    "en": "headline",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Nachrichtensendung",
+    "ar": "نشرة أخبار",
+    "en": "news programme",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Sendung",
+    "ar": "برنامج إذاعي أو تلفزيوني؛ شحنة",
+    "en": "broadcast; shipment",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Sender",
+    "ar": "قناة؛ مُرسِل",
+    "en": "broadcaster; sender",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Empfänger",
+    "ar": "مستقبِل؛ مستلم",
+    "en": "receiver; recipient",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Übertragung",
+    "ar": "بث؛ نقل",
+    "en": "transmission",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Liveübertragung",
+    "ar": "بث مباشر",
+    "en": "live broadcast",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Aufnahme",
+    "ar": "تسجيل؛ استقبال",
+    "en": "recording; admission",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Veröffentlichung",
+    "ar": "نشر",
+    "en": "publication",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Auflage",
+    "ar": "عدد النسخ؛ طبعة",
+    "en": "print run; edition",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Abonnement",
+    "ar": "اشتراك",
+    "en": "subscription",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Abo",
+    "ar": "اشتراك؛ اختصار",
+    "en": "subscription",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Abonnent",
+    "ar": "مشترك",
+    "en": "subscriber",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Abonnentin",
+    "ar": "مشتركة",
+    "en": "female subscriber",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Werbung",
+    "ar": "إعلان؛ دعاية",
+    "en": "advertising",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Anzeige",
+    "ar": "إعلان؛ بلاغ",
+    "en": "advertisement; report",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Plakat",
+    "ar": "ملصق",
+    "en": "poster",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Werbespot",
+    "ar": "إعلان قصير",
+    "en": "commercial",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Prospekt",
+    "ar": "كتيّب دعائي",
+    "en": "brochure",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Katalog",
+    "ar": "كتالوج",
+    "en": "catalogue",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Broschüre",
+    "ar": "كتيّب",
+    "en": "booklet",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Marke",
+    "ar": "علامة تجارية",
+    "en": "brand",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Markenname",
+    "ar": "اسم علامة تجارية",
+    "en": "brand name",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Hersteller",
+    "ar": "مصنّع",
+    "en": "manufacturer",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Händler",
+    "ar": "تاجر",
+    "en": "dealer; trader",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Händlerin",
+    "ar": "تاجرة",
+    "en": "female trader",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Verbraucher",
+    "ar": "مستهلك",
+    "en": "consumer",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Verbraucherin",
+    "ar": "مستهلكة",
+    "en": "female consumer",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Verbraucherschutz",
+    "ar": "حماية المستهلك",
+    "en": "consumer protection",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Garantie",
+    "ar": "ضمان",
+    "en": "guarantee",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Reklamation",
+    "ar": "شكوى بشأن سلعة",
+    "en": "complaint about goods",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Umtausch",
+    "ar": "استبدال سلعة",
+    "en": "exchange",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Rückgabe",
+    "ar": "إرجاع",
+    "en": "return",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Erstattung",
+    "ar": "رد مبلغ",
+    "en": "refund",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Rückerstattung",
+    "ar": "استرداد مبلغ",
+    "en": "reimbursement",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Kaufvertrag",
+    "ar": "عقد شراء",
+    "en": "purchase contract",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Kaufentscheidung",
+    "ar": "قرار شراء",
+    "en": "purchase decision",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Zahlungsart",
+    "ar": "طريقة الدفع",
+    "en": "payment method",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Zahlungsfrist",
+    "ar": "مهلة الدفع",
+    "en": "payment deadline",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Mahnung",
+    "ar": "تذكير بالدفع؛ إنذار",
+    "en": "payment reminder; warning",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Dauerauftrag",
+    "ar": "تحويل مصرفي دوري",
+    "en": "standing order",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Lastschrift",
+    "ar": "خصم مباشر",
+    "en": "direct debit",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Ratenzahlung",
+    "ar": "دفع بالأقساط",
+    "en": "payment by instalments",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Anzahlung",
+    "ar": "دفعة مقدّمة",
+    "en": "down payment",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Restzahlung",
+    "ar": "دفع المبلغ المتبقي",
+    "en": "balance payment",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Bankverbindung",
+    "ar": "بيانات حساب مصرفي",
+    "en": "bank details",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Kontoauszug",
+    "ar": "كشف حساب",
+    "en": "bank statement",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Zinsen",
+    "ar": "فوائد مالية",
+    "en": "interest payments",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Ersparnis",
+    "ar": "توفير مبلغ",
+    "en": "saving",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Preissteigerung",
+    "ar": "ارتفاع سعر",
+    "en": "price increase",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Preissenkung",
+    "ar": "انخفاض سعر",
+    "en": "price reduction",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Lebenshaltungskosten",
+    "ar": "تكاليف المعيشة",
+    "en": "cost of living",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Mieterhöhung",
+    "ar": "زيادة الإيجار",
+    "en": "rent increase",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Hausratversicherung",
+    "ar": "تأمين محتويات المنزل",
+    "en": "household contents insurance",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Haftpflichtversicherung",
+    "ar": "تأمين المسؤولية المدنية",
+    "en": "liability insurance",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Unfallversicherung",
+    "ar": "تأمين الحوادث",
+    "en": "accident insurance",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Rentenversicherung",
+    "ar": "تأمين التقاعد",
+    "en": "pension insurance",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Rente",
+    "ar": "معاش تقاعد",
+    "en": "pension",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Sozialversicherung",
+    "ar": "تأمين اجتماعي",
+    "en": "social insurance",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Sozialleistung",
+    "ar": "إعانة اجتماعية",
+    "en": "social benefit",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Kindergeld",
+    "ar": "إعانة أطفال",
+    "en": "child benefit",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Wohngeld",
+    "ar": "بدل سكن",
+    "en": "housing benefit",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Steuererklärung",
+    "ar": "إقرار ضريبي",
+    "en": "tax return",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Finanzamt",
+    "ar": "مصلحة الضرائب",
+    "en": "tax office",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Steuerklasse",
+    "ar": "فئة ضريبية",
+    "en": "tax class",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Bruttogehalt",
+    "ar": "راتب إجمالي",
+    "en": "gross salary",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Nettogehalt",
+    "ar": "راتب صافٍ",
+    "en": "net salary",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Abzug",
+    "ar": "اقتطاع",
+    "en": "deduction",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Rechnungskopie",
+    "ar": "نسخة فاتورة",
+    "en": "invoice copy",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Bestellnummer",
+    "ar": "رقم الطلب",
+    "en": "order number",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Sendungsnummer",
+    "ar": "رقم تتبع الشحنة",
+    "en": "tracking number",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Versandkosten",
+    "ar": "تكاليف الشحن",
+    "en": "shipping costs",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Lieferzeit",
+    "ar": "مدة التوصيل",
+    "en": "delivery time",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Lieferadresse",
+    "ar": "عنوان التوصيل",
+    "en": "delivery address",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Rechnungsadresse",
+    "ar": "عنوان الفاتورة",
+    "en": "billing address",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "das Rücksendeetikett",
+    "ar": "ملصق الإرجاع",
+    "en": "return label",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "die Rücksendung",
+    "ar": "إعادة إرسال سلعة",
+    "en": "return shipment",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "der Karton",
+    "ar": "صندوق كرتوني",
+    "en": "cardboard box",
+    "topic": "الإعلام والاستهلاك والمعاملات"
+  },
+  {
+    "de": "abbauen",
+    "ar": "يفكّك؛ يقلّل",
+    "en": "to dismantle; to reduce",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abbiegen",
+    "ar": "ينعطف",
+    "en": "to turn",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abbrechen",
+    "ar": "يوقف قبل الإكمال؛ يكسر",
+    "en": "to discontinue; to break off",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abhalten",
+    "ar": "يمنع؛ يقيم فعالية",
+    "en": "to prevent; to hold an event",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abhängen",
+    "ar": "يعتمد على؛ يتدلّى",
+    "en": "to depend on; to hang down",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ablehnen",
+    "ar": "يرفض",
+    "en": "to reject",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ablenken",
+    "ar": "يشتّت الانتباه",
+    "en": "to distract",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ablesen",
+    "ar": "يقرأ من شاشة أو مقياس",
+    "en": "to read off",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abrechnen",
+    "ar": "يسوّي حسابًا",
+    "en": "to settle accounts",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abrufen",
+    "ar": "يسترجع بيانات",
+    "en": "to retrieve",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abschaffen",
+    "ar": "يلغي نظامًا أو عادة",
+    "en": "to abolish",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abschalten",
+    "ar": "يفصل التشغيل",
+    "en": "to switch off",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abschätzen",
+    "ar": "يقدّر",
+    "en": "to estimate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abschicken",
+    "ar": "يرسل",
+    "en": "to send off",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abschneiden",
+    "ar": "يقصّ",
+    "en": "to cut off",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "absichern",
+    "ar": "يؤمّن؛ يحمي",
+    "en": "to secure",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "absprechen",
+    "ar": "يتفق على التفاصيل",
+    "en": "to agree on",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abstimmen",
+    "ar": "يصوّت؛ ينسّق",
+    "en": "to vote; to coordinate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abziehen",
+    "ar": "يخصم؛ يسحب",
+    "en": "to deduct; to pull off",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "akzeptieren",
+    "ar": "يقبل",
+    "en": "to accept",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "analysieren",
+    "ar": "يحلّل",
+    "en": "to analyse",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anerkennen",
+    "ar": "يعترف بـ؛ يقرّ",
+    "en": "to recognise; to acknowledge",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "angeben",
+    "ar": "يذكر بيانات؛ يتباهى",
+    "en": "to state; to show off",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "angehen",
+    "ar": "يتعلق بشخص؛ يعالج مسألة",
+    "en": "to concern; to tackle",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "angreifen",
+    "ar": "يهاجم",
+    "en": "to attack",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anhalten",
+    "ar": "يتوقف؛ يوقف",
+    "en": "to stop",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anheben",
+    "ar": "يرفع",
+    "en": "to lift",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anklagen",
+    "ar": "يتهم قضائيًا",
+    "en": "to charge with an offence",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anknüpfen",
+    "ar": "يربط؛ يتابع من نقطة",
+    "en": "to link; to build on",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anlegen",
+    "ar": "ينشئ؛ يستثمر",
+    "en": "to create; to invest",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "annehmen",
+    "ar": "يقبل؛ يفترض",
+    "en": "to accept; to assume",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anpassen",
+    "ar": "يكيّف",
+    "en": "to adapt",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anregen",
+    "ar": "يحفّز؛ يقترح",
+    "en": "to stimulate; to suggest",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anrichten",
+    "ar": "يسبّب ضررًا؛ يقدّم طعامًا",
+    "en": "to cause damage; to serve food",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anschaffen",
+    "ar": "يقتني",
+    "en": "to acquire",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anschließen",
+    "ar": "يوصل؛ يربط",
+    "en": "to connect",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anschnallen",
+    "ar": "يربط حزام الأمان",
+    "en": "to fasten a seat belt",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ansetzen",
+    "ar": "يحدّد موعدًا؛ يبدأ",
+    "en": "to schedule; to start",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anstreichen",
+    "ar": "يطلي؛ يضع علامة",
+    "en": "to paint; to mark",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "antreiben",
+    "ar": "يدفع إلى العمل",
+    "en": "to drive; to motivate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "anwenden",
+    "ar": "يطبّق",
+    "en": "to apply",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "auffallen",
+    "ar": "يلفت الانتباه",
+    "en": "to stand out",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "auffordern",
+    "ar": "يطلب من شخص أن يفعل",
+    "en": "to ask; to call on",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aufführen",
+    "ar": "يؤدي عرضًا؛ يُدرج",
+    "en": "to perform; to list",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aufheben",
+    "ar": "يلتقط؛ يلغي؛ يحتفظ",
+    "en": "to pick up; to cancel; to keep",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aufklären",
+    "ar": "يوضّح؛ يحقق في",
+    "en": "to clarify; to investigate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "auflösen",
+    "ar": "يحلّ؛ يذيب",
+    "en": "to dissolve; to resolve",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aufregen",
+    "ar": "يثير الانفعال",
+    "en": "to upset; to excite",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "auftreten",
+    "ar": "يظهر؛ يؤدي أمام جمهور",
+    "en": "to occur; to perform",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aufwachsen",
+    "ar": "ينشأ",
+    "en": "to grow up",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aufweisen",
+    "ar": "يُظهر؛ يتصف بـ",
+    "en": "to exhibit; to have",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aufzeichnen",
+    "ar": "يسجّل",
+    "en": "to record",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausbilden",
+    "ar": "يدرّب مهنيًا",
+    "en": "to train",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausbreiten",
+    "ar": "ينشر؛ يبسط",
+    "en": "to spread out",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausdrücken",
+    "ar": "يعبّر عن",
+    "en": "to express",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausfallen",
+    "ar": "يُلغى؛ يتعطّل",
+    "en": "to be cancelled; to fail",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausführen",
+    "ar": "ينفّذ؛ يفصّل",
+    "en": "to carry out; to elaborate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausgehen",
+    "ar": "يخرج للترفيه؛ ينفد",
+    "en": "to go out; to run out",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "aushalten",
+    "ar": "يتحمّل",
+    "en": "to endure",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "auskommen",
+    "ar": "يتدبّر أمره",
+    "en": "to get by",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "auslösen",
+    "ar": "يسبّب؛ يطلق",
+    "en": "to trigger",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausnutzen",
+    "ar": "يستغل",
+    "en": "to exploit",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausreichen",
+    "ar": "يكفي",
+    "en": "to suffice",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausrichten",
+    "ar": "يبلّغ رسالة؛ ينظّم",
+    "en": "to pass on a message; to organise",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausschließen",
+    "ar": "يستبعد",
+    "en": "to exclude",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ausstellen",
+    "ar": "يصدر وثيقة؛ يعرض",
+    "en": "to issue; to exhibit",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "austauschen",
+    "ar": "يتبادل؛ يستبدل",
+    "en": "to exchange",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "auswerten",
+    "ar": "يقيّم بيانات",
+    "en": "to evaluate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich auswirken",
+    "ar": "يؤثر",
+    "en": "to have an effect",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beabsichtigen",
+    "ar": "ينوي",
+    "en": "to intend",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beanstanden",
+    "ar": "يعترض على عيب",
+    "en": "to object to a fault",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beauftragen",
+    "ar": "يكلّف",
+    "en": "to commission",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bedauern",
+    "ar": "يأسف",
+    "en": "to regret",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bedecken",
+    "ar": "يغطّي",
+    "en": "to cover",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bedrohen",
+    "ar": "يهدّد",
+    "en": "to threaten",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beeinflussen",
+    "ar": "يؤثّر على",
+    "en": "to influence",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "befestigen",
+    "ar": "يثبّت",
+    "en": "to fasten",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "befördern",
+    "ar": "يرقّي؛ ينقل",
+    "en": "to promote; to transport",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "befragen",
+    "ar": "يسأل؛ يستجوب",
+    "en": "to question",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "befreien",
+    "ar": "يحرّر",
+    "en": "to free",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "begegnen",
+    "ar": "يلتقي مصادفة",
+    "en": "to encounter",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "begrenzen",
+    "ar": "يحدّ",
+    "en": "to limit",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "begründen",
+    "ar": "يبرّر",
+    "en": "to justify",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beibringen",
+    "ar": "يعلّم شخصًا",
+    "en": "to teach",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beitragen",
+    "ar": "يساهم",
+    "en": "to contribute",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bekämpfen",
+    "ar": "يكافح",
+    "en": "to combat",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beleidigen",
+    "ar": "يهين",
+    "en": "to insult",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "belohnen",
+    "ar": "يكافئ",
+    "en": "to reward",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bemerken",
+    "ar": "يلاحظ",
+    "en": "to notice",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich bemühen",
+    "ar": "يبذل جهدًا",
+    "en": "to make an effort",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "benachrichtigen",
+    "ar": "يُبلغ",
+    "en": "to notify",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "benennen",
+    "ar": "يسمّي",
+    "en": "to name",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beobachten",
+    "ar": "يراقب",
+    "en": "to observe",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "berücksichtigen",
+    "ar": "يأخذ بالحسبان",
+    "en": "to take into account",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beruhigen",
+    "ar": "يهدّئ",
+    "en": "to calm",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beschädigen",
+    "ar": "يتلف",
+    "en": "to damage",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beschäftigen",
+    "ar": "يوظّف؛ يشغل",
+    "en": "to employ; to occupy",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich beschäftigen",
+    "ar": "ينشغل بموضوع",
+    "en": "to engage with",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beschließen",
+    "ar": "يقرّر",
+    "en": "to decide",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beschränken",
+    "ar": "يقيّد",
+    "en": "to restrict",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beschützen",
+    "ar": "يحمي",
+    "en": "to protect",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "besetzen",
+    "ar": "يشغل مكانًا",
+    "en": "to occupy",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "besiegen",
+    "ar": "يهزم",
+    "en": "to defeat",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bestrafen",
+    "ar": "يعاقب",
+    "en": "to punish",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beteiligen",
+    "ar": "يُشرك",
+    "en": "to involve",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich beteiligen",
+    "ar": "يشارك",
+    "en": "to participate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "betonen",
+    "ar": "يؤكّد؛ يشدّد على",
+    "en": "to emphasise",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "betrachten",
+    "ar": "يتأمل؛ ينظر إلى",
+    "en": "to look at; to consider",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "betragen",
+    "ar": "يبلغ مقدارًا",
+    "en": "to amount to",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "betreffen",
+    "ar": "يتعلق بـ؛ يصيب",
+    "en": "to concern; to affect",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "betrügen",
+    "ar": "يغشّ؛ يخدع",
+    "en": "to cheat",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beurteilen",
+    "ar": "يحكم على؛ يقيّم",
+    "en": "to judge",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beweisen",
+    "ar": "يثبت",
+    "en": "to prove",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bewerben",
+    "ar": "يروّج لشيء",
+    "en": "to advertise",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bewerten",
+    "ar": "يقيّم",
+    "en": "to assess",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bewundern",
+    "ar": "يعجب بـ",
+    "en": "to admire",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bezeichnen",
+    "ar": "يسمّي؛ يصف",
+    "en": "to designate; to describe",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "beziehen",
+    "ar": "يحصل على؛ ينتقل إلى سكن",
+    "en": "to obtain; to move into",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bilden",
+    "ar": "يشكّل",
+    "en": "to form",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "binden",
+    "ar": "يربط",
+    "en": "to tie",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "blühen",
+    "ar": "يزهر",
+    "en": "to bloom",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "bremsen",
+    "ar": "يفرمل",
+    "en": "to brake",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "brennen",
+    "ar": "يحترق",
+    "en": "to burn",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "drohen",
+    "ar": "يهدّد",
+    "en": "to threaten",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "durchführen",
+    "ar": "ينفّذ",
+    "en": "to carry out",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "durchhalten",
+    "ar": "يصمد",
+    "en": "to persevere",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "durchlesen",
+    "ar": "يقرأ كاملًا",
+    "en": "to read through",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich eignen",
+    "ar": "يناسب",
+    "en": "to be suitable",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "einführen",
+    "ar": "يُدخل نظامًا؛ يستورد",
+    "en": "to introduce; to import",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "einhalten",
+    "ar": "يلتزم بقاعدة أو موعد",
+    "en": "to comply with; to meet",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich einigen",
+    "ar": "يتفق",
+    "en": "to agree",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "einreichen",
+    "ar": "يقدّم رسميًا",
+    "en": "to submit",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "einschränken",
+    "ar": "يحدّ؛ يقيّد",
+    "en": "to restrict",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "einsetzen",
+    "ar": "يستخدم؛ يعيّن",
+    "en": "to use; to appoint",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich einsetzen",
+    "ar": "يدافع عن قضية",
+    "en": "to stand up for",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "einstellen",
+    "ar": "يوظّف؛ يضبط",
+    "en": "to hire; to adjust",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "einteilen",
+    "ar": "يقسّم؛ يوزّع",
+    "en": "to divide; to allocate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "eintreten",
+    "ar": "يدخل؛ يحدث",
+    "en": "to enter; to occur",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "empfangen",
+    "ar": "يستقبل",
+    "en": "to receive",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "empfinden",
+    "ar": "يشعر بـ",
+    "en": "to feel",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "enthalten",
+    "ar": "يحتوي على",
+    "en": "to contain",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "entlassen",
+    "ar": "يفصل من العمل؛ يخرج من المستشفى",
+    "en": "to dismiss; to discharge",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "entnehmen",
+    "ar": "يأخذ من؛ يستخلص",
+    "en": "to take out; to infer",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "entsprechen",
+    "ar": "يطابق؛ يتوافق مع",
+    "en": "to correspond to",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "enttäuschen",
+    "ar": "يخيّب أمل",
+    "en": "to disappoint",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "entwerfen",
+    "ar": "يصمّم مسودة",
+    "en": "to design; to draft",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erfordern",
+    "ar": "يتطلّب",
+    "en": "to require",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erfüllen",
+    "ar": "يلبّي؛ يحقّق",
+    "en": "to fulfil",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erhöhen",
+    "ar": "يزيد؛ يرفع",
+    "en": "to increase",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich erholen",
+    "ar": "يستريح؛ يتعافى",
+    "en": "to recover; to relax",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich erkundigen",
+    "ar": "يستفسر",
+    "en": "to enquire",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erleben",
+    "ar": "يعيش تجربة",
+    "en": "to experience",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erleichtern",
+    "ar": "يسهّل",
+    "en": "to make easier",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "eröffnen",
+    "ar": "يفتتح",
+    "en": "to open formally",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erschrecken",
+    "ar": "يفزع؛ يُفزع",
+    "en": "to get frightened; to frighten",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "ersparen",
+    "ar": "يوفّر؛ يعفي من",
+    "en": "to save; to spare",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erstellen",
+    "ar": "يعدّ؛ ينشئ",
+    "en": "to prepare; to create",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erwähnen",
+    "ar": "يذكر",
+    "en": "to mention",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erweitern",
+    "ar": "يوسّع",
+    "en": "to expand",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "erziehen",
+    "ar": "يربّي",
+    "en": "to bring up",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "festlegen",
+    "ar": "يحدّد",
+    "en": "to set; to determine",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "finanzieren",
+    "ar": "يموّل",
+    "en": "to finance",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "fördern",
+    "ar": "يدعم؛ يعزّز",
+    "en": "to support; to promote",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "fortsetzen",
+    "ar": "يواصل",
+    "en": "to continue",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "funktionieren",
+    "ar": "يعمل بصورة سليمة",
+    "en": "to function",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "gelten",
+    "ar": "يكون ساريًا؛ يُعتبر",
+    "en": "to apply; to be regarded as",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "genehmigen",
+    "ar": "يوافق رسميًا",
+    "en": "to approve",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "gestalten",
+    "ar": "يشكّل؛ يصمّم",
+    "en": "to design; to shape",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "gewöhnen",
+    "ar": "يعوّد",
+    "en": "to accustom",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich gewöhnen",
+    "ar": "يعتاد",
+    "en": "to get used to",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "gießen",
+    "ar": "يسقي؛ يصبّ",
+    "en": "to water; to pour",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "gründen",
+    "ar": "يؤسّس",
+    "en": "to found; to establish",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "handeln",
+    "ar": "يتصرف؛ يتاجر",
+    "en": "to act; to trade",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "herstellen",
+    "ar": "يصنّع",
+    "en": "to manufacture",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "hinweisen",
+    "ar": "يشير؛ ينبّه",
+    "en": "to point out",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "hinterlassen",
+    "ar": "يترك خلفه",
+    "en": "to leave behind",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "hinzufügen",
+    "ar": "يضيف",
+    "en": "to add",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "informieren",
+    "ar": "يُعلم",
+    "en": "to inform",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich informieren",
+    "ar": "يستعلم",
+    "en": "to get information",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "kritisieren",
+    "ar": "ينتقد",
+    "en": "to criticise",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich kümmern",
+    "ar": "يعتني؛ يهتم",
+    "en": "to take care of",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "leisten",
+    "ar": "ينجز؛ يؤدي",
+    "en": "to perform; to achieve",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "leiten",
+    "ar": "يدير؛ يقود",
+    "en": "to lead; to manage",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "lenken",
+    "ar": "يوجّه",
+    "en": "to steer",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich lohnen",
+    "ar": "يستحق العناء",
+    "en": "to be worthwhile",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "meiden",
+    "ar": "يتجنب",
+    "en": "to avoid",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "melden",
+    "ar": "يبلّغ",
+    "en": "to report",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich melden",
+    "ar": "يتواصل؛ يسجّل حضوره",
+    "en": "to get in touch; to report",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "merken",
+    "ar": "يلاحظ",
+    "en": "to notice",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich merken",
+    "ar": "يحفظ في ذاكرته",
+    "en": "to memorise",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "nachholen",
+    "ar": "يعوّض ما فاته",
+    "en": "to catch up on",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "nachweisen",
+    "ar": "يثبت بالدليل",
+    "en": "to provide evidence",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "nutzen",
+    "ar": "يستفيد من؛ يستخدم",
+    "en": "to use",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "überlegen",
+    "ar": "يفكر في الأمر",
+    "en": "to consider",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "übernehmen",
+    "ar": "يتولى",
+    "en": "to take over",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "überreden",
+    "ar": "يقنع شخصًا بفعل شيء",
+    "en": "to persuade",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "übertreiben",
+    "ar": "يبالغ",
+    "en": "to exaggerate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "überzeugen",
+    "ar": "يقنع",
+    "en": "to convince",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "umgehen",
+    "ar": "يتعامل مع",
+    "en": "to deal with",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "umsetzen",
+    "ar": "ينفّذ",
+    "en": "to implement",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "unterbrechen",
+    "ar": "يقاطع",
+    "en": "to interrupt",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "unterhalten",
+    "ar": "يسلّي؛ يعيل",
+    "en": "to entertain; to support",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich unterhalten",
+    "ar": "يتحادث",
+    "en": "to converse",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "unternehmen",
+    "ar": "يقوم بنشاط",
+    "en": "to undertake",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "unterscheiden",
+    "ar": "يميّز",
+    "en": "to distinguish",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "unterstützen",
+    "ar": "يدعم",
+    "en": "to support",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verabreden",
+    "ar": "يرتب لقاء",
+    "en": "to arrange a meeting",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich verabreden",
+    "ar": "يتواعد",
+    "en": "to arrange to meet",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verabschieden",
+    "ar": "يودّع؛ يقرّ قانونًا",
+    "en": "to say goodbye; to pass a law",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich verabschieden",
+    "ar": "يودّع",
+    "en": "to say goodbye",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verändern",
+    "ar": "يغيّر",
+    "en": "to change",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "veranstalten",
+    "ar": "ينظّم فعالية",
+    "en": "to organise an event",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verbinden",
+    "ar": "يربط؛ يوصل",
+    "en": "to connect",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verbrauchen",
+    "ar": "يستهلك",
+    "en": "to consume",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verbringen",
+    "ar": "يقضي وقتًا",
+    "en": "to spend time",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verhandeln",
+    "ar": "يتفاوض",
+    "en": "to negotiate",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verhindern",
+    "ar": "يمنع وقوع",
+    "en": "to prevent",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verlangen",
+    "ar": "يطالب بـ",
+    "en": "to demand",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verlängern",
+    "ar": "يمدّد",
+    "en": "to extend",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verlassen",
+    "ar": "يغادر؛ يترك",
+    "en": "to leave",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "sich verlassen",
+    "ar": "يعتمد على شخص",
+    "en": "to rely on",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "vermeiden",
+    "ar": "يتجنب",
+    "en": "to avoid",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "vermuten",
+    "ar": "يظنّ",
+    "en": "to suspect; to assume",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verpassen",
+    "ar": "يفوّت",
+    "en": "to miss",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verpflichten",
+    "ar": "يلزم",
+    "en": "to oblige",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verraten",
+    "ar": "يفشي؛ يخون",
+    "en": "to reveal; to betray",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verschmutzen",
+    "ar": "يلوّث",
+    "en": "to pollute",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "versichern",
+    "ar": "يؤمّن؛ يؤكّد",
+    "en": "to insure; to assure",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "versorgen",
+    "ar": "يزوّد؛ يرعى",
+    "en": "to supply; to care for",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verstecken",
+    "ar": "يخفي",
+    "en": "to hide",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verteilen",
+    "ar": "يوزّع",
+    "en": "to distribute",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "vertreten",
+    "ar": "يمثّل؛ ينوب عن",
+    "en": "to represent",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verursachen",
+    "ar": "يسبّب",
+    "en": "to cause",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verwenden",
+    "ar": "يستخدم",
+    "en": "to use",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "verzichten",
+    "ar": "يتنازل عن",
+    "en": "to do without; to forgo",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "vorhaben",
+    "ar": "ينوي",
+    "en": "to intend",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "vorlesen",
+    "ar": "يقرأ بصوت مسموع",
+    "en": "to read aloud",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "vorschlagen",
+    "ar": "يقترح",
+    "en": "to suggest",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "warnen",
+    "ar": "يحذّر",
+    "en": "to warn",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "widersprechen",
+    "ar": "يعارض كلامًا",
+    "en": "to contradict",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "wiedererkennen",
+    "ar": "يتعرّف مجددًا",
+    "en": "to recognise again",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "wirken",
+    "ar": "يؤثّر؛ يبدو",
+    "en": "to have an effect; to seem",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "wünschen",
+    "ar": "يتمنى",
+    "en": "to wish",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zerstören",
+    "ar": "يدمّر",
+    "en": "to destroy",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zugeben",
+    "ar": "يعترف",
+    "en": "to admit",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zulassen",
+    "ar": "يسمح؛ يقبل",
+    "en": "to allow; to admit",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zunehmen",
+    "ar": "يزداد؛ يزيد وزنه",
+    "en": "to increase; to gain weight",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zusagen",
+    "ar": "يوافق؛ يعد",
+    "en": "to agree; to promise",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zusammenfassen",
+    "ar": "يلخّص",
+    "en": "to summarise",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zustimmen",
+    "ar": "يوافق على رأي",
+    "en": "to agree",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "zweifeln",
+    "ar": "يشكّ",
+    "en": "to doubt",
+    "topic": "أفعال الرأي والتعامل والعمل"
+  },
+  {
+    "de": "abhängig",
+    "ar": "معتمد على؛ تابع",
+    "en": "dependent",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "abwesend",
+    "ar": "غائب",
+    "en": "absent",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "aktiv",
+    "ar": "نشط",
+    "en": "active",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "allgemein",
+    "ar": "عام",
+    "en": "general",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "anwesend",
+    "ar": "حاضر",
+    "en": "present",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "aufregend",
+    "ar": "مثير",
+    "en": "exciting",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "aufrichtig",
+    "ar": "صادق؛ مخلص",
+    "en": "sincere",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "äußerlich",
+    "ar": "خارجي؛ ظاهري",
+    "en": "external",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "begeistert",
+    "ar": "متحمّس",
+    "en": "enthusiastic",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "begabt",
+    "ar": "موهوب",
+    "en": "talented",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "beleidigt",
+    "ar": "مستاء من إهانة",
+    "en": "offended",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "bemerkenswert",
+    "ar": "جدير بالملاحظة",
+    "en": "remarkable",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "bescheiden",
+    "ar": "متواضع",
+    "en": "modest",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "besorgt",
+    "ar": "قلق على شيء",
+    "en": "concerned",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "bewusst",
+    "ar": "واعٍ",
+    "en": "conscious",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "böse",
+    "ar": "غاضب؛ شرير",
+    "en": "angry; evil",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "charmant",
+    "ar": "جذّاب في التعامل",
+    "en": "charming",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "dankbar",
+    "ar": "ممتنّ",
+    "en": "grateful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "ehrgeizig",
+    "ar": "طموح",
+    "en": "ambitious",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "eifersüchtig",
+    "ar": "غيور",
+    "en": "jealous",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "empfindlich",
+    "ar": "حسّاس",
+    "en": "sensitive",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "entschlossen",
+    "ar": "عازم",
+    "en": "determined",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "enttäuscht",
+    "ar": "خائب الأمل",
+    "en": "disappointed",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "erleichtert",
+    "ar": "مرتاح بعد قلق",
+    "en": "relieved",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "erstaunt",
+    "ar": "مندهش",
+    "en": "astonished",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "fair",
+    "ar": "عادل",
+    "en": "fair",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "fähig",
+    "ar": "قادر",
+    "en": "capable",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "flexibel",
+    "ar": "مرن",
+    "en": "flexible",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "freiwillig",
+    "ar": "طوعي",
+    "en": "voluntary",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "fröhlich",
+    "ar": "مرح",
+    "en": "cheerful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "geduldig",
+    "ar": "صبور",
+    "en": "patient",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "geschickt",
+    "ar": "ماهر",
+    "en": "skilful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "gesellig",
+    "ar": "اجتماعي",
+    "en": "sociable",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "gewöhnt",
+    "ar": "معتاد",
+    "en": "accustomed",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "gleichgültig",
+    "ar": "غير مبالٍ",
+    "en": "indifferent",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "großzügig",
+    "ar": "كريم",
+    "en": "generous",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "gründlich",
+    "ar": "دقيق؛ شامل",
+    "en": "thorough",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "humorvoll",
+    "ar": "مرح؛ ذو حسّ فكاهي",
+    "en": "humorous",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "innerlich",
+    "ar": "داخلي؛ نفسي",
+    "en": "inward",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "intelligent",
+    "ar": "ذكي",
+    "en": "intelligent",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "kritisch",
+    "ar": "ناقد؛ حرج",
+    "en": "critical",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "lebendig",
+    "ar": "حيّ؛ مفعم بالحيوية",
+    "en": "lively",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "leidenschaftlich",
+    "ar": "شغوف",
+    "en": "passionate",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "logisch",
+    "ar": "منطقي",
+    "en": "logical",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "merkwürdig",
+    "ar": "غريب",
+    "en": "peculiar",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "misstrauisch",
+    "ar": "مرتاب",
+    "en": "distrustful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "mutig",
+    "ar": "شجاع",
+    "en": "brave",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "nachdenklich",
+    "ar": "متأمّل",
+    "en": "thoughtful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "neidisch",
+    "ar": "حسود",
+    "en": "envious",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "neugierig",
+    "ar": "فضولي",
+    "en": "curious",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "nützlich",
+    "ar": "مفيد",
+    "en": "useful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "oberflächlich",
+    "ar": "سطحي",
+    "en": "superficial",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "optimistisch",
+    "ar": "متفائل",
+    "en": "optimistic",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "ordentlich",
+    "ar": "مرتّب",
+    "en": "tidy",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "peinlich",
+    "ar": "محرج",
+    "en": "embarrassing",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "pessimistisch",
+    "ar": "متشائم",
+    "en": "pessimistic",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "positiv",
+    "ar": "إيجابي",
+    "en": "positive",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "realistisch",
+    "ar": "واقعي",
+    "en": "realistic",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "rücksichtsvoll",
+    "ar": "مراعٍ للآخرين",
+    "en": "considerate",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "sachlich",
+    "ar": "موضوعي",
+    "en": "objective",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "schüchtern",
+    "ar": "خجول",
+    "en": "shy",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "selbstbewusst",
+    "ar": "واثق بنفسه",
+    "en": "self-confident",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "sensibel",
+    "ar": "مرهف الإحساس",
+    "en": "sensitive",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "sinnvoll",
+    "ar": "مفيد؛ ذو معنى",
+    "en": "meaningful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "sorgfältig",
+    "ar": "متأنٍّ؛ دقيق",
+    "en": "careful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "spannend",
+    "ar": "مشوّق",
+    "en": "exciting",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "stolz",
+    "ar": "فخور",
+    "en": "proud",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "streng",
+    "ar": "صارم",
+    "en": "strict",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "sympathisch",
+    "ar": "لطيف ومحبوب",
+    "en": "likeable",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "tapfer",
+    "ar": "شجاع في الشدائد",
+    "en": "courageous",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "tolerant",
+    "ar": "متسامح",
+    "en": "tolerant",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "überrascht",
+    "ar": "متفاجئ",
+    "en": "surprised",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "überzeugt",
+    "ar": "مقتنع",
+    "en": "convinced",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "unabhängig",
+    "ar": "مستقلّ",
+    "en": "independent",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "unangenehm",
+    "ar": "مزعج؛ غير مريح",
+    "en": "unpleasant",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "unbewusst",
+    "ar": "غير واعٍ",
+    "en": "unconscious",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "unfair",
+    "ar": "غير عادل",
+    "en": "unfair",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "ungeduldig",
+    "ar": "غير صبور",
+    "en": "impatient",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "ungerecht",
+    "ar": "ظالم",
+    "en": "unjust",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "unhöflich",
+    "ar": "غير مهذّب",
+    "en": "impolite",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "unsicher",
+    "ar": "غير واثق؛ غير آمن",
+    "en": "uncertain; unsafe",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "unzufrieden",
+    "ar": "غير راضٍ",
+    "en": "dissatisfied",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "verantwortlich",
+    "ar": "مسؤول",
+    "en": "responsible",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "verlegen",
+    "ar": "مرتبك؛ خجلان",
+    "en": "embarrassed",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "vernünftig",
+    "ar": "عاقل؛ معقول",
+    "en": "sensible",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "vertraut",
+    "ar": "مألوف",
+    "en": "familiar",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "verwirrt",
+    "ar": "مشوّش؛ حائر",
+    "en": "confused",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "vorsichtig",
+    "ar": "حذر",
+    "en": "cautious",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "wertvoll",
+    "ar": "قيّم",
+    "en": "valuable",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "wütend",
+    "ar": "غاضب بشدّة",
+    "en": "furious",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "zuverlässig",
+    "ar": "جدير بالثقة",
+    "en": "reliable",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "zuversichtlich",
+    "ar": "واثق من نتيجة جيدة",
+    "en": "confident",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "zweifelhaft",
+    "ar": "مشكوك فيه",
+    "en": "doubtful",
+    "topic": "صفات الرأي والشخصية والمشاعر"
+  },
+  {
+    "de": "aktuell",
+    "ar": "حالي؛ حديث",
+    "en": "current",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "alternativ",
+    "ar": "بديل",
+    "en": "alternative",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "angemessen",
+    "ar": "مناسب",
+    "en": "appropriate",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "anspruchsvoll",
+    "ar": "متطلّب؛ صعب",
+    "en": "demanding",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ärztlich",
+    "ar": "طبّي",
+    "en": "medical",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "auffällig",
+    "ar": "لافت للنظر",
+    "en": "conspicuous",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ausführlich",
+    "ar": "مفصّل",
+    "en": "detailed",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ausgeglichen",
+    "ar": "متّزن",
+    "en": "balanced",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "automatisch",
+    "ar": "آلي",
+    "en": "automatic",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "beweglich",
+    "ar": "قابل للحركة",
+    "en": "movable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "brauchbar",
+    "ar": "صالح للاستخدام",
+    "en": "usable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "dauerhaft",
+    "ar": "دائم",
+    "en": "permanent",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "dicht",
+    "ar": "كثيف؛ محكم",
+    "en": "dense; sealed",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "digital",
+    "ar": "رقمي",
+    "en": "digital",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "doppelt",
+    "ar": "مضاعف",
+    "en": "double",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "durchschnittlich",
+    "ar": "متوسّط",
+    "en": "average",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ehemalig",
+    "ar": "سابق",
+    "en": "former",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "einheitlich",
+    "ar": "موحّد",
+    "en": "uniform",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "einmalig",
+    "ar": "فريد؛ لمرّة واحدة",
+    "en": "unique; one-time",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "elektrisch",
+    "ar": "كهربائي",
+    "en": "electric",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "endgültig",
+    "ar": "نهائي",
+    "en": "final",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "entscheidend",
+    "ar": "حاسم",
+    "en": "decisive",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "erforderlich",
+    "ar": "ضروري",
+    "en": "required",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "erhältlich",
+    "ar": "متاح للشراء",
+    "en": "available for purchase",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "erkennbar",
+    "ar": "يمكن التعرّف عليه",
+    "en": "recognisable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ernsthaft",
+    "ar": "جادّ",
+    "en": "serious",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "erstaunlich",
+    "ar": "مدهش",
+    "en": "amazing",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "finanziell",
+    "ar": "مالي",
+    "en": "financial",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "flach",
+    "ar": "مسطّح؛ ضحل",
+    "en": "flat; shallow",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "fließend",
+    "ar": "بطلاقة؛ جارٍ",
+    "en": "fluent; flowing",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "förmlich",
+    "ar": "رسمي في التعامل",
+    "en": "formal",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "gebraucht",
+    "ar": "مستعمل",
+    "en": "used",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "geeignet",
+    "ar": "ملائم",
+    "en": "suitable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "gegenseitig",
+    "ar": "متبادل",
+    "en": "mutual",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "gemeinsam",
+    "ar": "مشترك",
+    "en": "shared",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "gesetzlich",
+    "ar": "قانوني؛ منصوص عليه بالقانون",
+    "en": "statutory",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "gespannt",
+    "ar": "مترقّب",
+    "en": "eager to find out",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "gesundheitlich",
+    "ar": "متعلّق بالصحّة",
+    "en": "health-related",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "giftig",
+    "ar": "سامّ",
+    "en": "poisonous",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "global",
+    "ar": "عالمي",
+    "en": "global",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "haltbar",
+    "ar": "قابل للحفظ؛ متين",
+    "en": "durable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "häufig",
+    "ar": "متكرّر",
+    "en": "frequent",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "heimisch",
+    "ar": "محلّي؛ من المنطقة",
+    "en": "native",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "heutig",
+    "ar": "خاصّ باليوم",
+    "en": "today's",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "historisch",
+    "ar": "تاريخي",
+    "en": "historical",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "hochwertig",
+    "ar": "عالي الجودة",
+    "en": "high-quality",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "kaufmännisch",
+    "ar": "تجاري؛ إداري تجاري",
+    "en": "commercial",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "knapp",
+    "ar": "قليل؛ بالكاد كافٍ",
+    "en": "scarce",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "körperlich",
+    "ar": "جسدي",
+    "en": "physical",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "künstlich",
+    "ar": "اصطناعي",
+    "en": "artificial",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "langfristig",
+    "ar": "طويل الأمد",
+    "en": "long-term",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "lebenswichtig",
+    "ar": "حيوي؛ ضروري للحياة",
+    "en": "vital",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "locker",
+    "ar": "فضفاض؛ غير مشدود",
+    "en": "loose",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "mangelhaft",
+    "ar": "ناقص؛ غير كافٍ",
+    "en": "deficient",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "mehrsprachig",
+    "ar": "متعدّد اللغات",
+    "en": "multilingual",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "menschlich",
+    "ar": "إنساني؛ بشري",
+    "en": "human",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "minderjährig",
+    "ar": "قاصر",
+    "en": "underage",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "monatlich",
+    "ar": "شهري",
+    "en": "monthly",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "mündlich",
+    "ar": "شفهي",
+    "en": "oral",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "nachhaltig",
+    "ar": "مستدام",
+    "en": "sustainable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "negativ",
+    "ar": "سلبي",
+    "en": "negative",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "örtlich",
+    "ar": "محلّي",
+    "en": "local",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "politisch",
+    "ar": "سياسي",
+    "en": "political",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "regional",
+    "ar": "إقليمي",
+    "en": "regional",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "rein",
+    "ar": "نقي",
+    "en": "pure",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "religiös",
+    "ar": "ديني",
+    "en": "religious",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "riesig",
+    "ar": "ضخم",
+    "en": "huge",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "roh",
+    "ar": "نيّئ؛ خام",
+    "en": "raw",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "rund",
+    "ar": "دائري؛ نحو",
+    "en": "round; approximately",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "schädlich",
+    "ar": "ضارّ",
+    "en": "harmful",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "schriftlich",
+    "ar": "كتابي",
+    "en": "written",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "schrittweise",
+    "ar": "تدريجي",
+    "en": "step-by-step",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "schuldig",
+    "ar": "مذنب",
+    "en": "guilty",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "selten",
+    "ar": "نادر",
+    "en": "rare",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "sichtbar",
+    "ar": "مرئي",
+    "en": "visible",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "sozial",
+    "ar": "اجتماعي",
+    "en": "social",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "staatlich",
+    "ar": "حكومي",
+    "en": "governmental",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ständig",
+    "ar": "مستمرّ",
+    "en": "constant",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "steil",
+    "ar": "شديد الانحدار",
+    "en": "steep",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "stumm",
+    "ar": "صامت؛ أبكم",
+    "en": "silent; mute",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "technisch",
+    "ar": "تقني",
+    "en": "technical",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "teilweise",
+    "ar": "جزئيًا",
+    "en": "partly",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "typisch",
+    "ar": "نموذجي؛ مميّز",
+    "en": "typical",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "überflüssig",
+    "ar": "زائد عن الحاجة",
+    "en": "unnecessary",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "üblich",
+    "ar": "شائع؛ متعارف عليه",
+    "en": "customary",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "umweltfreundlich",
+    "ar": "صديق للبيئة",
+    "en": "environmentally friendly",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unbedingt",
+    "ar": "حتماً؛ بكلّ تأكيد",
+    "en": "definitely",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unbegrenzt",
+    "ar": "غير محدود",
+    "en": "unlimited",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unbekannt",
+    "ar": "مجهول",
+    "en": "unknown",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unendlich",
+    "ar": "لا نهائي",
+    "en": "infinite",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unerwartet",
+    "ar": "غير متوقّع",
+    "en": "unexpected",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ungewöhnlich",
+    "ar": "غير معتاد",
+    "en": "unusual",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "ungültig",
+    "ar": "غير صالح",
+    "en": "invalid",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unnötig",
+    "ar": "غير ضروري",
+    "en": "unnecessary",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unterschiedlich",
+    "ar": "مختلف",
+    "en": "different",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unverletzt",
+    "ar": "دون إصابة",
+    "en": "uninjured",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "unverständlich",
+    "ar": "غير مفهوم",
+    "en": "incomprehensible",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "verfügbar",
+    "ar": "متاح",
+    "en": "available",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "vergleichbar",
+    "ar": "قابل للمقارنة",
+    "en": "comparable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "vergeblich",
+    "ar": "دون جدوى",
+    "en": "in vain",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "vermutlich",
+    "ar": "على الأرجح",
+    "en": "presumably",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "verständlich",
+    "ar": "مفهوم",
+    "en": "understandable",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "volljährig",
+    "ar": "بالغ قانونيًا",
+    "en": "of legal age",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "vollständig",
+    "ar": "كامل",
+    "en": "complete",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "vorläufig",
+    "ar": "مؤقّت؛ أوّلي",
+    "en": "provisional",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "voraussichtlich",
+    "ar": "على الأرجح بحسب التوقّعات",
+    "en": "probably; as expected",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "vorhanden",
+    "ar": "موجود",
+    "en": "available; present",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "wesentlich",
+    "ar": "جوهري",
+    "en": "essential",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "wirtschaftlich",
+    "ar": "اقتصادي",
+    "en": "economic",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "zahlreich",
+    "ar": "كثير العدد",
+    "en": "numerous",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "zukünftig",
+    "ar": "مستقبلي",
+    "en": "future",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "zusätzlich",
+    "ar": "إضافي",
+    "en": "additional",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "zuständig",
+    "ar": "مختصّ؛ مسؤول عن أمر",
+    "en": "responsible for",
+    "topic": "صفات العمل والمجتمع والأشياء"
+  },
+  {
+    "de": "allerdings",
+    "ar": "لكن؛ بالفعل",
+    "en": "however; indeed",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "allmählich",
+    "ar": "تدريجيًا",
+    "en": "gradually",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "andernfalls",
+    "ar": "وإلّا",
+    "en": "otherwise",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "anfangs",
+    "ar": "في البداية",
+    "en": "initially",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "anschließend",
+    "ar": "بعد ذلك",
+    "en": "afterwards",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "ansonsten",
+    "ar": "بخلاف ذلك",
+    "en": "otherwise",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "außerdem",
+    "ar": "بالإضافة إلى ذلك",
+    "en": "besides",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "beinahe",
+    "ar": "تقريبًا؛ كاد",
+    "en": "almost",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "bereits",
+    "ar": "بالفعل؛ من قبل",
+    "en": "already",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "bisher",
+    "ar": "حتى الآن",
+    "en": "so far",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "dadurch",
+    "ar": "بذلك؛ نتيجة لذلك",
+    "en": "thereby",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "dagegen",
+    "ar": "ضدّ ذلك؛ بالمقابل",
+    "en": "against it; in contrast",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "daher",
+    "ar": "لذلك؛ من هناك",
+    "en": "therefore; from there",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "damals",
+    "ar": "آنذاك",
+    "en": "back then",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "daraufhin",
+    "ar": "عقب ذلك",
+    "en": "thereupon",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "darüber hinaus",
+    "ar": "علاوة على ذلك",
+    "en": "furthermore",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "demnächst",
+    "ar": "قريبًا",
+    "en": "soon",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "dennoch",
+    "ar": "مع ذلك",
+    "en": "nevertheless",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "deswegen",
+    "ar": "لهذا السبب",
+    "en": "for that reason",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "diesmal",
+    "ar": "هذه المرّة",
+    "en": "this time",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "dorthin",
+    "ar": "إلى هناك",
+    "en": "to there",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "draußen",
+    "ar": "في الخارج",
+    "en": "outside",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "ebenfalls",
+    "ar": "أيضًا",
+    "en": "likewise",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "eher",
+    "ar": "بالأحرى؛ أبكر",
+    "en": "rather; earlier",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "einerseits",
+    "ar": "من جهة",
+    "en": "on the one hand",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "andererseits",
+    "ar": "من جهة أخرى",
+    "en": "on the other hand",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "entweder",
+    "ar": "إمّا",
+    "en": "either",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "erstens",
+    "ar": "أوّلًا",
+    "en": "firstly",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "eventuell",
+    "ar": "ربّما",
+    "en": "possibly",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "falls",
+    "ar": "في حال",
+    "en": "if",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "folglich",
+    "ar": "بالتالي",
+    "en": "consequently",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "frühestens",
+    "ar": "في أقرب وقت ممكن",
+    "en": "at the earliest",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "ganzjährig",
+    "ar": "على مدار السنة",
+    "en": "year-round",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "gelegentlich",
+    "ar": "أحيانًا",
+    "en": "occasionally",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "genauso",
+    "ar": "بالطريقة نفسها",
+    "en": "in the same way",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "gleichfalls",
+    "ar": "بالمثل",
+    "en": "likewise",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "grundsätzlich",
+    "ar": "من حيث المبدأ",
+    "en": "in principle",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "heutzutage",
+    "ar": "في الوقت الحاضر",
+    "en": "nowadays",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "immerhin",
+    "ar": "على الأقلّ؛ ومع ذلك",
+    "en": "at least; after all",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "inzwischen",
+    "ar": "في هذه الأثناء",
+    "en": "meanwhile",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "irgendwann",
+    "ar": "في وقت ما",
+    "en": "sometime",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "irgendwo",
+    "ar": "في مكان ما",
+    "en": "somewhere",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "jedenfalls",
+    "ar": "على أيّ حال",
+    "en": "in any case",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "jedoch",
+    "ar": "غير أنّ؛ لكن",
+    "en": "however",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "jeweils",
+    "ar": "في كلّ حالة؛ لكلّ مرّة",
+    "en": "in each case",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "kaum",
+    "ar": "بالكاد",
+    "en": "hardly",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "künftig",
+    "ar": "في المستقبل",
+    "en": "in future",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "längst",
+    "ar": "منذ وقت طويل",
+    "en": "long since",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "mehrmals",
+    "ar": "عدّة مرّات",
+    "en": "several times",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "mittlerweile",
+    "ar": "في هذه الأثناء؛ الآن",
+    "en": "by now",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "möglicherweise",
+    "ar": "ربّما؛ من المحتمل",
+    "en": "possibly",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "nämlich",
+    "ar": "إذ؛ أي",
+    "en": "namely; you see",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "nebenbei",
+    "ar": "بجانب ذلك",
+    "en": "on the side",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "neuerdings",
+    "ar": "مؤخّرًا على نحو جديد",
+    "en": "recently",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "nirgendwo",
+    "ar": "لا في أيّ مكان",
+    "en": "nowhere",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "nun",
+    "ar": "الآن",
+    "en": "now",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "obwohl",
+    "ar": "رغم أنّ",
+    "en": "although",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "offenbar",
+    "ar": "على ما يبدو",
+    "en": "apparently",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "rückwärts",
+    "ar": "إلى الخلف",
+    "en": "backwards",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "schließlich",
+    "ar": "أخيرًا؛ في نهاية المطاف",
+    "en": "finally",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "seitdem",
+    "ar": "منذ ذلك الحين",
+    "en": "since then",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "sobald",
+    "ar": "بمجرّد أن",
+    "en": "as soon as",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "solange",
+    "ar": "طالما",
+    "en": "as long as",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "spätestens",
+    "ar": "على أبعد تقدير",
+    "en": "at the latest",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "stattdessen",
+    "ar": "بدلًا من ذلك",
+    "en": "instead",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "stets",
+    "ar": "دائمًا",
+    "en": "always",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "tatsächlich",
+    "ar": "في الواقع",
+    "en": "actually",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "übrigens",
+    "ar": "بالمناسبة",
+    "en": "by the way",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "ursprünglich",
+    "ar": "في الأصل",
+    "en": "originally",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "vorerst",
+    "ar": "في الوقت الحالي",
+    "en": "for the time being",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "vorher",
+    "ar": "قبل ذلك",
+    "en": "beforehand",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "vorhin",
+    "ar": "قبل قليل",
+    "en": "a short while ago",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "vorwärts",
+    "ar": "إلى الأمام",
+    "en": "forwards",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "währenddessen",
+    "ar": "في تلك الأثناء",
+    "en": "meanwhile",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "wenigstens",
+    "ar": "على الأقلّ",
+    "en": "at least",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "weshalb",
+    "ar": "لماذا؛ ولهذا",
+    "en": "why; for which reason",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "wiederum",
+    "ar": "بدوره؛ من جديد",
+    "en": "in turn; again",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "zunächst",
+    "ar": "في البداية",
+    "en": "initially",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "zugleich",
+    "ar": "في الوقت نفسه",
+    "en": "simultaneously",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "zumindest",
+    "ar": "على الأقلّ",
+    "en": "at least",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "zunehmend",
+    "ar": "بشكل متزايد",
+    "en": "increasingly",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "zwar",
+    "ar": "صحيح أنّ",
+    "en": "admittedly",
+    "topic": "ظروف وروابط للتعبير"
+  },
+  {
+    "de": "zweifellos",
+    "ar": "بلا شكّ",
+    "en": "undoubtedly",
+    "topic": "ظروف وروابط للتعبير"
+  }
+]
